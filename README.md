@@ -1,8 +1,6 @@
 ## Welcome to NintyConservation
 
-You can use the [editor on GitHub](https://github.com/nintyconservation/nintyconservation.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are a team dedicated to sharing and preserving everything rare that is Ninty-related.
 
 ### Available pages
 
