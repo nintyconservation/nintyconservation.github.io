@@ -1,0 +1,23 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.wikimedia.org	TRUE	/	FALSE	1999999999	GeoIP	IT:72:Naples:40.85:14.27:v4
+.bulbagarden.net	TRUE	/	FALSE	1999999999	__cfduid	dcddb64fbed4b2d4049470def5fc7262c1602883499
+bulbapedia.bulbagarden.net	TRUE	/	FALSE	1999999999	SameSite	Lax
+.pic-upload.de	TRUE	/	FALSE	1999999999	__cfduid	d729bee0a308b83041cebb0c17321c90d1602883628
+www11.pic-upload.de	TRUE	/	FALSE	1999999999	SameSite	Lax
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	17-Oct-2020
+commons.m.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	17-Oct-2020
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	ss0-commonswikiSession	t2a9mv8j4gs10t9bchi0dkttrmj9g0r9
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	commonswikiSession	t2a9mv8j4gs10t9bchi0dkttrmj9g0r9
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	SameSite	None
+.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access-Global	17-Oct-2020
+bulba-ad-host-website.azurewebsites.net	TRUE	/	FALSE	1999999999	ARRAffinity	d9845ebb1f14a83096918a32a7ffc7c31433692650e8c3eba3790422773666f8
+ahost.bulbagarden.net	TRUE	/	FALSE	1999999999	ARRAffinity	d9845ebb1f14a83096918a32a7ffc7c31433692650e8c3eba3790422773666f8
+bulbapedia.bulbagarden.net	TRUE	/	FALSE	1999999999	themozz_mediawiki_session	8adrib6v6nq1irhcmhfjonlci6end0c2
+.creativecommons.org	TRUE	/	FALSE	1999999999	__cfduid	da3ee30ee99f3d668fb31b9b9c751a6951602927585
+creativecommons.org	TRUE	/	FALSE	1999999999	SameSite	Lax
+glitchcity.wiki	TRUE	/	FALSE	1999999999	mediawiki_session	59rjghegmd4rvpdi7g02m9ts1mr1fud1
+archives.bulbagarden.net	TRUE	/	FALSE	1999999999	themozz_archwiki_session	8ra7oet17lkgtijjb9erpebg485ndb7e
+.glitchcity.wiki	TRUE	/	FALSE	1999999999	__cfduid	d8be71ca487ca4a258c79a8073a0643501602940500
+glitchcity.wiki	TRUE	/	FALSE	1999999999	SameSite	Lax
+

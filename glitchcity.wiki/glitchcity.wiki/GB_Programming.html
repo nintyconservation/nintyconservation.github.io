@@ -1,0 +1,1827 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+
+<!-- Mirrored from glitchcity.wiki/GB_Programming by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 16 Oct 2020 20:39:10 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+<meta charset="UTF-8" />
+<title>GB Programming - Glitch City Wiki</title>
+<script src="cdn-cgi/apps/head/TVJhTom-oMvagx6X31REykU34Zo.js"></script><script>document.documentElement.className="client-js";RLCONF={"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"GB_Programming","wgTitle":"GB Programming","wgCurRevisionId":6972,"wgRevisionId":6972,"wgArticleId":6972,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Arbitrary code execution","Reference documents"],"wgBreakFrames":!1,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"GB_Programming","wgRelevantArticleId":6972,"wgRequestId":"85714119b70b4ebcfa5f8d49","wgCSPNonce":!1,"wgIsProbablyEditable":!1,
+"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":[],"wgRestrictionMove":[]};RLSTATE={"site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","mediawiki.skinning.interface":"ready","mediawiki.skinning.content.externallinks":"ready","skins.monobook.responsive":"ready"};RLPAGEMODULES=["site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","skins.monobook.mobile"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.tokens@tffin",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="load5aea.css?lang=en&amp;modules=mediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.content.externallinks%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.monobook.responsive&amp;only=styles&amp;skin=monobook" />
+<script async="" src="load2418.php?lang=en&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=monobook"></script>
+<!--[if lt IE 9]><link rel="stylesheet" href="/skins/MonoBook/resources/screen-desktop.css?74a6a" media="screen"/><![endif]--><!--[if IE 6]><link rel="stylesheet" href="/skins/MonoBook/resources/IE60Fixes.css?1208f" media="screen"/><![endif]--><!--[if IE 7]><link rel="stylesheet" href="/skins/MonoBook/resources/IE70Fixes.css?4e4d4" media="screen"/><![endif]-->
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="loaddca0.css?lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=monobook" />
+<meta name="generator" content="MediaWiki 1.34.2" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0" />
+<link rel="shortcut icon" href="Favicon.html" />
+<link rel="search" type="application/opensearchdescription+xml" href="opensearch_desc.php" title="Glitch City Wiki (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="api-result251f.xml?action=rsd" />
+<link rel="alternate" type="application/atom+xml" title="Glitch City Wiki Atom feed" href="feeda295.xml?title=Special:RecentChanges&amp;feed=atom" />
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-GB_Programming rootpage-GB_Programming skin-monobook action-view"><div id="globalWrapper"><div id="column-content"><div id="content" class="mw-body" role="main"><a id="top"></a><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">GB Programming</h1><div id="bodyContent" class="mw-body-content"><div id="siteSub">From Glitch City Wiki</div><div id="contentSub" lang="en" dir="ltr"></div><div id="jump-to-nav"></div><a href="#column-one" class="mw-jump-link">Jump to navigation</a><a href="#searchInput" class="mw-jump-link">Jump to search</a><div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>Welcome to this tutorial! The purpose of this page is to allow everyone to program anything on a Game Boy. This may sound complex, but the Game Boy is a very well-documented system, and programming for it can be learned quite easily.
+</p><p>Our goal will first be to create <a href="Arbitrary_code_execution.html" title="Arbitrary code execution">arbitrary code execution</a> programs, but later sections of this tutorial will give you tools for more general-purpose programming, so you'll be able to create your own games.
+</p><p>Let's get started!
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#A_new_world"><span class="tocnumber">1</span> <span class="toctext">A new world</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Numeric_systems"><span class="tocnumber">1.1</span> <span class="toctext">Numeric systems</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#A_dip_into_technical_information"><span class="tocnumber">2</span> <span class="toctext">A dip into technical information</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Registers"><span class="tocnumber">2.1</span> <span class="toctext">Registers</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Negative_numbers"><span class="tocnumber">2.2</span> <span class="toctext">Negative numbers</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Memory"><span class="tocnumber">2.3</span> <span class="toctext">Memory</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Flags"><span class="tocnumber">3</span> <span class="toctext">Flags</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Z_:_Zero"><span class="tocnumber">3.1</span> <span class="toctext">Z&#160;: Zero</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#H_:_Half-Carry"><span class="tocnumber">3.2</span> <span class="toctext">H&#160;: Half-Carry</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#N_:_Add.2FSubtract"><span class="tocnumber">3.3</span> <span class="toctext">N&#160;: Add/Subtract</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#C_:_Carry"><span class="tocnumber">3.4</span> <span class="toctext">C&#160;: Carry</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-12"><a href="#Manipulating_data"><span class="tocnumber">4</span> <span class="toctext">Manipulating data</span></a>
+<ul>
+<li class="toclevel-2 tocsection-13"><a href="#Instructions_get.21"><span class="tocnumber">4.1</span> <span class="toctext">Instructions get!</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Overflow"><span class="tocnumber">4.2</span> <span class="toctext">Overflow</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Register_pairs_and_RAM"><span class="tocnumber">4.3</span> <span class="toctext">Register pairs and RAM</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Stacks"><span class="tocnumber">5</span> <span class="toctext">Stacks</span></a>
+<ul>
+<li class="toclevel-2 tocsection-17"><a href="#A_stack.3F_Can_you_eat_that.3F"><span class="tocnumber">5.1</span> <span class="toctext">A stack? Can you eat that?</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Coding_a_stack"><span class="tocnumber">5.2</span> <span class="toctext">Coding a stack</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Good_news"><span class="tocnumber">5.3</span> <span class="toctext">Good news</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#Control_structures"><span class="tocnumber">6</span> <span class="toctext">Control structures</span></a>
+<ul>
+<li class="toclevel-2 tocsection-21"><a href="#Rollin.27_around"><span class="tocnumber">6.1</span> <span class="toctext">Rollin' around</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Conditionals"><span class="tocnumber">6.2</span> <span class="toctext">Conditionals</span></a></li>
+<li class="toclevel-2 tocsection-23"><a href="#A_special_jp"><span class="tocnumber">6.3</span> <span class="toctext">A special jp</span></a></li>
+<li class="toclevel-2 tocsection-24"><a href="#Comparing_stuff"><span class="tocnumber">6.4</span> <span class="toctext">Comparing stuff</span></a></li>
+<li class="toclevel-2 tocsection-25"><a href="#Chaining_conditionals"><span class="tocnumber">6.5</span> <span class="toctext">Chaining conditionals</span></a></li>
+<li class="toclevel-2 tocsection-26"><a href="#On_to_loopings"><span class="tocnumber">6.6</span> <span class="toctext">On to loopings</span></a></li>
+<li class="toclevel-2 tocsection-27"><a href="#Routines_.2F_Functions_.2F_Procedures_.2F_Whatever"><span class="tocnumber">6.7</span> <span class="toctext">Routines / Functions / Procedures / Whatever</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-28"><a href="#Solutions_to_the_exercises"><span class="tocnumber">7</span> <span class="toctext">Solutions to the exercises</span></a>
+<ul>
+<li class="toclevel-2 tocsection-29"><a href="#Instructions_get.21_2"><span class="tocnumber">7.1</span> <span class="toctext">Instructions get!</span></a></li>
+<li class="toclevel-2 tocsection-30"><a href="#Register_pair_and_RAM"><span class="tocnumber">7.2</span> <span class="toctext">Register pair and RAM</span></a></li>
+<li class="toclevel-2 tocsection-31"><a href="#Chaining_conditionals_2"><span class="tocnumber">7.3</span> <span class="toctext">Chaining conditionals</span></a></li>
+<li class="toclevel-2 tocsection-32"><a href="#On_to_loopings_2"><span class="tocnumber">7.4</span> <span class="toctext">On to loopings</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-33"><a href="#Credits_.26_Resources"><span class="tocnumber">8</span> <span class="toctext">Credits &amp; Resources</span></a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="A_new_world">A new world</span></h2>
+<p>In this part is a collection of different terms, concepts and notations that are <b>vital</b> for the rest of this tutorial. Do NOT skip anything here unless the text specifies you can. I mean it.
+</p><p>If you don't understand something later on, read that part again, and chances are, you'll understand it.
+</p>
+<h3><span class="mw-headline" id="Numeric_systems">Numeric systems</span></h3>
+<p>This section deals with numbers and how to format them. Notions explained here are essential and will be used a ton of times. You've been warned.
+</p><p>This section is essential to understanding everything following it, so read it carefully. However, if you already know everything about binary and hexadecimal, you can skip this. But, if you lack some vocabulary at some point, come back here.
+</p><p>Let's take a number, such as 1337. It is written in <b>base 10</b>, or in <b>decimal</b> if you will.
+</p><p>It is interpreted the following way&#160;:
+</p>
+<pre>1337 = 1000 + 300 + 30 + 7
+     = 1 * 1000 + 3 * 100 + 3 * 10 + 7 * 1
+     = 1 * 10^3 + 3 * 10^2 + 3 * 10^1 + 7 * 10^0
+</pre>
+<p>Reading the numbers before the powers of ten gives 1, 3, 3, and 7, and we find 1337 again.
+</p><p>However, decimal is the base humans like to count in. But computers don't. Instead, they prefer <b>binary</b>. Binary is <b>base 2</b>, that is, instead of working with powers of 10, we work with powers of 2. Also, only 2 symbols are allowed, 0 and 1. Each of them is called a <b>bit</b>.
+</p><p>This paragraph is some trivia about why computers use binary instead of decimal. You can skip it if you want. So, why binary? Because we need computers to be efficient. So we need to store information using electricity. The easiest variable to manipulate is "Is power running?". The answer is either 0 (it doesn't) or 1 (it does). And there you got it! Why do computers count in binary? To keep them at reasonable prices!
+</p><p>To differentiate decimal numbers from binary numbers, binary numbers will be prepended with a&#160;% symbol. So, 10 is decimal, and %10 is binary. Got it? Okay.
+</p><p>Here is an example&#160;:
+</p>
+<pre>%10010101 = 1 * 2^7 + 0 * 2^6 + 0 * 2^5 + 1 * 2^4 + 0 * 2^3 + 1 * 2^2 + 0 * 2^1 + 1 * 2^0
+          = 1 * 128 + 1 * 16 + 1 * 4 + 1 * 1
+          = 128 + 16 + 4 + 1
+          = 149
+</pre>
+<p>To identify each bit, we will give them a number. The rightmost bit will be given number 0, and each bit to the left is given a number one greater.
+</p><p>We will call the rightmost bit (bit 0) the <b>least significant bit</b> (or LSB for short), since changing it won't alter the value by much. Similarly, the leftmost bit will be called the <b>most significant bit</b>.
+</p><p>Lastly, for a few reasons, we will give names to groups of consecutive bits.
+</p>
+<ul><li>A group of 4 bits is called a <b>nibble</b>.</li>
+<li>A group of 8 bits is called a <b>byte</b> (or sometimes a halfword).</li>
+<li>A group of 16 bits is called a <b>word</b>.</li>
+<li>A group of 32 bits is called a <b>double word</b> or <b>dword</b>.</li>
+<li>A group of 64 bits is called a <b>quadruple word</b> or <b>qword</b>.</li></ul>
+<p>We will mostly be working with bytes, sometimes with words and rarely with nibbles. It is very rare to work with other structures, so you may forget them if you will.
+</p><p>Now, let's talk about <b>hexadecimal</b>. It is <b>base 16</b>, so we will be working with 16 symbols&#160;: 0 1 2 3 4 5 6 7 8 9 A B C D E F. Again, we will prepend hex numbers with a $ to differentiate them.
+</p><p>So, $A = 10, $B = 11, and so on to $F = 15. An example&#160;:
+</p>
+<pre>$95 = 9 * 16^1 + 5 * 16^0
+    = 144 + 5
+    = 149
+</pre>
+<p>Why using hexadecimal? Well, writing binary numbers is quite tedious. Take both examples together&#160;: we have 149 = %10010101 = $95. Now, consider the digits individually&#160;:
+</p>
+<pre>$9 = %1001
+$5 = %0101
+</pre>
+<p>Hexadecimal works as a "condensation" of binary, as every nibble can be written using a hex symbol instead of four bits.
+</p><p>This way, we have a more readable way of writing numbers that can be converted to binary in a snap.
+</p><p>For the rest of this tutorial, we will mostly be using hexadecimal, but always remember the binary lying down below!
+</p>
+<h2><span class="mw-headline" id="A_dip_into_technical_information">A dip into technical information</span></h2>
+<h3><span class="mw-headline" id="Registers">Registers</span></h3>
+<p>Registers are sections of RAM within the CPU itself. That is what you will be working with, alongside memory. But we'll see memory later.
+</p><p>There are 8 different registers, which can be actually paired up. These are A, B, C, D, E, F, H and L. These are NOT hex digits, so beware!
+</p><p>Any of these registers can hold an <b>unsigned 8-bit value</b>. That means&#160;:
+</p>
+<ul><li>A register can only hold an integer value.</li>
+<li>This value is always positive.</li>
+<li>This value is withing range 0 - 255 (both included).</li></ul>
+<p>The register pairs are the following&#160;: AF, BC, DE and HL. Any of them can hold an <b>unsigned 16-bit value</b>. That means&#160;:
+</p>
+<ul><li>A pair can only hold an integer value.</li>
+<li>This value is always positive.</li>
+<li>This value is within range 0 - 65535 (both included).</li></ul>
+<p>All of these registers are general-purpose... well, most of the time. Sometimes, there are restrictions, and sometimes, it is better to use some register over another.
+</p><p>Here are each register / pair's special attributes&#160;:
+</p>
+<ul><li>A is the <b>Accumulator</b>. It is the register you have to use to make arithmetic operations, and most of the time, memory access.</li>
+<li>B is usually a 8-bit counter.</li>
+<li>C is also used as a 8-bit counter, but also for port access. We'll see that way later.</li>
+<li>D, E, H and L have no special attribute as 8-bit. However, when paired, they do.</li>
+<li>F holds the CPU's <b>Flags</b>. It is very special, as you cannot use it as a general-purpose register. You can't even directly access it! We'll see how to use it later.</li>
+<li>HL is quite the equivalent of A, but is 16-bit. Its name is because it stores the <b>High</b> and <b>Low</b> bytes of a memory address.</li>
+<li>BC is mostly used as a <b>Byte Counter</b>. It can also be used together with A to access memory.</li>
+<li>DE is mostly used to hold the memory address of a <b>DEstination</b>.</li></ul>
+<p>To store values to a register, we will use the LD (<b>LoaD</b>) instruction.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>LD <i>destination</i>, <i>source</i>
+</td>
+<td>Store the value of <i>source</i> into <i>destination</i>.
+</td></tr></tbody></table>
+<p>Did I mention that nothing is case-sensitive?
+</p><p>However, you can't do LD as you wish, there are restrictions&#160;:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>
+</td>
+<td colspan="15">Destination
+</td></tr>
+<tr>
+<td rowspan="17">Source
+</td>
+<td>
+</td>
+<td>A
+</td>
+<td>B
+</td>
+<td>C
+</td>
+<td>D
+</td>
+<td>E
+</td>
+<td>H
+</td>
+<td>L
+</td>
+<td>BC
+</td>
+<td>DE
+</td>
+<td>HL
+</td>
+<td>(BC)
+</td>
+<td>(DE)
+</td>
+<td>(HL)
+</td>
+<td>(imm16)
+</td></tr>
+<tr>
+<td>A
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td></tr>
+<tr>
+<td>B
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>Yes
+</td>
+<td>No
+</td></tr>
+<tr>
+<td>C
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>Yes
+</td>
+<td>No
+</td></tr>
+<tr>
+<td>D
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>Yes
+</td>
+<td>No
+</td></tr>
+<tr>
+<td>E
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>Yes
+</td>
+<td>No
+</td></tr>
+<tr>
+<td>H
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>Yes
+</td>
+<td>No
+</td></tr>
+<tr>
+<td>L
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>Yes
+</td>
+<td>No
+</td></tr>
+<tr>
+<td>BC
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>Yes
+</td></tr>
+<tr>
+<td>DE
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>Yes
+</td></tr>
+<tr>
+<td>HL
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>Yes
+</td></tr>
+<tr>
+<td>(BC)
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td></tr>
+<tr>
+<td>(DE)
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td></tr>
+<tr>
+<td>(HL)
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td></tr>
+<tr>
+<td>(imm16)
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td></tr>
+<tr>
+<td>imm8
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>Yes
+</td>
+<td>No
+</td></tr>
+<tr>
+<td>imm16
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>Yes
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td>
+<td>No
+</td></tr></tbody></table>
+<p>imm8 means an 8-bit value, and imm16 a 16-bit value. (imm means <b>imm</b>ediate)
+</p><p>For those wondering what parentheses mean, that's coming in shortly.
+</p><p>Examples&#160;:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td><i>ld a, 25</i>
+</td>
+<td>Store value 25 into register A.
+</td></tr>
+<tr>
+<td><i>ld d, b</i>
+</td>
+<td>Store value of register B into register D.
+</td></tr>
+<tr>
+<td><i>ld ($8325), a</i>
+</td>
+<td>Store the value of register A into memory address $8325.
+</td></tr></tbody></table>
+<p>Let's make something clear immediately&#160;: <i>ld de, hl</i> <b>isn't possible</b> at all. Instead, do <i>ld d, h</i> then <i>ld e, l</i> (the order of the operations doesn't matter). Same with the other register pairs.
+</p><p>Trying to do something like <i>ld a, $100</i> isn't possible. Like, physically impossible. You'll see why much, much later.
+</p><p>Note that <i>ld a, -1</i> is valid, but actually, the "-1" wraps. Storing -1 will truly store 255 in a 8-bit register, and 65535 in a 16-bit register. Why? Coming soon.
+</p><p>Notice that F and AF aren't usable anywhere. Actually, only a few instructions use them.
+</p>
+<h3><span class="mw-headline" id="Negative_numbers">Negative numbers</span></h3>
+<p>Time to confess: I've lied to you. Actually, 8-bit and 16-bit registers can hold negative numbers.
+</p><p>I've told you, "individual registers can hold unsigned 8-bit values, and pairs unsigned 16-bit values". However, these aren't true: these values can be signed. How does that work?
+</p><p>What we will be doing is cutting our number range in half, and telling one half is composed of negative numbers. But how to distinguish positive and negative numbers? Well, we tell the MSB is no longer meaning the symbol in front of 2^7, but it will give away the sign of the number (0 = positive, 1 = negative). So, instead of having values in ranges 0 to 255 and 0 to 65535, we will have values in ranges -128 to 127 and -32768 to 32767. Neat!
+</p><p>How to multiply by -1? Easy! You can either&#160;:
+</p>
+<ul><li>Calculate zero minus your number (just like in real life). However, you should consider 0 the same as 256 (in 8-bit mode) or 65536 (in 16-bit mode).</li>
+<li>Flip the state of every bit, then add one.</li></ul>
+<p>This doesn't work in one case&#160;: -128 (%10000000)
+</p>
+<pre>-128   %10000000
+Invert %01111111
+Add 1  %10000000
+</pre>
+<p>So, uh, -(-128) = -128? Oops. You cannot negate -128 with only 8 bits. Try with 16 bits, and you'll see it works! However, with 16 bits, you can't negate -32768 for the same reason.
+</p><p>Now, let's see how the CPU handles the difference between unsigned and signed values. Surprise, it doesn't! Why? Because making the same operations using signed or unsigned values give the same result!
+</p>
+<pre>               unsigned        signed
+  %00110010          50            50
++ %11001110       + 206         + -50
+%1 00000000       = 256         =   0   (Disqualify ninth bit)
+</pre>
+<p>And, you just saw why I told you to consider 0 the same as 256&#160;: they are similar! As 256 uses 8 zero bits preceded by a 1... but the 1 is discarded.
+</p>
+<h3><span class="mw-headline" id="Memory">Memory</span></h3>
+<p>Finally! So what is "memory", you ask? It's a stream of bytes. A stream of numbers. And guess what? Everything is a stream of numbers. From numbers to this cute kitten video, everything is numbers. Including programs. That's why <a href="Arbitrary_code_execution.html" title="Arbitrary code execution">arbitrary code execution</a> happens. Remember this sentence&#160;: <i>Data is whatever you define it to be.</i>
+</p><p>Ever wondered why you could open a JPEG in Word? Now you know.
+</p><p>How is every byte differentiated from its neighbors? Well, everyone gets a 16-bit unsigned integer called their "address" (thus ranging from $0000 to $FFFF). To access a byte, use its address, just like to reach your friend, you use his e-mail address.
+</p><p>So, how does running a program works? What happens is that a special register is incremented (its value is raised by one), then the processor fetches the byte located at the address held by that register, and processes it as an opcode&#160;; when done, everything is repeated. Instructions can be one to three opcodes (bytes) large, so this cycle may repeat for a single instruction.
+</p><p>So now, how to access memory? With parentheses! To access memory address $CD38, you just have to use ($CD38). Yay!
+</p><p>To access the memory location pointed to by HL, just do... (hl)! It's the same with BC and DE.
+</p><p>So, to retrieve the value at memory address $6511 into register A&#160;: <i>ld a, ($6511)</i>
+</p><p>And to store the value of register C into the memory pointed to by HL&#160;: <i>ld (hl), c</i>
+</p><p>Remember to refer to the chart above for the legal LD combinations.
+</p><p>Obviously, <i>ld ($6511), a</i> will overwrite the previous value stored here. But <i>ld ($6511), hl</i> will store a 16-bit value, which is a word long, that is two bytes long! So, not only will ($6511) be overwritten, but ($6512) too! Always be very careful about the memory you're touching. Otherwise, stuff like the <a href="ZZAZZ_glitch.html" title="ZZAZZ glitch">ZZAZZ glitch</a> happen.
+</p><p>For those wondering, <i>ld a, ($6511)</i> leaves ($6511) untouched.
+</p>
+<h2><span class="mw-headline" id="Flags">Flags</span></h2>
+<p>Remember that "special" F register? Well, each of its bits is called a "flag", and holds information about (usually) the accumulator. A flag is dubbed "set" if it equals 1, and "reset" otherwise.
+</p><p>Here are the 8 flags&#160;:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>7</td>
+<td>6</td>
+<td>5</td>
+<td>4</td>
+<td>3</td>
+<td>2</td>
+<td>1</td>
+<td>0
+</td></tr>
+<tr>
+<td>Z</td>
+<td>N</td>
+<td>H</td>
+<td>C</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-
+</td></tr></tbody></table>
+<p>All "-" are unused flags. They are set to 0 at all times.
+</p>
+<h3><span class="mw-headline" id="Z_:_Zero">Z&#160;: Zero</span></h3>
+<p>This flag is set if the last operation's result was 0. It is reset otherwise.
+</p>
+<h3><span class="mw-headline" id="H_:_Half-Carry">H&#160;: Half-Carry</span></h3>
+<p>Works like the Carry flag, but referring to the least-significant <i>nibble</i>. It is only used with the DAA instruction, so... forget it until then.
+</p>
+<h3><span id="N_:_Add/Subtract"></span><span class="mw-headline" id="N_:_Add.2FSubtract">N&#160;: Add/Subtract</span></h3>
+<p>If the last operation performed an addition, this is reset. otherwise it is set. Again, forget it until we talk about DAA.
+</p>
+<h3><span class="mw-headline" id="C_:_Carry">C&#160;: Carry</span></h3>
+<p>The Carry flag detects whether the last operation's result was too large to fit in the target register (e.g ld a, $F2 then add a, $24 will set this flag).
+</p><p>There are two instructions that alter the carry flag&#160;:
+</p>
+<ul><li>SCF sets it, and</li>
+<li>CCF inverts it.</li></ul>
+<h2><span class="mw-headline" id="Manipulating_data">Manipulating data</span></h2>
+<h3><span id="Instructions_get!"></span><span class="mw-headline" id="Instructions_get.21">Instructions get!</span></h3>
+<p>Let's get these&#160;:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<th>Syntax
+</th>
+<th>Effect
+</th>
+<th>Z
+</th>
+<th>C
+</th></tr>
+<tr>
+<td>INC {reg8 | reg16 | (hl)}
+</td>
+<td>Adds one to the operand ("increments" it)
+</td>
+<td>Affected, except for reg16
+</td>
+<td>Not affected
+</td></tr>
+<tr>
+<td>DEC {reg8 | reg16 | (hl)}
+</td>
+<td>Subtracts one to the operand ("decrements" it)
+</td>
+<td>Affected, except for reg16
+</td>
+<td>Not affected
+</td></tr>
+<tr>
+<td>ADD A, {reg8 | imm8 | (hl)}
+</td>
+<td>Adds the operand to the accumulator
+</td>
+<td>Affected
+</td>
+<td>Not affected
+</td></tr>
+<tr>
+<td>ADD HL, reg16
+</td>
+<td>Adds the operand to HL
+</td>
+<td>Affected
+</td>
+<td>Not affected
+</td></tr>
+<tr>
+<td>SUB {reg8 | imm8 | (hl)}
+</td>
+<td>Subtracts the operand from the accumulator. The syntax SUB A, {...} is also valid but less common.
+</td>
+<td>Affected
+</td>
+<td>Not affected
+</td></tr></tbody></table>
+<p>If you want to get information about any instruction, go <a rel="nofollow" class="external text" href="http://tutorials.eeems.ca/ASMin28Days/ref/z80is.html">there</a>.
+</p><p>Q&#160;: Hey, but where's MULT?
+</p><p>A&#160;: Nowhere :D To multiply, you must write your own routines! However, a nice lil' trick&#160;: to do A &lt;- A*2, simply <i>add a, a</i>! To do A &lt;- A*3, do <i>ld b, a</i>, <i>add a, a</i>, <i>add a, b</i> (you can swap B with any other register, of course). I'll leave you A &lt;- A*4, A*5, A*6 and A*7 as an exercise.
+</p><p>For the rest of the tutorial, you'll see some text prefixed by a ";". These are comments, and are NOT part of the code. This line&#160;: "ld (hl), a&#160;; Store the mon's ID" will be interpreted as "ld (hl), a". Everything following a ";" is ignored.
+</p><p>Also, the Game Boy's CPU as four very specific instructions&#160;:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>ld (hli), a
+</td>
+<td>Equivalent to <i>ld (hl), a</i> then <i>inc hl</i>.
+</td></tr>
+<tr>
+<td>ld (hld), a
+</td>
+<td>Equivalent to <i>ld (hl), a</i> then <i>dec hl</i>.
+</td></tr>
+<tr>
+<td>ld a, (hli)
+</td>
+<td>Equivalent to <i>ld a, (hl)</i> then <i>inc hl</i>.
+</td></tr>
+<tr>
+<td>ld a, (hld)
+</td>
+<td>Equivalent to <i>ld a, (hl)</i> then <i>dec hl</i>.
+</td></tr></tbody></table>
+<p>These are often used to operate on chunks of memory.
+</p>
+<h3><span class="mw-headline" id="Overflow">Overflow</span></h3>
+<p>Let's try
+</p>
+<pre>ld a, 203
+add a, 119
+</pre>
+<p>What value will hold A? The naive guess would be 322, or %101000010. However, this is 9 bits large, and won't fit in A. The way it works is that the eight rightmost bits are kept in the register, the rest being discarded. Because a non-zero value is discarded, the C flag is set.
+</p><p>Thus, the result is A equals 66 = %01000010, and the C flag is set.
+</p>
+<h3><span class="mw-headline" id="Register_pairs_and_RAM">Register pairs and RAM</span></h3>
+<p>Let's say you run a ld hl, $D361. $D361 is put into HL, but since it is registers H and L paired up, what happen to them?
+</p><p>Because two hex digits mean one byte, $D3, as well as $61, is a byte. Since $D3 and H are leftmost in both cases, ld hl, $D361 is actually a shorter form of ld h, $D3 then ld l, $61.
+</p><p>Let's say the following instruction is ld ($2315), hl. Applying the same logic would mean H's value would be stored at ($2315), and L's would be at ($2316). However, you just lost THE GAME; because the z80 is a "little-endian" processor, L's value (the "little-end") is stored first, at ($2315). So ($2315) is $61, and ($2316) is $D3.
+</p><p>Stop here, and remember this until it becomes natural to you. Because this "little-endian"ness is very tricky for beginners. It is <i>very</i> important when working with memory.
+</p><p>Here is an exercise&#160;: what values will ($C000) to ($C00F) contain after this code is ran?
+</p><p>Initial values&#160;:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>$C000</td>
+<td>$C001</td>
+<td>$C002</td>
+<td>$C003</td>
+<td>$C004</td>
+<td>$C005</td>
+<td>$C006</td>
+<td>$C007</td>
+<td>$C008</td>
+<td>$C009</td>
+<td>$C00A</td>
+<td>$C00B</td>
+<td>$C00C</td>
+<td>$C00D</td>
+<td>$C00E</td>
+<td>$C00F
+</td></tr>
+<tr>
+<td>$00</td>
+<td>$03</td>
+<td>$4F</td>
+<td>$C0</td>
+<td>$DE</td>
+<td>$57</td>
+<td>$2A</td>
+<td>$00</td>
+<td>$FF</td>
+<td>$01</td>
+<td>$23</td>
+<td>$34</td>
+<td>$56</td>
+<td>$78</td>
+<td>$9A</td>
+<td>$BC
+</td></tr></tbody></table>
+<p>Code&#160;:
+</p>
+<pre>ld hl, $C303
+ld a, ($C001)
+ld b, 3
+add a, b
+ld c, 0
+sbc hl, bc
+ld (hl), a
+inc hl
+ld b, (hl)
+sub a, b
+inc (hl)
+inc hl
+ld (hl), b
+ld bc, 9
+add hl, bc
+ld (hl), a
+ld ($C00B), hl
+</pre>
+<h2><span class="mw-headline" id="Stacks">Stacks</span></h2>
+<h3><span id="A_stack?_Can_you_eat_that?"></span><span class="mw-headline" id="A_stack.3F_Can_you_eat_that.3F">A stack? Can you eat that?</span></h3>
+<p>No you can't. It's a data structure that has the cool property of not being fixed-length. How does it work? Just like a stack of plates. Imagine you're washing some plates in the back of a restaurant. Next to you is a pile of plates you need to wash. Waiters come and place ("push") plates on top of the stack and when finished washing a plate, you take ("pop") the topmost one. This way of working is called LIFO (Last In First Out).
+</p><p>In our case, we will do it by saving the top of the stack as a memory address. This value is called the <i>stack pointer</i>. Here is an example, with the stack growing to the right&#160;:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>$C000</td>
+<td>$C001</td>
+<td>$C002</td>
+<td>$C003</td>
+<td>$C004</td>
+<td>$C005</td>
+<td>$C006</td>
+<td>$C007</td>
+<td>$C008</td>
+<td>$C009</td>
+<td>$C00A</td>
+<td>$C00B</td>
+<td>$C00C</td>
+<td>$C00D</td>
+<td>$C00E</td>
+<td>$C00F
+</td></tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>stack pointer</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>$00</td>
+<td>$03</td>
+<td>$4F</td>
+<td>$C0</td>
+<td>$DE</td>
+<td>??</td>
+<td>??</td>
+<td>??</td>
+<td>??</td>
+<td>??</td>
+<td>??</td>
+<td>??</td>
+<td>??</td>
+<td>??</td>
+<td>??</td>
+<td>??
+</td></tr></tbody></table>
+<p>Now, we push the value $2A&#160;:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>$C000</td>
+<td>$C001</td>
+<td>$C002</td>
+<td>$C003</td>
+<td>$C004</td>
+<td>$C005</td>
+<td>$C006</td>
+<td>$C007</td>
+<td>$C008</td>
+<td>$C009</td>
+<td>$C00A</td>
+<td>$C00B</td>
+<td>$C00C</td>
+<td>$C00D</td>
+<td>$C00E</td>
+<td>$C00F
+</td></tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>stack pointer</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>$00</td>
+<td>$03</td>
+<td>$4F</td>
+<td>$C0</td>
+<td>$DE</td>
+<td>2A</td>
+<td>??</td>
+<td>??</td>
+<td>??</td>
+<td>??</td>
+<td>??</td>
+<td>??</td>
+<td>??</td>
+<td>??</td>
+<td>??</td>
+<td>??
+</td></tr></tbody></table>
+<p>And, if we pop two values&#160;:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>$C000</td>
+<td>$C001</td>
+<td>$C002</td>
+<td>$C003</td>
+<td>$C004</td>
+<td>$C005</td>
+<td>$C006</td>
+<td>$C007</td>
+<td>$C008</td>
+<td>$C009</td>
+<td>$C00A</td>
+<td>$C00B</td>
+<td>$C00C</td>
+<td>$C00D</td>
+<td>$C00E</td>
+<td>$C00F
+</td></tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>stack pointer</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>$00</td>
+<td>$03</td>
+<td>$4F</td>
+<td>$C0</td>
+<td>$DE</td>
+<td>$2A</td>
+<td>??</td>
+<td>??</td>
+<td>??</td>
+<td>??</td>
+<td>??</td>
+<td>??</td>
+<td>??</td>
+<td>??</td>
+<td>??</td>
+<td>??
+</td></tr></tbody></table>
+<p>We can now push $7C&#160;:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>$C000</td>
+<td>$C001</td>
+<td>$C002</td>
+<td>$C003</td>
+<td>$C004</td>
+<td>$C005</td>
+<td>$C006</td>
+<td>$C007</td>
+<td>$C008</td>
+<td>$C009</td>
+<td>$C00A</td>
+<td>$C00B</td>
+<td>$C00C</td>
+<td>$C00D</td>
+<td>$C00E</td>
+<td>$C00F
+</td></tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>stack pointer</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>
+</td></tr>
+<tr>
+<td>$00</td>
+<td>$03</td>
+<td>$4F</td>
+<td>$C0</td>
+<td>$7C</td>
+<td>$2A</td>
+<td>??</td>
+<td>??</td>
+<td>??</td>
+<td>??</td>
+<td>??</td>
+<td>??</td>
+<td>??</td>
+<td>??</td>
+<td>??</td>
+<td>??
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Coding_a_stack">Coding a stack</span></h3>
+<p>Let's say we have our stack pointer saved at memory address $C000 (because it is a 16-bit value, it also uses memory address $C001!!).
+</p><p>To push register DE&#160;:
+</p>
+<pre>ld hl, ($C000)&#160;; Retrieve stack pointer
+ld (hl), e&#160;; Push the low-order byte
+inc hl&#160;; Move stack pointer
+ld (hl), d&#160;; Repeat
+inc hl
+ld ($C000), hl&#160;; Save stack pointer
+</pre>
+<p>To pop into register DE&#160;:
+</p>
+<pre>ld hl, ($C000)&#160;; Retrieve stack pointer
+dec hl&#160;; Move stack pointer
+ld d, (hl)&#160;; Pop the high-order byte
+dec hl&#160;; Repeat
+ld e, (hl)
+ld ($C000), hl&#160;; Save stack pointer
+</pre>
+<h3><span class="mw-headline" id="Good_news">Good news</span></h3>
+<p>Okay, coding a stack is cool, but... isn't there a faster way of doing it? Of course! Because the Game Boy's CPU has a stack by itself! Meet
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>PUSH reg16
+</td>
+<td>Stores reg16 to the stack.
+</td></tr>
+<tr>
+<td>POP reg16
+</td>
+<td>Retrieves reg16 from the stack.
+</td></tr>
+<tr>
+<td>INC SP
+</td>
+<td>Increments SP.
+</td></tr>
+<tr>
+<td>DEC SP
+</td>
+<td>Decrements SP.
+</td></tr>
+<tr>
+<td>ADD SP, imm8
+</td>
+<td>Add imm8 (signed 8-bit value) to SP.
+</td></tr>
+<tr>
+<td>LDHL SP, imm8
+</td>
+<td>Add imm8 (signed 8-bit value) to SP, and save the result in HL.
+</td></tr></tbody></table>
+<p>where reg16 is any 16-bit register pair. AF can be used here.
+</p><p>Also meet SP, which makes all of this possible. SP is the <b>hardware Stack Pointer</b>. You can INC and DEC it, and you can't use it as a source in LD. Here are equivalents of <i>push hl</i> and <i>pop hl</i> (assuming we could use (sp), 'cause we can't :3)
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>PUSH HL
+</td>
+<td><pre>dec sp
+ld (sp), h
+dec sp
+ld (sp), l
+</pre>
+</td></tr>
+<tr>
+<td>POP HL
+</td>
+<td><pre>ld l, (sp)
+inc sp
+ld h, (sp)
+inc sp
+</pre>
+</td></tr></tbody></table>
+<p>Note that the stack grows <b>downwards</b> (ie, PUSH reduces the value from SP, and POP augments it). Also, POP doesn't alter memory.
+</p><p>You cannot PUSH / POP with 8-bit registers. Instead, to save register B, you <b>must</b> <i>push bc</i>. You don't have to push and pop to the same register! For example&#160;:
+</p>
+<pre>push af
+ld a, ($C000)
+pop de
+</pre>
+<p>is completely valid. (Note that E's value after the POP is equal to F's when PUSHing, so this is the only way to directly access the F register)
+</p><p>Beware with the stack, even more when you're not coding your own game&#160;: everyone uses the stack&#160;; even the CPU! (We're about to see how) The best practice to have is to leave the stack identical before and after your code. Otherwise, expect some crashes, yay!
+</p>
+<h2><span class="mw-headline" id="Control_structures">Control structures</span></h2>
+<h3><span id="Rollin'_around"></span><span class="mw-headline" id="Rollin.27_around">Rollin' around</span></h3>
+<p>...at the speed of sound! (I'M SO SORRY)
+</p><p>Up until now, we've seen only programs that begin somewhere and that are ran top to bottom, in that order. However, this never happens in a more complex context. So, let's see how to manipulate code flow!
+</p><p>We have two instructions that allow execution to jump somewhere else in memory&#160;:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>JP label16
+</td>
+<td>Has execution jumping to label16
+</td></tr>
+<tr>
+<td>JR offset8
+</td>
+<td>Has execution jumping over offset8 bytes
+</td></tr></tbody></table>
+<p>What's the difference?
+</p><p>First, JP can go <b>anywhere</b>. JP tells the CPU "jump to this memory address". JR is much more limited, as it can only reach a signed 8-bit range (128 bytes backwards, or 127 bytes forwards).
+</p><p>Second, JR is one less byte large than JP. When writing code that must be as short as possible, this is super awesome.
+</p><p>Third, JR takes 7 or 12 CPU cycles to run, whereas JP always takes 10.
+</p><p>Labels are actually memory addresses, they mark the target of the jumps. Here is an example of label usage&#160;:
+</p>
+<pre>loop:&#160;; This is a label&#160;! This defines label "loop".
+sub a, $0A
+jr c, finished
+; Do stuff with a...
+jr loop&#160;; This jumps to the "sub a, $0A" right after the "loop:" line.
+finished:
+inc a
+; Do some more stuff, we don't care anymore.
+</pre>
+<p>You may wonder what this "jr c, finished" is. And this brings us to the next part!
+</p>
+<h3><span class="mw-headline" id="Conditionals">Conditionals</span></h3>
+<p>JP and JR can be executed in unconditional ways, meaning the jump will always occur. This can be useful, but sometimes we don't want that. And that's where flags come in handy! Because we are able to trigger jumps depending on the status of the flags.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>JP condition, label
+</td>
+<td>JR condition, label
+</td></tr></tbody></table>
+<p>Here are all 8 conditions&#160;:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>Z</td>
+<td>If the Z flag is set
+</td>
+<td>NZ</td>
+<td>If the Z flag is reset
+</td></tr>
+<tr>
+<td>C</td>
+<td>If the C flag is set
+</td>
+<td>NC</td>
+<td>If the C flag is reset
+</td></tr>
+<tr>
+<td>PE</td>
+<td>If the P/V flag is set
+</td>
+<td>PO</td>
+<td>If the P/V flag is reset
+</td></tr>
+<tr>
+<td>M</td>
+<td>If the S flag is set
+</td>
+<td>P</td>
+<td>If the S flag is reset
+</td></tr></tbody></table>
+<p>Four instructions can use conditionals&#160;: CALL, RET (these are coming in soon), JP and JR. JR has a handicap, though&#160;: it can only use the Z, NZ, C and NC conditions.
+</p><p>So, there you see how you can create conditionals in z80 assembly&#160;: by shifting the flow of code.
+</p><p>I want you to understand the following&#160;: even though you have more contol over the flow of code, try to be organized&#160;; intricate jumps can be excessively tough to understand. Also, jumps consume space and time&#160;; try to jump the least you can.
+</p><p>Last thing, though it's more on the optimization side, but remember&#160;: if you're going for space - and that's often the case with ACE - you should use jr. But if speed is a must (that is, you absolutely need to shave 5 CPU cycles per jump, which is *RARE*), use jp. Use jp also when jr cannot reach the target - never use a chain of jr spaced by $7F bytes. It's <b>pointless</b>.
+</p>
+<h3><span class="mw-headline" id="A_special_jp">A special jp</span></h3>
+<p>There is one special case of jp, though&#160;!
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>JP HL
+</td>
+<td>Has execution jumping to the address pointed to by hl.<br />Does not accept any conditionals.
+</td></tr></tbody></table>
+<p>Example&#160;:
+</p>
+<pre>ld hl, $2457
+jp hl
+</pre>
+<p>will jump to $2457. Some might argue that "jp $2457" is better, as it'd save 1 byte and preserve the hl register.
+</p><p>However, "jp hl" is used to do dynamic jumps: "jp hl" may jump to a different location every time it is ran. When doing "static" (ie. always the same) jumps, it <b>is</b> better to use jp $xxyy. "jp hl" mostly used with function pointer tables - we'll see that later.
+</p>
+<h3><span class="mw-headline" id="Comparing_stuff">Comparing stuff</span></h3>
+<p>Here is an instruction that is heavily used with conditional jumps&#160;:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>CP {reg8 | imm8}
+</td>
+<td>Does the same as SUB {...}, but leaves a untouched.
+</td></tr></tbody></table>
+<p>cp is heavily used with conditionals, since it compares the accumulator's value with another. Here is a nifty table&#160;:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>Comparison
+</td>
+<td>Unsigned equivalent
+</td>
+<td>Signed equivalent
+</td></tr>
+<tr>
+<td>A == <i>number</i>
+</td>
+<th colspan="2">Z is set (A - <i>number</i> == 0)
+</th></tr>
+<tr>
+<td>A&#160;!= <i>number</i>
+</td>
+<th colspan="2">Z is not set (A - <i>number</i>&#160;!= 0)
+</th></tr>
+<tr>
+<td>A &lt; <i>number</i>
+</td>
+<td>C is set (A - <i>number</i> generated a borrow)
+</td>
+<td>S and P/V are different (P/V means overflow)
+</td></tr>
+<tr>
+<td>A &gt;= <i>number</i>
+</td>
+<td>C is reset (A - <i>number</i> generated no borrow)
+</td>
+<td>S and P/V are the same
+</td></tr></tbody></table>
+<p>Example&#160;:
+</p>
+<pre>ld a, (hl)
+cp $63
+jr z, placeItems
+inc hl
+inc hl
+jr someplace
+placeItems:
+ld b, (hl)
+</pre>
+<p>If (hl) equals $63, execution jumps to placeItems.
+</p><p>Otherwise, executions continues through, increments hl twice, then jumps to "someplace"
+</p>
+<h3><span class="mw-headline" id="Chaining_conditionals">Chaining conditionals</span></h3>
+<p>!!WARNING!! The code I'll be writing in assembly can be written in other ways. If you think you'd have done it in another way, try it. Count the instructions in your code, and if it is less than I did, then you did well&#160;!
+</p><p>Don't assume my way is the only. It is a good idea to try to find other ways to do the stuff I propose&#160;! It's a good exercise&#160;!
+</p><p>Okay, so let's try the following C code, assuming a is the a register&#160;:
+</p>
+<pre>if(a == $2A) {
+    // Success stuff
+} else {
+    // Failure stuff
+}
+// Rest of the code
+</pre>
+<p>In assembly, that's easy&#160;!
+</p>
+<pre>cp $2A
+jr nz, failure
+    ; Success stuff
+jr afterConditional
+failure:
+    ; Failure stuff
+afterConditional:
+; Rest of the code
+</pre>
+<p>Think of another way... like, having the failure stuff first.
+</p>
+<pre>cp $2A
+jr z, success
+    ; Failure stuff
+jr afterConditional
+sucess:
+    ; Success stuff
+afterConditional:
+; Rest of the code
+</pre>
+<p>Got it&#160;? Good&#160;!
+</p><p>Okay. Let's get it one level higher.
+</p>
+<pre>if(b == $C0 &amp;&amp; c == $DE) { // &amp;&amp; means AND. But it's a logical AND - we'll see another AND later.
+    // Success stuff
+} else {
+    // Failure stuff
+}
+</pre>
+<p>Um... let's try doing multiple jumps.
+</p>
+<pre>ld a, $C0
+cp b
+jr nz, failure
+ld a, c
+cp $DE
+jr nz, failure
+    ; Success stuff
+jr afterCond
+failure:
+    ; Failure stuff
+afterCond:
+</pre>
+<p>Phew&#160;! Not exactly the same, but it's still going fine.
+</p><p>To do a AND, simply treat stuff as a failure if any of the conditions fail.
+</p><p>Okay. Let's get it a lil' bit different.
+</p>
+<pre>if(b == $C0 || c == $DE) { // || means OR. But it's a logical OR- we'll see another OR later.
+    // Success stuff
+} else {
+    // Failure stuff
+}
+</pre>
+<p>Um... let's try doing multiple jumps.
+</p>
+<pre>ld a, $C0
+cp b
+jr z, success
+ld a, c
+cp $DE
+jr z, success
+    ; Failure stuff
+jr afterCond
+success:
+    ; Success stuff
+afterCond:
+</pre>
+<p>Okay&#160;! Now, to do OR, we simply run each comparison. If any succeeds, we jump straight to SUCCESS. Othewise, we FAIL.
+</p><p>I'll leave the following code as an exercise&#160;:
+</p>
+<pre>if((h == $C0 &amp;&amp; l == $DE) || a == $2A) {
+    // Success stuff
+} else {
+    // Failure stuff
+}
+</pre>
+<h3><span class="mw-headline" id="On_to_loopings">On to loopings</span></h3>
+<p>Some of you might have thought "Hey, ISSOtm. Up until now, you've been going forwards all the time. Even your jumps were skipping over instructions - but forever forwards. What if we went <b>backwards</b>&#160;?"
+</p><p>Well, kudos to you&#160;! This is the basis of looping structures.
+</p><p>Here is the most simple loop in assembly&#160;:
+</p>
+<pre>loop:
+; Do stuff
+jr cond, loop
+</pre>
+<p>Ta-daah&#160;! Here is a more explicit (less generic) loop:
+</p>
+<pre>ld b, $06
+countingLoop:
+; Do stuff (admit it preserves b)
+dec b&#160;; Sets Z if b == 0 after the DEC.
+jr nz, countingLoop&#160;; go back if b is non-zero
+; Do some MOAR stuff
+</pre>
+<p>This should run the "Do stuff" part six times exactly. If said part modifies b... it will work in other ways.
+</p><p>I'll leave to you as an exercise what would happen if the "ld b, $06" was replaced by a "ld b, $00"...
+</p><p>Now you got how to create loops. Neato. Let's see how to create... routines. Or procedures. Or functions. Whatever you call them.
+</p>
+<h3><span id="Routines_/_Functions_/_Procedures_/_Whatever"></span><span class="mw-headline" id="Routines_.2F_Functions_.2F_Procedures_.2F_Whatever">Routines / Functions / Procedures / Whatever</span></h3>
+<p>I've told you about CALL and RET in the "Conditionals" section. Now let's see what they do.
+</p><p>They are a more avanced way to do jumps. Basically, you "call" a piece of code, that does its stuff, then "returns" to your code control of the CPU. Bam, CALL and RET explained.
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>CALL label16
+</td>
+<td>Calls code starting at label16
+</td></tr>
+<tr>
+<td>CALL cond, label16
+</td>
+<td>Same, but with the same conditionals as JP (not JR)
+</td></tr>
+<tr>
+<td>RET
+</td>
+<td>Returns to the previous "caller".
+</td></tr>
+<tr>
+<td>RET cond
+</td>
+<td>Do I need to explain&#160;?
+</td></tr></tbody></table>
+<p>But wait, there is more&#160;! And it is <b>VITAL</b>. The way call works is very simple&#160;:
+</p>
+<ol><li>Get the address of the instruction right after the call.</li>
+<li>Push it onto the stack.</li>
+<li>Jump to the address specified by the call adress.</li></ol>
+<p>And ret works in a way that is compatible with call&#160;:
+</p>
+<ol><li>Pop a number from the stack.</li>
+<li>Jump to that address.</li></ol>
+<p>Now, you need to be super-duper careful with the stack, since it is used by the call-ret system. Basically, make sure that between label16 and the next ret, you have done the same amount of PUSHes and POPs&#160;:
+</p>
+<pre>call routine
+; Ton of code
+routine:
+push hl
+push bc
+; Code
+pop bc
+; Codez
+pop hl
+; Codeeeee
+ret
+</pre>
+<p>is fine
+</p>
+<pre>call baaad
+; Ton of code
+baaad:
+push hl
+push bc
+; Code
+pop bc
+; Codeeeey
+ret
+</pre>
+<p>is bad.
+</p><p>Unless you'e ABSOLUTELY CERTAIN about what you're doing, upon leaving your routine's code, leave the stack the SAME is was. It is absolutely necessary to avoid screwing up everything.
+</p><p><br />
+</p>
+<hr />
+<h2><span class="mw-headline" id="Solutions_to_the_exercises">Solutions to the exercises</span></h2>
+<h3><span id="Instructions_get!_2"></span><span class="mw-headline" id="Instructions_get.21_2">Instructions get!</span></h3>
+<p>B can be swapped with any other register (except A)
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>A &lt;- ...
+</td>
+<td>A*4
+</td>
+<td>A*5
+</td>
+<td>A*6
+</td>
+<td>A*7
+</td></tr>
+<tr>
+<td>Code
+</td>
+<td><pre>add a, a&#160;; *2
+add a, a&#160;; *4
+</pre>
+</td>
+<td><pre>ld b, a
+add a, a&#160;; *2
+add a, a&#160;; *4
+add a, b&#160;; *5
+</pre>
+</td>
+<td><pre>add a, a&#160;; *2
+ld b, a
+add a, a&#160;; *4
+add a, b&#160;; *6
+</pre>
+<p>or
+</p>
+<pre>ld b, a
+add a, a&#160;; *2
+add a, b&#160;; *3
+add a, a&#160;; *6
+</pre>
+</td>
+<td><pre>ld b, a
+add a, a&#160;; *2
+add a, a&#160;; *4
+add a, a&#160;; *8
+sub a, b&#160;; *7
+</pre>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Register_pair_and_RAM">Register pair and RAM</span></h3>
+<p>We will examine each instruction individually to find out what happens.
+</p><p>ld hl, $C303&#160;; Now H = $C3 and L = $03
+</p><p>ld a, ($C001)&#160;; A = $03
+</p><p>ld b, 3&#160;; B = $03
+</p><p>add a, b&#160;; A = A + B = $03 + $03 = $06, C flag = 0
+</p><p>ld c, 0&#160;; C = $00
+</p><p>sbc hl, bc&#160;; HL = HL - (BC + C flag) = $C303 - ($0300 + $00) = $C003
+</p><p>ld (hl), a&#160;; (HL) = ($C003) &lt;- A = $06
+</p><p>inc hl&#160;; HL = $C004
+</p><p>ld b, (hl)&#160;; B = (HL) = ($C004) = $DE
+</p><p>sub a, b&#160;; A = A - B = $06 - $DE = $06 + (-$DE) = $06 + ($21 + $01) = $28, C flag = 0
+<br />
+Notice here that doing <i>sub a, b</i> actually increased A's value!
+</p><p>inc (hl)&#160;; (HL) = ($C004) = $DF
+</p><p>inc hl&#160;; HL = $C005
+</p><p>ld (hl), b&#160;; (HL) = B = $DE
+</p><p>ld bc, 9&#160;; B = $00, C = $09
+</p><p>add hl, bc&#160;; HL = HL + BC = $C005 + $0009 = $C00E
+</p><p>ld (hl), a&#160;; (HL) = ($C00E) = A = $28
+</p><p>ld ($C00B), hl&#160;; ($C00B) = L = $0E, and ($C00C) = H = $C0
+</p><p>Initial values&#160;:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>$C000</td>
+<td>$C001</td>
+<td>$C002</td>
+<td>$C003</td>
+<td>$C0004</td>
+<td>$C005</td>
+<td>$C006</td>
+<td>$C007</td>
+<td>$C008</td>
+<td>$C009</td>
+<td>$C00A</td>
+<td>$C00B</td>
+<td>$C00C</td>
+<td>$C00D</td>
+<td>$C00E</td>
+<td>$C00F
+</td></tr>
+<tr>
+<td>$00</td>
+<td>$03</td>
+<td>$4F</td>
+<td>$C0</td>
+<td>$DE</td>
+<td>$57</td>
+<td>$2A</td>
+<td>$00</td>
+<td>$FF</td>
+<td>$01</td>
+<td>$23</td>
+<td>$34</td>
+<td>$56</td>
+<td>$78</td>
+<td>$9A</td>
+<td>$BC
+</td></tr></tbody></table>
+<p>Final values&#160;:
+</p>
+<table class="wikitable">
+<tbody><tr>
+<td>$C000</td>
+<td>$C001</td>
+<td>$C002</td>
+<td>$C003</td>
+<td>$C0004</td>
+<td>$C005</td>
+<td>$C006</td>
+<td>$C007</td>
+<td>$C008</td>
+<td>$C009</td>
+<td>$C00A</td>
+<td>$C00B</td>
+<td>$C00C</td>
+<td>$C00D</td>
+<td>$C00E</td>
+<td>$C00F
+</td></tr>
+<tr>
+<td>$00</td>
+<td>$03</td>
+<td>$4F</td>
+<td>$06</td>
+<td>$DF</td>
+<td>$DE</td>
+<td>$2A</td>
+<td>$00</td>
+<td>$FF</td>
+<td>$01</td>
+<td>$23</td>
+<td>$34</td>
+<td>$0E</td>
+<td>$C0</td>
+<td>$28</td>
+<td>$BC
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Chaining_conditionals_2">Chaining conditionals</span></h3>
+<p>You think you gotcha&#160;? I'll be explaining the code, don't'cha worry&#160;:)
+</p>
+<pre>cp $2A&#160;; it's better to do the a comparison first, since we'll use it for later comparisons.
+jr z, success&#160;; if we don't jump, we will do the ANDed comparison.
+ld a, b
+cp $C0
+jr nz, failure&#160;; first AND operand...
+ld a, c
+cp $DE
+jr nz, failure&#160;; ...then the second. The order doesn't matter here.
+success:
+    ; Success stuff
+jr afterConditional
+failure:
+    ; Failure stuff
+afterConditional:
+</pre>
+<p>Didja get it&#160;? If not, try to understand which part of the code matches which part of the C code. If you get it, you'll understand the assembly code. I admit it's tough at the first glance. I've been through this, don't'cha worry.
+</p>
+<h3><span class="mw-headline" id="On_to_loopings_2">On to loopings</span></h3>
+<p>What would happen&#160;? Well, imagine you ran the "Do stuff" part once. B is zero - we didn't touch it - and we reached a "dec b". Now, remember what the instruction does&#160;:
+</p>
+<ol><li>We decrement B (B = 0 - 1 = 255, remember overflow&#160;?)</li>
+<li>If B is zero, we set the Z flag. Otherwise we reset it. (Z is reset, since B&#160;!= 0)</li></ol>
+<p>... so the loops starts again with B = 255.
+</p><p>tl;dr&#160;: the loop is ran 256 times&#160;!
+</p><p>"Hey ISSOtm, what if I wanted my loop to run zero times instead of 256 in that case&#160;?" Simple&#160;!
+</p>
+<pre>ld a, b&#160;; this does NOT modifiy Z&#160;!!
+cp $0&#160;; there is a more efficient way of doing this, but you don't know it yet.
+jr z, afterLoop&#160;; if b - 0 == 0, we skip the loop completely.
+countingLoop:
+; Do stuff (admit it preserves b)
+dec b&#160;; Sets Z if b == 0 after the DEC.
+jr nz, countingLoop&#160;; go back if b is non-zero
+afterLoop:
+; Do some MOAR stuff
+</pre>
+<h2><span id="Credits_&amp;_Resources"></span><span class="mw-headline" id="Credits_.26_Resources">Credits &amp; Resources</span></h2>
+<p>Tutorial written (mostly) by ISSOtm for Glitch City Laboratories.
+</p><p>Thanks to Torchickens and RaltsEye for correcting typos, formatting 'n stuff.
+</p><p>Includes bits of <a rel="nofollow" class="external text" href="http://tutorials.eeems.ca/ASMin28Days/welcome.html">this tutorial</a> for the ASM part.
+</p><p>Heavily using <a rel="nofollow" class="external text" href="http://gbdev.gg8.se/wiki/articles/Pan_Docs">the Pan Docs</a> for GameBoy-specific stuff.
+</p>
+
+
+
+</div></div><div class="printfooter">
+Retrieved from "<a dir="ltr" href="indexc84e.html?title=GB_Programming&amp;oldid=6972">https://glitchcity.wiki/index.php?title=GB_Programming&amp;oldid=6972</a>"</div>
+<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="Special_Categories.html" title="Special:Categories">Categories</a>: <ul><li><a href="Category_Arbitrary_code_execution.html" title="Category:Arbitrary code execution">Arbitrary code execution</a></li><li><a href="Category_Reference_documents.html" title="Category:Reference documents">Reference documents</a></li></ul></div></div><div class="visualClear"></div></div></div><div class="visualClear"></div></div><div id="column-one" lang="en" dir="ltr"><h2>Navigation menu</h2><div role="navigation" class="portlet" id="p-cactions" aria-labelledby="p-cactions-label"><h3 id="p-cactions-label" lang="en" dir="ltr">Page actions</h3><div class="pBody"><ul lang="en" dir="ltr"><li id="ca-nstab-main" class="selected"><a href="GB_Programming.html" title="View the content page [c]" accesskey="c">Page</a></li><li id="ca-talk" class="new"><a href="Talk_GB_Programming.html?title=Talk:GB_Programming&amp;action=edit&amp;redlink=1" rel="discussion" title="Discussion about the content page (page does not exist) [t]" accesskey="t">Discussion</a></li><li id="ca-viewsource"><a href="index5d3d.html?title=GB_Programming&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history"><a href="indexe675.html?title=GB_Programming&amp;action=history" title="Past revisions of this page [h]" accesskey="h">History</a></li></ul></div></div><div role="navigation" class="portlet" id="p-cactions-mobile" aria-labelledby="p-cactions-mobile-label"><h3 id="p-cactions-mobile-label" lang="en" dir="ltr">Page actions</h3><div class="pBody"><ul lang="en" dir="ltr"><li id="ca-nstab-main-mobile" class="selected"><a href="GB_Programming.html" title="Page">Page</a></li><li id="ca-talk-mobile" class="new"><a href="Talk_GB_Programming.html?title=Talk:GB_Programming&amp;action=edit&amp;redlink=1" rel="discussion" title=" (page does not exist)">Discussion</a></li><li id="ca-more"><a href="#p-cactions">More</a></li><li id="ca-tools"><a href="#p-tb" title="Tools">Tools</a></li></ul></div></div><div role="navigation" class="portlet" id="p-personal" aria-labelledby="p-personal-label"><h3 id="p-personal-label" lang="en" dir="ltr">Personal tools</h3><div class="pBody"><ul lang="en" dir="ltr"><li id="pt-createaccount"><a href="index4581.html?title=Special:CreateAccount&amp;returnto=GB+Programming" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="index71a7.html?title=Special:UserLogin&amp;returnto=GB+Programming" title="You are encouraged to log in; however, it is not mandatory [o]" accesskey="o">Log in</a></li></ul></div></div><div class="portlet" id="p-logo" role="banner"><a href="Main_Page.html" class="mw-wiki-logo" title="Visit the main page"></a></div><div id="sidebar"><div role="navigation" class="portlet generated-sidebar" id="p-Main_Menu" aria-labelledby="p-Main_Menu-label"><h3 id="p-Main_Menu-label" lang="en" dir="ltr">Main Menu</h3><div class="pBody"><ul lang="en" dir="ltr"><li id="n-Main-page"><a href="Main_Page.html">Main page</a></li><li id="n-New-pages"><a href="Special_NewPages.html">New pages</a></li><li id="n-Recent-changes"><a href="Special_RecentChanges.html">Recent changes</a></li><li id="n-Random-page"><a href="Sky_Drop_glitch_(disambiguation).html">Random page</a></li><li id="n-Help"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents">Help</a></li></ul></div></div><div role="navigation" class="portlet generated-sidebar" id="p-Glitches" aria-labelledby="p-Glitches-label"><h3 id="p-Glitches-label" lang="en" dir="ltr">Glitches</h3><div class="pBody"><ul lang="en" dir="ltr"><li id="n-Arbitrary-code-execution"><a href="Arbitrary_code_execution.html">Arbitrary code execution</a></li><li id="n-Pok.C3.A9mon-cloning"><a href="Pok%c3%a9mon_cloning.html">Pokémon cloning</a></li><li id="n-Pomeg-glitch-and-Glitzer-Popping"><a href="Pomeg_data_corruption_glitch.html">Pomeg glitch and Glitzer Popping</a></li><li id="n-Tweaking-and-voiding"><a href="Tweaking.html">Tweaking and voiding</a></li><li id="n-Glitches-by-generation"><a href="Category_Generational_Glitches.html">Glitches by generation</a></li><li id="n-Other-glitch-categories"><a href="Category_Glitches_by_category.html">Other glitch categories</a></li></ul></div></div><div role="navigation" class="portlet generated-sidebar" id="p-References.2FResources" aria-labelledby="p-References.2FResources-label"><h3 id="p-References.2FResources-label" lang="en" dir="ltr">References/Resources</h3><div class="pBody"><ul lang="en" dir="ltr"><li id="n-Databases"><a href="Glitch_City_Laboratories_Databases.html">Databases</a></li><li id="n-Disassembly-projects"><a href="List_of_Pok%c3%a9mon_disassembly_projects.html">Disassembly projects</a></li><li id="n-The-Big-HEX-List"><a href="The_Big_HEX_List.html">The Big HEX List</a></li><li id="n-Interactive-tools"><a href="Category_Interactive_tools.html">Interactive tools</a></li><li id="n-Reference-documents"><a href="Category_Reference_documents.html">Reference documents</a></li><li id="n-Terminology"><a href="Category_Terminology.html">Terminology</a></li></ul></div></div><div role="navigation" class="portlet generated-sidebar" id="p-Speedrun_Routes_any.25" aria-labelledby="p-Speedrun_Routes_any.25-label"><h3 id="p-Speedrun_Routes_any.25-label" lang="en" dir="ltr">Speedrun Routes any%</h3><div class="pBody"><ul lang="en" dir="ltr"><li id="n-Pok.C3.A9mon-Crystal"><a href="Pok%c3%a9mon_Crystal_any%25_speedrun_route.html">Pokémon Crystal</a></li><li id="n-Pok.C3.A9mon-Blue"><a href="Pok%c3%a9mon_Blue_any%25_No_Save_Corruption_speedrun_route.html">Pokémon Blue</a></li></ul></div></div><div role="navigation" class="portlet generated-sidebar" id="p-External_Links" aria-labelledby="p-External_Links-label"><h3 id="p-External_Links-label" lang="en" dir="ltr">External Links</h3><div class="pBody"><ul lang="en" dir="ltr"><li id="n-GCRI-Discord"><a href="https://discord.gg/EA7jxJ6" rel="nofollow">GCRI Discord</a></li></ul></div></div><div role="navigation" class="portlet" id="p-tb" aria-labelledby="p-tb-label"><h3 id="p-tb-label" lang="en" dir="ltr">Tools</h3><div class="pBody"><ul lang="en" dir="ltr"><li id="t-whatlinkshere"><a href="Special_WhatLinksHere/GB_Programming.html" title="A list of all wiki pages that link here [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="Special_RecentChangesLinked/GB_Programming.html" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-specialpages"><a href="Special_SpecialPages.html" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-print"><a href="index1caf.html?title=GB_Programming&amp;printable=yes" rel="alternate" title="Printable version of this page [p]" accesskey="p">Printable version</a></li><li id="t-permalink"><a href="indexc84e.html?title=GB_Programming&amp;oldid=6972" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="index259e.html?title=GB_Programming&amp;action=info" title="More information about this page">Page information</a></li></ul></div></div><div role="search" class="portlet" id="p-search"><h3 id="p-search-label" lang="en" dir="ltr"><label for="searchInput">Search</label></h3><div class="pBody" id="searchBody"><form action="https://glitchcity.wiki/index.php" id="searchform"><input type="hidden" value="Special:Search" name="title" /><input type="search" name="search" placeholder="Search Glitch City Wiki" title="Search Glitch City Wiki [f]" accesskey="f" id="searchInput" /><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchGoButton" class="searchButton" />  <input type="submit" name="fulltext" value="Search" title="Search the pages for this text" id="mw-searchButton" class="searchButton" /></form></div></div></div><a href="#sidebar" title="navigation" class="menu-toggle" id="sidebar-toggle"></a><a href="#p-personal" title="user tools" class="menu-toggle" id="p-personal-toggle"></a><a href="#globalWrapper" title="back to top" class="menu-toggle" id="globalWrapper-toggle"></a></div><div class="visualClear"></div><div id="footer" role="contentinfo" lang="en" dir="ltr"><div id="f-poweredbyico" class="footer-icons"><a href="https://www.mediawiki.org/"><img src="resources/assets/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/resources/assets/poweredby_mediawiki_132x47.png 1.5x, /resources/assets/poweredby_mediawiki_176x62.png 2x" width="88" height="31" /></a></div><ul id="f-list"><li id="lastmod"> This page was last edited on 27 May 2019, at 17:12.</li><li id="privacy"><a href="Glitch_City_Wiki_Privacy_policy.html" title="Glitch City Wiki:Privacy policy">Privacy policy</a></li><li id="about"><a href="Glitch_City_Wiki_About.html" class="mw-redirect" title="Glitch City Wiki:About">About Glitch City Wiki</a></li><li id="disclaimer"><a href="Glitch_City_Wiki_General_disclaimer.html" title="Glitch City Wiki:General disclaimer">Disclaimers</a></li></ul></div></div>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.059","walltime":"0.061","ppvisitednodes":{"value":312,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1000000},"postexpandincludesize":{"value":0,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":2,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":4440,"limit":5000000},"timingprofile":["100.00%    0.000      1 -total"]},"cachereport":{"timestamp":"20201016192905","ttl":86400,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":112});});</script><div>This is a full mirror from glitchcity.wiki dated 16/10/2020, for preservation purposes. All rights belong to the original copyright owners. This is a mirror of content freely available on the public domain.</div></body>
+<!-- Mirrored from glitchcity.wiki/GB_Programming by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 16 Oct 2020 20:39:13 GMT -->
+</html>

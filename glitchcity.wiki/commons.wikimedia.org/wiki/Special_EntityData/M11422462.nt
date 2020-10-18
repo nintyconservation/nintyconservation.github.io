@@ -1,0 +1,1343 @@
+<https://commons.wikimedia.org/wiki/Special:EntityData/M11422462> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Dataset> .
+<https://commons.wikimedia.org/wiki/Special:EntityData/M11422462> <http://schema.org/about> <https://commons.wikimedia.org/entity/M11422462> .
+<https://commons.wikimedia.org/wiki/Special:EntityData/M11422462> <http://creativecommons.org/ns#license> <http://creativecommons.org/publicdomain/zero/1.0/> .
+<https://commons.wikimedia.org/wiki/Special:EntityData/M11422462> <http://schema.org/softwareVersion> "1.0.0" .
+<https://commons.wikimedia.org/wiki/Special:EntityData/M11422462> <http://schema.org/version> "477914807"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://commons.wikimedia.org/wiki/Special:EntityData/M11422462> <http://schema.org/dateModified> "2020-10-02T03:42:55Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://commons.wikimedia.org/entity/M11422462> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Mediainfo> .
+<https://commons.wikimedia.org/entity/M11422462> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/MediaObject> .
+<https://commons.wikimedia.org/entity/M11422462> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<https://commons.wikimedia.org/entity/M11422462> <http://schema.org/encodingFormat> "image/png" .
+<https://commons.wikimedia.org/entity/M11422462> <http://schema.org/contentUrl> <https://upload.wikimedia.org/wikipedia/commons/a/a5/GameCube_controller.png> .
+<https://commons.wikimedia.org/entity/M11422462> <http://schema.org/contentSize> "2308498"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://commons.wikimedia.org/entity/M11422462> <http://schema.org/height> "1400"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://commons.wikimedia.org/entity/M11422462> <http://schema.org/width> "1800"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://commons.wikimedia.org/entity/M11422462> <http://www.wikidata.org/prop/direct/P571> "2010-09-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://commons.wikimedia.org/entity/M11422462> <http://www.wikidata.org/prop/direct/P6216> <http://www.wikidata.org/entity/Q50423863> .
+<https://commons.wikimedia.org/entity/M11422462> <http://www.wikidata.org/prop/direct/P275> <http://www.wikidata.org/entity/Q14946043> .
+<https://commons.wikimedia.org/entity/M11422462> <http://www.wikidata.org/prop/P571> <https://commons.wikimedia.org/entity/statement/M11422462-41D21535-F910-4CA0-AA04-32C6D01F921B> .
+<https://commons.wikimedia.org/entity/statement/M11422462-41D21535-F910-4CA0-AA04-32C6D01F921B> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Statement> .
+<https://commons.wikimedia.org/entity/statement/M11422462-41D21535-F910-4CA0-AA04-32C6D01F921B> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#BestRank> .
+<https://commons.wikimedia.org/entity/statement/M11422462-41D21535-F910-4CA0-AA04-32C6D01F921B> <http://wikiba.se/ontology#rank> <http://wikiba.se/ontology#NormalRank> .
+<https://commons.wikimedia.org/entity/statement/M11422462-41D21535-F910-4CA0-AA04-32C6D01F921B> <http://www.wikidata.org/prop/statement/P571> "2010-09-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://commons.wikimedia.org/entity/statement/M11422462-41D21535-F910-4CA0-AA04-32C6D01F921B> <http://www.wikidata.org/prop/statement/value/P571> <https://commons.wikimedia.org/value/2bb424b078bc39529fa392aabb91947e> .
+<https://commons.wikimedia.org/entity/M11422462> <http://www.wikidata.org/prop/P6216> <https://commons.wikimedia.org/entity/statement/M11422462-E4713FCE-38FE-437A-8567-CA4B33642B54> .
+<https://commons.wikimedia.org/entity/statement/M11422462-E4713FCE-38FE-437A-8567-CA4B33642B54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Statement> .
+<https://commons.wikimedia.org/entity/statement/M11422462-E4713FCE-38FE-437A-8567-CA4B33642B54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#BestRank> .
+<https://commons.wikimedia.org/entity/statement/M11422462-E4713FCE-38FE-437A-8567-CA4B33642B54> <http://wikiba.se/ontology#rank> <http://wikiba.se/ontology#NormalRank> .
+<https://commons.wikimedia.org/entity/statement/M11422462-E4713FCE-38FE-437A-8567-CA4B33642B54> <http://www.wikidata.org/prop/statement/P6216> <http://www.wikidata.org/entity/Q50423863> .
+<https://commons.wikimedia.org/entity/M11422462> <http://www.wikidata.org/prop/P275> <https://commons.wikimedia.org/entity/statement/M11422462-4961D636-C2A8-493D-B5C6-85B32E804D0C> .
+<https://commons.wikimedia.org/entity/statement/M11422462-4961D636-C2A8-493D-B5C6-85B32E804D0C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Statement> .
+<https://commons.wikimedia.org/entity/statement/M11422462-4961D636-C2A8-493D-B5C6-85B32E804D0C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#BestRank> .
+<https://commons.wikimedia.org/entity/statement/M11422462-4961D636-C2A8-493D-B5C6-85B32E804D0C> <http://wikiba.se/ontology#rank> <http://wikiba.se/ontology#NormalRank> .
+<https://commons.wikimedia.org/entity/statement/M11422462-4961D636-C2A8-493D-B5C6-85B32E804D0C> <http://www.wikidata.org/prop/statement/P275> <http://www.wikidata.org/entity/Q14946043> .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Property> .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Property> .
+<http://www.wikidata.org/entity/P571> <http://wikiba.se/ontology#propertyType> <http://wikiba.se/ontology#Time> .
+<http://www.wikidata.org/entity/P571> <http://wikiba.se/ontology#directClaim> <http://www.wikidata.org/prop/direct/P571> .
+<http://www.wikidata.org/entity/P571> <http://wikiba.se/ontology#claim> <http://www.wikidata.org/prop/P571> .
+<http://www.wikidata.org/entity/P571> <http://wikiba.se/ontology#statementProperty> <http://www.wikidata.org/prop/statement/P571> .
+<http://www.wikidata.org/entity/P571> <http://wikiba.se/ontology#statementValue> <http://www.wikidata.org/prop/statement/value/P571> .
+<http://www.wikidata.org/entity/P571> <http://wikiba.se/ontology#qualifier> <http://www.wikidata.org/prop/qualifier/P571> .
+<http://www.wikidata.org/entity/P571> <http://wikiba.se/ontology#qualifierValue> <http://www.wikidata.org/prop/qualifier/value/P571> .
+<http://www.wikidata.org/entity/P571> <http://wikiba.se/ontology#reference> <http://www.wikidata.org/prop/reference/P571> .
+<http://www.wikidata.org/entity/P571> <http://wikiba.se/ontology#referenceValue> <http://www.wikidata.org/prop/reference/value/P571> .
+<http://www.wikidata.org/entity/P571> <http://wikiba.se/ontology#novalue> <http://www.wikidata.org/prop/novalue/P571> .
+<http://www.wikidata.org/prop/P571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/value/P571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/value/P571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/value/P571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/direct/P571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/statement/P571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/qualifier/P571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/reference/P571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#DatatypeProperty> .
+<http://www.wikidata.org/prop/novalue/P571> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.wikidata.org/prop/novalue/P571> <http://www.w3.org/2002/07/owl#complementOf> _:ed4d9507645e2210d8e4ed14d3266267 .
+_:ed4d9507645e2210d8e4ed14d3266267 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:ed4d9507645e2210d8e4ed14d3266267 <http://www.w3.org/2002/07/owl#onProperty> <http://www.wikidata.org/prop/direct/P571> .
+_:ed4d9507645e2210d8e4ed14d3266267 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.w3.org/2002/07/owl#Thing> .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "inception"@en .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "inception"@en .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "inception"@en .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "date de fondation ou de cr\u00E9ation"@fr .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "date de fondation ou de cr\u00E9ation"@fr .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "date de fondation ou de cr\u00E9ation"@fr .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "luomisajankohta"@fi .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "luomisajankohta"@fi .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "luomisajankohta"@fi .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "datum vytvo\u0159en\u00ED\u202F/\u2009zalo\u017Een\u00ED"@cs .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "datum vytvo\u0159en\u00ED\u202F/\u2009zalo\u017Een\u00ED"@cs .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "datum vytvo\u0159en\u00ED\u202F/\u2009zalo\u017Een\u00ED"@cs .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "datum van oprichting of creatie"@nl .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "datum van oprichting of creatie"@nl .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "datum van oprichting of creatie"@nl .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "Gr\u00FCndung, Erstellung bzw. Entstehung oder Erbauung"@de .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gr\u00FCndung, Erstellung bzw. Entstehung oder Erbauung"@de .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "Gr\u00FCndung, Erstellung bzw. Entstehung oder Erbauung"@de .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "inception"@en-gb .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "inception"@en-gb .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "inception"@en-gb .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "data di fondazione o creazione"@it .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "data di fondazione o creazione"@it .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "data di fondazione o creazione"@it .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "fecha de fundaci\u00F3n o creaci\u00F3n"@es .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "fecha de fundaci\u00F3n o creaci\u00F3n"@es .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "fecha de fundaci\u00F3n o creaci\u00F3n"@es .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "Tied opstellt\u202F/\u2009gr\u00FCnnt"@nds .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "Tied opstellt\u202F/\u2009gr\u00FCnnt"@nds .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "Tied opstellt\u202F/\u2009gr\u00FCnnt"@nds .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u0434\u0430\u0442\u0430 \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u0438\u044F / \u0441\u043E\u0437\u0434\u0430\u043D\u0438\u044F / \u0432\u043E\u0437\u043D\u0438\u043A\u043D\u043E\u0432\u0435\u043D\u0438\u044F"@ru .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0434\u0430\u0442\u0430 \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u0438\u044F / \u0441\u043E\u0437\u0434\u0430\u043D\u0438\u044F / \u0432\u043E\u0437\u043D\u0438\u043A\u043D\u043E\u0432\u0435\u043D\u0438\u044F"@ru .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u0434\u0430\u0442\u0430 \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u0438\u044F / \u0441\u043E\u0437\u0434\u0430\u043D\u0438\u044F / \u0432\u043E\u0437\u043D\u0438\u043A\u043D\u043E\u0432\u0435\u043D\u0438\u044F"@ru .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u6210\u7ACB\u6216\u5EFA\u7ACB\u6642\u9593"@zh .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6210\u7ACB\u6216\u5EFA\u7ACB\u6642\u9593"@zh .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u6210\u7ACB\u6216\u5EFA\u7ACB\u6642\u9593"@zh .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u6210\u7ACB\u6216\u521B\u5EFA\u65F6\u95F4"@zh-hans .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6210\u7ACB\u6216\u521B\u5EFA\u65F6\u95F4"@zh-hans .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u6210\u7ACB\u6216\u521B\u5EFA\u65F6\u95F4"@zh-hans .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u6210\u7ACB\u6216\u5EFA\u7ACB\u6642\u9593"@zh-hant .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6210\u7ACB\u6216\u5EFA\u7ACB\u6642\u9593"@zh-hant .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u6210\u7ACB\u6216\u5EFA\u7ACB\u6642\u9593"@zh-hant .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u0434\u0430\u0442\u0430 \u0437\u0430\u0441\u043D\u0430\u0432\u0430\u043D\u043D\u044F\u202F/\u2009\u0441\u0442\u0432\u0430\u0440\u044D\u043D\u043D\u044F"@be .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0434\u0430\u0442\u0430 \u0437\u0430\u0441\u043D\u0430\u0432\u0430\u043D\u043D\u044F\u202F/\u2009\u0441\u0442\u0432\u0430\u0440\u044D\u043D\u043D\u044F"@be .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u0434\u0430\u0442\u0430 \u0437\u0430\u0441\u043D\u0430\u0432\u0430\u043D\u043D\u044F\u202F/\u2009\u0441\u0442\u0432\u0430\u0440\u044D\u043D\u043D\u044F"@be .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "etablerings-\u202F/\u2009skabelsesdato"@da .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "etablerings-\u202F/\u2009skabelsesdato"@da .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "etablerings-\u202F/\u2009skabelsesdato"@da .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u0434\u0430\u0442\u0430 \u0441\u0442\u0432\u043E\u0440\u0435\u043D\u043D\u044F\u202F/\u2009\u0437\u0430\u0441\u043D\u0443\u0432\u0430\u043D\u043D\u044F"@uk .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0434\u0430\u0442\u0430 \u0441\u0442\u0432\u043E\u0440\u0435\u043D\u043D\u044F\u202F/\u2009\u0437\u0430\u0441\u043D\u0443\u0432\u0430\u043D\u043D\u044F"@uk .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u0434\u0430\u0442\u0430 \u0441\u0442\u0432\u043E\u0440\u0435\u043D\u043D\u044F\u202F/\u2009\u0437\u0430\u0441\u043D\u0443\u0432\u0430\u043D\u043D\u044F"@uk .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u0D09\u0D24\u0D4D\u0D2A\u0D24\u0D4D\u0D24\u0D3F"@ml .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0D09\u0D24\u0D4D\u0D2A\u0D24\u0D4D\u0D24\u0D3F"@ml .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u0D09\u0D24\u0D4D\u0D2A\u0D24\u0D4D\u0D24\u0D3F"@ml .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u0938\u094D\u0925\u093E\u092A\u093F\u0924\u0926\u093F\u0928\u092E\u094D"@sa .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0938\u094D\u0925\u093E\u092A\u093F\u0924\u0926\u093F\u0928\u092E\u094D"@sa .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u0938\u094D\u0925\u093E\u092A\u093F\u0924\u0926\u093F\u0928\u092E\u094D"@sa .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "skipingstidspunkt"@nn .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "skipingstidspunkt"@nn .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "skipingstidspunkt"@nn .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "data utworzenia lub powstania"@pl .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "data utworzenia lub powstania"@pl .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "data utworzenia lub powstania"@pl .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "alap\u00EDt\u00E1s/keletkez\u00E9s ideje"@hu .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "alap\u00EDt\u00E1s/keletkez\u00E9s ideje"@hu .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "alap\u00EDt\u00E1s/keletkez\u00E9s ideje"@hu .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "sejak"@id .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "sejak"@id .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "sejak"@id .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "tanggal pandirian"@min .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "tanggal pandirian"@min .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "tanggal pandirian"@min .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "data de fondacion\u202F/\u2009creacion"@oc .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "data de fondacion\u202F/\u2009creacion"@oc .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "data de fondacion\u202F/\u2009creacion"@oc .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u062A\u0627\u0631\u06CC\u062E \u0633\u0627\u062E\u062A\u202F/\u2009\u062A\u0623\u0633\u06CC\u0633"@fa .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062A\u0627\u0631\u06CC\u062E \u0633\u0627\u062E\u062A\u202F/\u2009\u062A\u0623\u0633\u06CC\u0633"@fa .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u062A\u0627\u0631\u06CC\u062E \u0633\u0627\u062E\u062A\u202F/\u2009\u062A\u0623\u0633\u06CC\u0633"@fa .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u8A2D\u7ACB\u65E5"@ja .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8A2D\u7ACB\u65E5"@ja .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u8A2D\u7ACB\u65E5"@ja .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\uB9CC\uB4E4\uC5B4\uC9C4 \uB54C"@ko .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uB9CC\uB4E4\uC5B4\uC9C4 \uB54C"@ko .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\uB9CC\uB4E4\uC5B4\uC9C4 \uB54C"@ko .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "zbasu detri"@jbo .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "zbasu detri"@jbo .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "zbasu detri"@jbo .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u062F\u0627\u0645\u06D5\u0632\u0631\u0627\u0646"@ckb .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062F\u0627\u0645\u06D5\u0632\u0631\u0627\u0646"@ckb .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u062F\u0627\u0645\u06D5\u0632\u0631\u0627\u0646"@ckb .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "data de creaci\u00F3 o fundaci\u00F3"@ca .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "data de creaci\u00F3 o fundaci\u00F3"@ca .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "data de creaci\u00F3 o fundaci\u00F3"@ca .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u043E\u0441\u043D\u043E\u0432\u0430\u043D\u043E"@mk .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043E\u0441\u043D\u043E\u0432\u0430\u043D\u043E"@mk .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u043E\u0441\u043D\u043E\u0432\u0430\u043D\u043E"@mk .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u043E\u0441\u043D\u0438\u0432\u0430\u045A\u0435"@sr .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043E\u0441\u043D\u0438\u0432\u0430\u045A\u0435"@sr .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u043E\u0441\u043D\u0438\u0432\u0430\u045A\u0435"@sr .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u0434\u0430\u0442\u0443\u043C \u043E\u0441\u043D\u0438\u0432\u0430\u045A\u0430"@sr-ec .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0434\u0430\u0442\u0443\u043C \u043E\u0441\u043D\u0438\u0432\u0430\u045A\u0430"@sr-ec .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u0434\u0430\u0442\u0443\u043C \u043E\u0441\u043D\u0438\u0432\u0430\u045A\u0430"@sr-ec .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u0AB8\u0ACD\u0AA5\u0ABE\u0AAA\u0AA8 \u0AA6\u0ABF\u0AB5\u0AB8\u202F/\u2009\u0AB0\u0A9A\u0AA8\u0ABE \u0AA6\u0ABF\u0AB5\u0AB8"@gu .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0AB8\u0ACD\u0AA5\u0ABE\u0AAA\u0AA8 \u0AA6\u0ABF\u0AB5\u0AB8\u202F/\u2009\u0AB0\u0A9A\u0AA8\u0ABE \u0AA6\u0ABF\u0AB5\u0AB8"@gu .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u0AB8\u0ACD\u0AA5\u0ABE\u0AAA\u0AA8 \u0AA6\u0ABF\u0AB5\u0AB8\u202F/\u2009\u0AB0\u0A9A\u0AA8\u0ABE \u0AA6\u0ABF\u0AB5\u0AB8"@gu .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u6210\u7ACB\u6216\u521B\u5EFA\u65F6\u95F4"@zh-cn .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6210\u7ACB\u6216\u521B\u5EFA\u65F6\u95F4"@zh-cn .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u6210\u7ACB\u6216\u521B\u5EFA\u65F6\u95F4"@zh-cn .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u03B7\u03BC\u03B5\u03C1\u03BF\u03BC\u03B7\u03BD\u03AF\u03B1 \u03AF\u03B4\u03C1\u03C5\u03C3\u03B7\u03C2 \u03AE \u03B4\u03B7\u03BC\u03B9\u03BF\u03C5\u03C1\u03B3\u03AF\u03B1\u03C2"@el .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03B7\u03BC\u03B5\u03C1\u03BF\u03BC\u03B7\u03BD\u03AF\u03B1 \u03AF\u03B4\u03C1\u03C5\u03C3\u03B7\u03C2 \u03AE \u03B4\u03B7\u03BC\u03B9\u03BF\u03C5\u03C1\u03B3\u03AF\u03B1\u03C2"@el .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u03B7\u03BC\u03B5\u03C1\u03BF\u03BC\u03B7\u03BD\u03AF\u03B1 \u03AF\u03B4\u03C1\u03C5\u03C3\u03B7\u03C2 \u03AE \u03B4\u03B7\u03BC\u03B9\u03BF\u03C5\u03C1\u03B3\u03AF\u03B1\u03C2"@el .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "tarikh penubuhan"@ms .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "tarikh penubuhan"@ms .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "tarikh penubuhan"@ms .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "datum osnivanja\u202F/\u2009utemeljenja"@bs .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "datum osnivanja\u202F/\u2009utemeljenja"@bs .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "datum osnivanja\u202F/\u2009utemeljenja"@bs .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "araw ng pagtatag"@tl .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "araw ng pagtatag"@tl .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "araw ng pagtatag"@tl .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "datum f\u00F6r grundande eller skapande"@sv .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "datum f\u00F6r grundande eller skapande"@sv .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "datum f\u00F6r grundande eller skapande"@sv .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u6210\u7ACB\u65E5"@yue .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6210\u7ACB\u65E5"@yue .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u6210\u7ACB\u65E5"@yue .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "data de funda\u00E7\u00E3o ou cria\u00E7\u00E3o"@pt .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "data de funda\u00E7\u00E3o ou cria\u00E7\u00E3o"@pt .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "data de funda\u00E7\u00E3o ou cria\u00E7\u00E3o"@pt .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "data de funda\u00E7\u00E3o\u202F/\u2009cria\u00E7\u00E3o"@pt-br .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "data de funda\u00E7\u00E3o\u202F/\u2009cria\u00E7\u00E3o"@pt-br .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "data de funda\u00E7\u00E3o\u202F/\u2009cria\u00E7\u00E3o"@pt-br .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u05EA\u05D0\u05E8\u05D9\u05DA \u05D4\u05E7\u05DE\u05D4 \u05D0\u05D5 \u05D9\u05E6\u05D9\u05E8\u05D4"@he .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u05EA\u05D0\u05E8\u05D9\u05DA \u05D4\u05E7\u05DE\u05D4 \u05D0\u05D5 \u05D9\u05E6\u05D9\u05E8\u05D4"@he .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u05EA\u05D0\u05E8\u05D9\u05DA \u05D4\u05E7\u05DE\u05D4 \u05D0\u05D5 \u05D9\u05E6\u05D9\u05E8\u05D4"@he .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "data de creaci\u00F3n\u202Fou \u2009fundaci\u00F3n"@gl .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "data de creaci\u00F3n\u202Fou \u2009fundaci\u00F3n"@gl .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "data de creaci\u00F3n\u202Fou \u2009fundaci\u00F3n"@gl .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "stofndagsetning"@is .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "stofndagsetning"@is .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "stofndagsetning"@is .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "dato de fondo\u202F/\u2009kreo"@eo .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "dato de fondo\u202F/\u2009kreo"@eo .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "dato de fondo\u202F/\u2009kreo"@eo .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "izveides datums"@lv .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "izveides datums"@lv .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "izveides datums"@lv .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u0434\u0430\u0442\u0430 \u0437\u0430\u0441\u043D\u0430\u0432\u0430\u043D\u044C\u043D\u044F\u202F/\u2009\u0441\u0442\u0432\u0430\u0440\u044D\u043D\u044C\u043D\u044F"@be-tarask .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0434\u0430\u0442\u0430 \u0437\u0430\u0441\u043D\u0430\u0432\u0430\u043D\u044C\u043D\u044F\u202F/\u2009\u0441\u0442\u0432\u0430\u0440\u044D\u043D\u044C\u043D\u044F"@be-tarask .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u0434\u0430\u0442\u0430 \u0437\u0430\u0441\u043D\u0430\u0432\u0430\u043D\u044C\u043D\u044F\u202F/\u2009\u0441\u0442\u0432\u0430\u0440\u044D\u043D\u044C\u043D\u044F"@be-tarask .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "nastanak"@hr .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "nastanak"@hr .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "nastanak"@hr .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "dato for etablering, fremstilling e.l."@nb .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "dato for etablering, fremstilling e.l."@nb .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "dato for etablering, fremstilling e.l."@nb .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "Datum van stigting of ontstaan"@af .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "Datum van stigting of ontstaan"@af .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "Datum van stigting of ontstaan"@af .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "Gr\u00FCndigs-\u202F/\u2009Aalegigsdatum"@gsw .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gr\u00FCndigs-\u202F/\u2009Aalegigsdatum"@gsw .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "Gr\u00FCndigs-\u202F/\u2009Aalegigsdatum"@gsw .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "d\u00E1tum vzniku"@sk .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "d\u00E1tum vzniku"@sk .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "d\u00E1tum vzniku"@sk .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u043D\u0438\u0433\u0435\u0437\u043B\u04D9\u043D\u04AF \u0434\u0430\u0442\u0430\u0441\u044B"@tt .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043D\u0438\u0433\u0435\u0437\u043B\u04D9\u043D\u04AF \u0434\u0430\u0442\u0430\u0441\u044B"@tt .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u043D\u0438\u0433\u0435\u0437\u043B\u04D9\u043D\u04AF \u0434\u0430\u0442\u0430\u0441\u044B"@tt .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "ng\u00E0y th\u00E0nh l\u1EADp\u202F/\u2009t\u1EA1o ra"@vi .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "ng\u00E0y th\u00E0nh l\u1EADp\u202F/\u2009t\u1EA1o ra"@vi .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "ng\u00E0y th\u00E0nh l\u1EADp\u202F/\u2009t\u1EA1o ra"@vi .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "date o foondation or creation"@sco .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "date o foondation or creation"@sco .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "date o foondation or creation"@sco .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "date of foundation or creation"@en-ca .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "date of foundation or creation"@en-ca .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "date of foundation or creation"@en-ca .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u0C38\u0C4D\u0C25\u0C3E\u0C2A\u0C28 \u0C32\u0C47\u0C26\u0C3E \u0C38\u0C43\u0C1C\u0C28 \u0C24\u0C47\u0C26\u0C40"@te .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C38\u0C4D\u0C25\u0C3E\u0C2A\u0C28 \u0C32\u0C47\u0C26\u0C3E \u0C38\u0C43\u0C1C\u0C28 \u0C24\u0C47\u0C26\u0C40"@te .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u0C38\u0C4D\u0C25\u0C3E\u0C2A\u0C28 \u0C32\u0C47\u0C26\u0C3E \u0C38\u0C43\u0C1C\u0C28 \u0C24\u0C47\u0C26\u0C40"@te .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "petsa ti pundasion wenno pannakapartuat"@ilo .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "petsa ti pundasion wenno pannakapartuat"@ilo .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "petsa ti pundasion wenno pannakapartuat"@ilo .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u6210\u7ACB\u6216\u5EFA\u7ACB\u6642\u9593"@zh-hk .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6210\u7ACB\u6216\u5EFA\u7ACB\u6642\u9593"@zh-hk .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u6210\u7ACB\u6216\u5EFA\u7ACB\u6642\u9593"@zh-hk .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u0B06\u0B30\u0B2E\u0B4D\u0B2D \u0B39\u0B47\u0B2C\u0B3E \u0B26\u0B3F\u0B28"@or .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0B06\u0B30\u0B2E\u0B4D\u0B2D \u0B39\u0B47\u0B2C\u0B3E \u0B26\u0B3F\u0B28"@or .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u0B06\u0B30\u0B2E\u0B4D\u0B2D \u0B39\u0B47\u0B2C\u0B3E \u0B26\u0B3F\u0B28"@or .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u6210\u7ACB\u6216\u5EFA\u7ACB\u6642\u9593"@zh-tw .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6210\u7ACB\u6216\u5EFA\u7ACB\u6642\u9593"@zh-tw .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u6210\u7ACB\u6216\u5EFA\u7ACB\u6642\u9593"@zh-tw .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u0928\u093F\u0930\u094D\u092E\u093E\u0923 \u0915\u0940 \u0924\u093F\u0925\u093F"@hi .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0928\u093F\u0930\u094D\u092E\u093E\u0923 \u0915\u0940 \u0924\u093F\u0925\u093F"@hi .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u0928\u093F\u0930\u094D\u092E\u093E\u0923 \u0915\u0940 \u0924\u093F\u0925\u093F"@hi .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "datum ustanovitve"@sl .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "datum ustanovitve"@sl .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "datum ustanovitve"@sl .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u05D2\u05E8\u05D9\u05E0\u05D3\u05D5\u05E0\u05D2\u05BE\u05D3\u05D0\u05D8\u05E2"@yi .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u05D2\u05E8\u05D9\u05E0\u05D3\u05D5\u05E0\u05D2\u05BE\u05D3\u05D0\u05D8\u05E2"@yi .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u05D2\u05E8\u05D9\u05E0\u05D3\u05D5\u05E0\u05D2\u05BE\u05D3\u05D0\u05D8\u05E2"@yi .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u09AA\u09CD\u09B0\u09A4\u09BF\u09B7\u09CD\u09A0\u09BE \u09AC\u09BE \u09B8\u09C3\u09B7\u09CD\u099F\u09BF\u09B0 \u09A4\u09BE\u09B0\u09BF\u0996"@bn .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u09AA\u09CD\u09B0\u09A4\u09BF\u09B7\u09CD\u09A0\u09BE \u09AC\u09BE \u09B8\u09C3\u09B7\u09CD\u099F\u09BF\u09B0 \u09A4\u09BE\u09B0\u09BF\u0996"@bn .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u09AA\u09CD\u09B0\u09A4\u09BF\u09B7\u09CD\u09A0\u09BE \u09AC\u09BE \u09B8\u09C3\u09B7\u09CD\u099F\u09BF\u09B0 \u09A4\u09BE\u09B0\u09BF\u0996"@bn .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u10D3\u10D0\u10D0\u10E0\u10E1\u10D4\u10D1\u10D8\u10E1 \u10D0\u10DC \u10E8\u10D4\u10E5\u10DB\u10DC\u10D8\u10E1 \u10D7\u10D0\u10E0\u10D8\u10E6\u10D8"@ka .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u10D3\u10D0\u10D0\u10E0\u10E1\u10D4\u10D1\u10D8\u10E1 \u10D0\u10DC \u10E8\u10D4\u10E5\u10DB\u10DC\u10D8\u10E1 \u10D7\u10D0\u10E0\u10D8\u10E6\u10D8"@ka .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u10D3\u10D0\u10D0\u10E0\u10E1\u10D4\u10D1\u10D8\u10E1 \u10D0\u10DC \u10E8\u10D4\u10E5\u10DB\u10DC\u10D8\u10E1 \u10D7\u10D0\u10E0\u10D8\u10E6\u10D8"@ka .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "asutamise v\u00F5i loomise aeg"@et .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "asutamise v\u00F5i loomise aeg"@et .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "asutamise v\u00F5i loomise aeg"@et .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u0E27\u0E31\u0E19\u0E17\u0E35\u0E48\u0E2A\u0E23\u0E49\u0E32\u0E07/\u0E27\u0E31\u0E19\u0E01\u0E48\u0E2D\u0E15\u0E31\u0E49\u0E07"@th .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E27\u0E31\u0E19\u0E17\u0E35\u0E48\u0E2A\u0E23\u0E49\u0E32\u0E07/\u0E27\u0E31\u0E19\u0E01\u0E48\u0E2D\u0E15\u0E31\u0E49\u0E07"@th .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u0E27\u0E31\u0E19\u0E17\u0E35\u0E48\u0E2A\u0E23\u0E49\u0E32\u0E07/\u0E27\u0E31\u0E19\u0E01\u0E48\u0E2D\u0E15\u0E31\u0E49\u0E07"@th .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "sorrera data"@eu .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "sorrera data"@eu .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "sorrera data"@eu .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "data di funnazzioni o criazzioni"@scn .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "data di funnazzioni o criazzioni"@scn .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "data di funnazzioni o criazzioni"@scn .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u0938\u094D\u0925\u093E\u092A\u0928\u093E"@mr .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0938\u094D\u0925\u093E\u092A\u0928\u093E"@mr .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u0938\u094D\u0925\u093E\u092A\u0928\u093E"@mr .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "inceptio"@la .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "inceptio"@la .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "inceptio"@la .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u6210\u7ACB\u6216\u5EFA\u7ACB\u6642\u9593"@zh-mo .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6210\u7ACB\u6216\u5EFA\u7ACB\u6642\u9593"@zh-mo .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u6210\u7ACB\u6216\u5EFA\u7ACB\u6642\u9593"@zh-mo .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u6210\u7ACB\u6216\u521B\u5EFA\u65F6\u95F4"@zh-my .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6210\u7ACB\u6216\u521B\u5EFA\u65F6\u95F4"@zh-my .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u6210\u7ACB\u6216\u521B\u5EFA\u65F6\u95F4"@zh-my .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u6210\u7ACB\u6216\u521B\u5EFA\u65F6\u95F4"@zh-sg .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6210\u7ACB\u6216\u521B\u5EFA\u65F6\u95F4"@zh-sg .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u6210\u7ACB\u6216\u521B\u5EFA\u65F6\u95F4"@zh-sg .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u0938\u094D\u0925\u093E\u092A\u0928\u093E"@ne .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0938\u094D\u0925\u093E\u092A\u0928\u093E"@ne .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u0938\u094D\u0925\u093E\u092A\u0928\u093E"@ne .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "dechreuwyd"@cy .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "dechreuwyd"@cy .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "dechreuwyd"@cy .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u057D\u057F\u0565\u0572\u056E\u0578\u0582\u0574"@hy .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u057D\u057F\u0565\u0572\u056E\u0578\u0582\u0574"@hy .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u057D\u057F\u0565\u0572\u056E\u0578\u0582\u0574"@hy .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "prad\u017Eia"@lt .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "prad\u017Eia"@lt .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "prad\u017Eia"@lt .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "data de creaci\u00F3n o fundaci\u00F3n"@ast .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "data de creaci\u00F3n o fundaci\u00F3n"@ast .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "data de creaci\u00F3n o fundaci\u00F3n"@ast .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u00EEnfiin\u021Bare"@ro .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00EEnfiin\u021Bare"@ro .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u00EEnfiin\u021Bare"@ro .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u0628\u0646\u0633\u067C \u0627\u064A\u069A\u0648\u062F\u0646\u0647"@ps .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0628\u0646\u0633\u067C \u0627\u064A\u069A\u0648\u062F\u0646\u0647"@ps .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u0628\u0646\u0633\u067C \u0627\u064A\u069A\u0648\u062F\u0646\u0647"@ps .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u0627\u0644\u0628\u062F\u0627\u064A\u0629"@ar .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0627\u0644\u0628\u062F\u0627\u064A\u0629"@ar .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u0627\u0644\u0628\u062F\u0627\u064A\u0629"@ar .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "dootem faan't gr\u00FCnjleien"@frr .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "dootem faan't gr\u00FCnjleien"@frr .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "dootem faan't gr\u00FCnjleien"@frr .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u0434\u0430\u0442\u0430 \u043D\u0430 \u0441\u044A\u0437\u0434\u0430\u0432\u0430\u043D\u0435"@bg .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0434\u0430\u0442\u0430 \u043D\u0430 \u0441\u044A\u0437\u0434\u0430\u0432\u0430\u043D\u0435"@bg .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u0434\u0430\u0442\u0430 \u043D\u0430 \u0441\u044A\u0437\u0434\u0430\u0432\u0430\u043D\u0435"@bg .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "fiandohana"@mg .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "fiandohana"@mg .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "fiandohana"@mg .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "Gr\u00EBnnungsdatum\u202F/\u2009Baudatum"@lb .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gr\u00EBnnungsdatum\u202F/\u2009Baudatum"@lb .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "Gr\u00EBnnungsdatum\u202F/\u2009Baudatum"@lb .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "d\u00E1ta a buna\u00EDodh"@ga .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "d\u00E1ta a buna\u00EDodh"@ga .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "d\u00E1ta a buna\u00EDodh"@ga .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u0BA4\u0BCA\u0B9F\u0B95\u0BCD\u0B95\u0BAE\u0BCD"@ta .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0BA4\u0BCA\u0B9F\u0B95\u0BCD\u0B95\u0BAE\u0BCD"@ta .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u0BA4\u0BCA\u0B9F\u0B95\u0BCD\u0B95\u0BAE\u0BCD"@ta .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u0C89\u0CAA\u0C95\u0CCD\u0CB0\u0CAE"@kn .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C89\u0CAA\u0C95\u0CCD\u0CB0\u0CAE"@kn .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u0C89\u0CAA\u0C95\u0CCD\u0CB0\u0CAE"@kn .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "stovnan"@fo .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "stovnan"@fo .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "stovnan"@fo .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "dema avab\u00FBn\u00EA"@ku-latn .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "dema avab\u00FBn\u00EA"@ku-latn .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "dema avab\u00FBn\u00EA"@ku-latn .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u0442\u0430\u044A\u0440\u0438\u0445\u0438 \u0442\u0430\u044A\u0441\u0438\u0441"@tg .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0442\u0430\u044A\u0440\u0438\u0445\u0438 \u0442\u0430\u044A\u0441\u0438\u0441"@tg .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u0442\u0430\u044A\u0440\u0438\u0445\u0438 \u0442\u0430\u044A\u0441\u0438\u0441"@tg .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "kurulu\u015Fu"@tr .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "kurulu\u015Fu"@tr .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "kurulu\u015Fu"@tr .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "deiziad kroui\u00F1"@br .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "deiziad kroui\u00F1"@br .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "deiziad kroui\u00F1"@br .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u043D\u0438\u0433\u0435\u0499\u043B\u04D9\u04AF \u0434\u0430\u0442\u0430\u04BB\u044B"@ba .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043D\u0438\u0433\u0435\u0499\u043B\u04D9\u04AF \u0434\u0430\u0442\u0430\u04BB\u044B"@ba .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u043D\u0438\u0433\u0435\u0499\u043B\u04D9\u04AF \u0434\u0430\u0442\u0430\u04BB\u044B"@ba .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "datum za\u0142o\u017Eenja\u202F/\u2009wutworjenja"@hsb .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "datum za\u0142o\u017Eenja\u202F/\u2009wutworjenja"@hsb .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "datum za\u0142o\u017Eenja\u202F/\u2009wutworjenja"@hsb .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u00ECb\u00E8r\u00E8"@yo .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u00ECb\u00E8r\u00E8"@yo .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u00ECb\u00E8r\u00E8"@yo .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u0441\u0430\u043D\u0430\u0438 \u0442\u0430\u044A\u0441\u0438\u0441\u202F/\u2009\u044D\u04B7\u043E\u0434"@tg-cyrl .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0441\u0430\u043D\u0430\u0438 \u0442\u0430\u044A\u0441\u0438\u0441\u202F/\u2009\u044D\u04B7\u043E\u0434"@tg-cyrl .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u0441\u0430\u043D\u0430\u0438 \u0442\u0430\u044A\u0441\u0438\u0441\u202F/\u2009\u044D\u04B7\u043E\u0434"@tg-cyrl .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u0A38\u0A25\u0A3E\u0A2A\u0A28\u0A3E"@pa .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0A38\u0A25\u0A3E\u0A2A\u0A28\u0A3E"@pa .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u0A38\u0A25\u0A3E\u0A2A\u0A28\u0A3E"@pa .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u062A\u0627\u0633\u06CC\u0633"@ur .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062A\u0627\u0633\u06CC\u0633"@ur .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u062A\u0627\u0633\u06CC\u0633"@ur .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "fillimi"@sq .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "fillimi"@sq .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "fillimi"@sq .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u0439\u0438\u043B\u043B\u0438\u043D\u0430 \u0442\u0435\u0440\u0430\u0445\u044C\u202F/\u2009\u043A\u0445\u043E\u044C\u043B\u043B\u0438\u043D\u0430"@ce .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0439\u0438\u043B\u043B\u0438\u043D\u0430 \u0442\u0435\u0440\u0430\u0445\u044C\u202F/\u2009\u043A\u0445\u043E\u044C\u043B\u043B\u0438\u043D\u0430"@ce .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u0439\u0438\u043B\u043B\u0438\u043D\u0430 \u0442\u0435\u0440\u0430\u0445\u044C\u202F/\u2009\u043A\u0445\u043E\u044C\u043B\u043B\u0438\u043D\u0430"@ce .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "farawa"@ha .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "farawa"@ha .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "farawa"@ha .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "yaranma tarixi"@az .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "yaranma tarixi"@az .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "yaranma tarixi"@az .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "cur air cois"@gd .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "cur air cois"@gd .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "cur air cois"@gd .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "pitc ka tcimatakaniwok"@atj .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "pitc ka tcimatakaniwok"@atj .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "pitc ka tcimatakaniwok"@atj .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u041D\u0435\u0433\u0438\u0437\u0434\u0435\u043B\u0433\u0435\u043D \u043A\u04AF\u043D\u04AF"@ky .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041D\u0435\u0433\u0438\u0437\u0434\u0435\u043B\u0433\u0435\u043D \u043A\u04AF\u043D\u04AF"@ky .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u041D\u0435\u0433\u0438\u0437\u0434\u0435\u043B\u0433\u0435\u043D \u043A\u04AF\u043D\u04AF"@ky .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "Sazbiyay\u0131\u015F"@diq .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sazbiyay\u0131\u015F"@diq .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "Sazbiyay\u0131\u015F"@diq .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "ukuqala"@xh .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "ukuqala"@xh .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "ukuqala"@xh .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u0563\u0578\u0580\u056E\u0585\u0576 \u0568\u0576\u0569\u0561\u0581\u0584"@hyw .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0563\u0578\u0580\u056E\u0585\u0576 \u0568\u0576\u0569\u0561\u0581\u0584"@hyw .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u0563\u0578\u0580\u056E\u0585\u0576 \u0568\u0576\u0569\u0561\u0581\u0584"@hyw .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u07DF\u07CA\u07DD\u07DF\u07D0\u07D5\u07CE\u07E1\u07CA"@nqo .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u07DF\u07CA\u07DD\u07DF\u07D0\u07D5\u07CE\u07E1\u07CA"@nqo .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u07DF\u07CA\u07DD\u07DF\u07D0\u07D5\u07CE\u07E1\u07CA"@nqo .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "data de creasion o fondasion"@vec .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "data de creasion o fondasion"@vec .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "data de creasion o fondasion"@vec .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "perustamizen paivymi\u00E4ry"@olo .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "perustamizen paivymi\u00E4ry"@olo .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "perustamizen paivymi\u00E4ry"@olo .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "Gr\u00FCndung, Erstellung bzw. Entstehung oder Erbauung"@de-at .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gr\u00FCndung, Erstellung bzw. Entstehung oder Erbauung"@de-at .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "Gr\u00FCndung, Erstellung bzw. Entstehung oder Erbauung"@de-at .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2000/01/rdf-schema#label> "\u043D\u0438\u0433\u0435\u0437\u043B\u04D9\u043D\u04AF \u0434\u0430\u0442\u0430\u0441\u044B"@tt-cyrl .
+<http://www.wikidata.org/entity/P571> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043D\u0438\u0433\u0435\u0437\u043B\u04D9\u043D\u04AF \u0434\u0430\u0442\u0430\u0441\u044B"@tt-cyrl .
+<http://www.wikidata.org/entity/P571> <http://schema.org/name> "\u043D\u0438\u0433\u0435\u0437\u043B\u04D9\u043D\u04AF \u0434\u0430\u0442\u0430\u0441\u044B"@tt-cyrl .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "date or point in time when the subject came into existence as defined"@en .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "milloin organisaatio\u202F/\u2009kohde on perustettu\u202F/\u2009luotu"@fi .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "Datum, an dem eine Organisation\u00A0/ ein Objekt gegr\u00FCndet\u202F/\u2009erstellt wurde"@de .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "fecha en la cual fue fundada\u202F/\u2009creada la organizaci\u00F3n u objeto"@es .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "dato eller tidspunkt for hvorn\u00E5r organisationen\u202F/\u2009objektet er blevet dannet\u202F/\u2009oprettet\u202F/\u2009skabt"@da .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "\u0D38\u0D02\u0D18\u0D1F\u0D28\u0D2F\u0D41\u0D02 \u0D2E\u0D31\u0D4D\u0D31\u0D41\u0D02 \u0D38\u0D4D\u0D25\u0D3E\u0D2A\u0D3F\u0D1A\u0D4D\u0D1A \u0D24\u0D40\u0D2F\u0D24\u0D3F"@ml .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "tanggal atau waktu suatu lembaga atau objek ditemukan, dibuat, diciptakan, atau didirikan"@id .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "tanggal saaik pandirian organisasi"@min .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "\u0632\u0645\u0627\u0646 \u0631\u0627\u0647\u200E\u0627\u0646\u062F\u0627\u0632\u06CC \u0633\u0627\u0632\u0645\u0627\u0646 \u06CC\u0627 \u0628\u0646\u0627\u06CC \u0645\u0648\u0631\u062F \u0646\u0638\u0631"@fa .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "quand une organisation\u00A0/ un objet a \u00E9t\u00E9 fond\u00E9\u202F/\u2009cr\u00E9\u00E9"@fr .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "data en qu\u00E8 l'organitzaci\u00F3 o objecte fou creat o fundat"@ca .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "\u0A9C\u0ACD\u0AAF\u0ABE\u0AB0\u0AC7 \u0AB8\u0A82\u0A97\u0AA0\u0AA8\u202F/\u2009\u0AAA\u0AA6\u0ABE\u0AB0\u0ACD\u0AA5\u0AA8\u0AC0 \u0AB0\u0A9A\u0AA8\u0ABE \u0AA5\u0A88 \u0A85\u0AA5\u0AB5\u0ABE \u0AB6\u0AB0\u0AC2\u0A86\u0AA4 \u0AA5\u0A88"@gu .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "\u03B7\u03BC\u03B5\u03C1\u03BF\u03BC\u03B7\u03BD\u03AF\u03B1 \u03BA\u03B1\u03C4\u03AC \u03C4\u03B7\u03BD \u03BF\u03C0\u03BF\u03AF\u03B1 \u03BF \u03BF\u03C1\u03B3\u03B1\u03BD\u03B9\u03C3\u03BC\u03CC\u03C2\u202F/\u2009\u03B1\u03BD\u03C4\u03B9\u03BA\u03B5\u03AF\u03BC\u03B5\u03BD\u03BF \u03B9\u03B4\u03C1\u03CD\u03B8\u03B7\u03BA\u03B5\u202F/\u2009\u03B4\u03B7\u03BC\u03B9\u03BF\u03C5\u03C1\u03B3\u03AE\u03B8\u03B7\u03BA\u03B5"@el .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "data in cui \u00E8 stato fondato, creato, istituito o costruito l'oggetto"@it .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "\u05EA\u05D0\u05E8\u05D9\u05DA \u05D4\u05E7\u05DE\u05D4 \u05E9\u05DC \u05D0\u05E8\u05D2\u05D5\u05DF, \u05DE\u05D3\u05D9\u05E0\u05D4 \u05D5\u05DB\u05D5\u05F3. \u05D9\u05DB\u05D5\u05DC \u05DC\u05E9\u05DE\u05E9 \u05D2\u05DD \u05DB\u05EA\u05D0\u05E8\u05D9\u05DA \u05D9\u05E6\u05D9\u05E8\u05D4 \u05E9\u05DC \u05D9\u05E6\u05D9\u05E8\u05EA \u05D0\u05D5\u05DE\u05E0\u05D5\u05EA \u05D0\u05D5 \u05D4\u05DE\u05E6\u05D0\u05D4."@he .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "\u7D44\u7E54\u30FB\u4E8B\u7269\u304C\u8A2D\u7ACB\u30FB\u4F5C\u6210\u3055\u308C\u305F\u5E74\u6708\u65E5"@ja .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "data quando a organiza\u00E7\u00E3o\u202F/\u2009objeto foi fundado/criado"@pt-br .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "datum kada je subjekt kako je definiran nastao"@hr .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "n\u00E5r organisasjonen, objektet e.l. ble grunnlagt\u202F/\u2009opprettet\u202F/\u2009fremstilt e.l."@nb .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "\u0434\u0430\u0442\u0430, \u043A\u043E\u0433\u0434\u0430 \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F \u0438\u043B\u0438 \u043E\u0431\u044A\u0435\u043A\u0442 \u0431\u044B\u043B\u0438 \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u044B/\u0441\u043E\u0437\u0434\u0430\u043D\u044B"@ru .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "az alany vagy szervezet keletkez\u00E9si vagy alap\u00EDt\u00E1si d\u00E1tuma"@hu .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "Datum, wu ne Organisation\u00A0/ en Obj\u00E4kt grindet\u202F/\u2009aaglait woren isch"@gsw .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "\u7EC4\u7EC7\u6216\u4E8B\u7269\u6210\u7ACB\u3001\u8BDE\u751F\u7684\u65F6\u95F4\u3002"@zh .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "\u0434\u0430\u0442\u0430, \u043A\u0430\u043B\u0456 \u0430\u0440\u0433\u0430\u043D\u0456\u0437\u0430\u0446\u044B\u044F\u202F/\u2009\u0430\u0431\u2019\u0435\u043A\u0442 \u0431\u044B\u043B\u0456 \u0437\u0430\u0441\u043D\u0430\u0432\u0430\u043D\u044B\u044F\u202F/\u2009\u0437\u0430\u043F\u0430\u0447\u0430\u0442\u043A\u0430\u0432\u0430\u043D\u044B\u044F"@be-tarask .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "\u0C38\u0C02\u0C38\u0C4D\u0C25\u0C28\u0C41 \u0C38\u0C4D\u0C25\u0C3E\u0C2A\u0C3F\u0C02\u0C1A\u0C3F\u0C28 \u0C32\u0C47\u0C26\u0C3E \u0C35\u0C38\u0C4D\u0C24\u0C41\u0C35\u0C41\u0C28\u0C41 \u0C38\u0C43\u0C1C\u0C3F\u0C02\u0C1A\u0C3F\u0C28 \u0C24\u0C47\u0C26\u0C40"@te .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "idi napundar\u202F/\u2009napartuat ti gunglo\u202F/\u2009banag"@ilo .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "quando a organiza\u00E7\u00E3o foi fundada ou um objeto foi criado"@pt .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "kiam la organizo\u202F/\u2009objekto estis kreita\u202F/\u2009fondita"@eo .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "\u0935\u093F\u0937\u092F \u0915\u0947 \u0928\u093F\u0930\u094D\u092E\u093E\u0923 \u0915\u0940 \u0924\u093E\u0930\u0940\u0916"@hi .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "date or point in time when the organization\u202F/\u2009object was founded\u202F/\u2009created"@en-gb .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "\u09AF\u09C7\u09A6\u09BF\u09A8 \u09B8\u0982\u09B8\u09CD\u09A5\u09BE/\u09AC\u09B8\u09CD\u09A4\u09C1\u099F\u09BF \u09AA\u09CD\u09B0\u09A4\u09BF\u09B7\u09CD\u09A0\u09BF\u09A4/\u09B8\u09C3\u09B7\u09CD\u099F\u09BF \u09B9\u09AF\u09BC\u09C7\u099B\u09C7"@bn .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "datum eller \u00E5r d\u00E5 organisationen\u202F/\u2009objektet grundades eller skapades"@sv .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "sorreraren data"@eu .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "\uD56D\uBAA9 \uC8FC\uC81C\uAC00 \uC0DD\uACA8\uB09C \uC2DC\uAC01\u00B7\uC77C\uC790\u00B7\uC5F0\uB3C4\u00B7\uC2DC\uB300"@ko .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "la data quannu fu funnata o puru criata sta cosa"@scn .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "datum waarop een organisatie opgericht of een object gemaakt is"@nl .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "\u7EC4\u7EC7\u6216\u4E8B\u7269\u6210\u7ACB\u3001\u8BDE\u751F\u7684\u65F6\u95F4"@zh-hans .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "data lub moment w czasie kiedy element zosta\u0142 utworzony, za\u0142o\u017Cony lub powsta\u0142"@pl .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "fecha o puntu nel tiempu nel que se cre\u00F3 o fund\u00F3 la organizaci\u00F3n\u202F/\u2009oxetu"@ast .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "\u0434\u0430\u0442\u0430 \u0447\u0438 \u0442\u043E\u0447\u043A\u0430 \u0443 \u0447\u0430\u0441\u0456, \u043A\u043E\u043B\u0438 \u043E\u0431'\u0454\u043A\u0442 \u0431\u0443\u043B\u043E \u0441\u0442\u0432\u043E\u0440\u0435\u043D\u043E\u202F/\u2009\u0437\u0430\u0441\u043D\u043E\u0432\u0430\u043D\u043E"@uk .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "\u0434\u0430\u0442\u0430 \u0438\u043B\u0438 \u043F\u0435\u0440\u0438\u043E\u0434, \u043A\u043E\u0433\u0430\u0442\u043E \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u044F\u0442\u0430\u202F/\u2009\u043E\u0431\u0435\u043A\u0442\u0430 \u0435 \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u202F/\u2009\u0441\u044A\u0437\u0434\u0430\u0434\u0435\u043D"@bg .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "laika br\u012Bdis, kad tika izveidota organiz\u0101cija vai rad\u012Bts objekts"@lv .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "\u0BA4\u0BCA\u0B9F\u0B99\u0BCD\u0B95\u0BBF\u0BAF \u0B86\u0BA3\u0BCD\u0B9F\u0BC1"@ta .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "t\u00E1 i\u00F0 felagsskapurin\u202F/\u2009luturin var\u00F0 stovna\u00F0ur\u202F/\u2009skapa\u00F0ur"@fo .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "\u062A\u0627\u0631\u064A\u062E \u0623\u0648 \u0648\u0642\u062A \u0628\u062F\u0627\u064A\u0629 \u0623\u0648 \u062A\u0623\u0633\u064A\u0633 \u0645\u0646\u0638\u0645\u0629 \u0623\u0648 \u0645\u0646\u0635\u0628 \u0623\u0648 \u0639\u0646\u0635\u0631 \u0645\u0627"@ar .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "\u043F\u043E\u044F\u0433\u0443\u0437\u043E\u0440\u04E3"@tg .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "\u010Das, kdy byl objekt zalo\u017Een\u202F/\u2009vytvo\u0159en"@cs .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "kurulu\u015F\u202F/\u2009nesnenin kuruldu\u011Fu ya da olu\u015Fturuldu\u011Fu tarih veya tarihler"@tr .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "deiziad krouidigezh\u202F/\u2009diazezadenn un aozadur/un dra"@br .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "datum, hdy\u017E je so organizacija za\u0142o\u017Ei\u0142a\u202F/\u2009objekt wutwori\u0142"@hsb .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "dat\u00EB ose shenj\u00EB n\u00EB koh\u00EBn kur u themelua\u00A0/ u krijua organizata\u00A0/ subjekti"@sq .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "\u0434\u0430\u0442\u0443\u043C \u0438\u043B\u0438 \u0442\u0440\u0435\u043D\u0443\u0442\u0430\u043A \u0443 \u0432\u0440\u0435\u043C\u0435\u043D\u0443 \u043A\u0430\u0434\u0430 \u0458\u0435 \u043E\u0440\u0433\u0430\u043D\u0438\u0437\u0430\u0446\u0438\u0458\u0430\u202F/\u2009\u0442\u0435\u043C\u0430 \u043E\u0441\u043D\u043E\u0432\u0430\u043D\u0430\u202F/\u2009\u043D\u0430\u043F\u0440\u0430\u0432\u0459\u0435\u043D\u0430"@sr .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "\u0A35\u0A3F\u0A38\u0A3C\u0A47 \u0A26\u0A47 \u0A28\u0A3F\u0A30\u0A2E\u0A3E\u0A23 \u0A26\u0A40 \u0A2E\u0A3F\u0A24\u0A40"@pa .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "kdaj je bila neka stvar\u202F/\u2009organizacija zasnovana\u202F/\u2009ustanovljena"@sl .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "ng\u00E0y ho\u1EB7c th\u1EDDi \u0111i\u1EC3m th\u00E0nh l\u1EADp t\u1ED5 ch\u1EE9c ho\u1EB7c t\u1EA1o ra \u0111\u1ED1i t\u01B0\u1EE3ng"@vi .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "pitc ka ocitakaniwok oteno"@atj .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "\u7D44\u7E54\u6216\u4E8B\u7269\u6210\u7ACB\u3001\u5275\u5EFA\u7684\u6642\u9593\u3002"@zh-hant .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "\u7D44\u7E54\u6216\u4E8B\u7269\u6210\u7ACB\u3001\u5275\u5EFA\u7684\u6642\u9593\u3002"@zh-tw .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "data cando a organizaci\u00F3n ou obxecto foi fundado ou creado"@gl .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "\u0B2C\u0B3F\u0B37\u0B5F\u0B1F\u0B3F \u0B24\u0B3F\u0B06\u0B30\u0B3F \u0B39\u0B47\u0B2C\u0B3E\u0B30 \u0B24\u0B3E\u0B30\u0B3F\u0B16"@or .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "\u07DE\u07CF \u07E6\u07CB\u07EB \u07DB\u07CB\u07EB \u07DF\u07CA\u07EB \u07D5\u07CD\u07D3\u07CA\u07EF\u07E6\u07CA \u07D8\u07D0\u07EB \u07D5\u07CE\u07EC\u07E1\u07CA \u07E1\u07CD\u07F2 \u07E0\u07CA\u07EB."@nqo .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "\u0561\u057D\u057A\u0561\u0580\u0567\u0566\u056B\u0576 \u0563\u0578\u0580\u056E\u0578\u0582\u0576\u0565\u0561\u0575 \u057F\u0561\u0580\u056B\u0576\u0565\u0580"@hyw .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "\u7EC4\u7EC7\u6216\u4E8B\u7269\u6210\u7ACB\u3001\u8BDE\u751F\u7684\u65F6\u95F4\u3002"@zh-cn .
+<http://www.wikidata.org/entity/P571> <http://schema.org/description> "\u0E43\u0E0A\u0E49\u0E40\u0E21\u0E37\u0E48\u0E2D\u0E2B\u0E21\u0E32\u0E22\u0E16\u0E36\u0E07\u0E27\u0E31\u0E19\u0E17\u0E35\u0E48\u0E01\u0E48\u0E2D\u0E15\u0E31\u0E49\u0E07 \u0E17\u0E31\u0E49\u0E07\u0E01\u0E34\u0E08\u0E01\u0E32\u0E23 \u0E2B\u0E49\u0E32\u0E07\u0E23\u0E49\u0E32\u0E19 \u0E1A\u0E23\u0E34\u0E29\u0E31\u0E17 \u0E42\u0E23\u0E07\u0E40\u0E23\u0E35\u0E22\u0E19 \u0E2D\u0E07\u0E04\u0E4C\u0E01\u0E23 \u0E2B\u0E23\u0E37\u0E2D\u0E43\u0E0A\u0E49\u0E01\u0E31\u0E1A\u0E27\u0E31\u0E19\u0E17\u0E35\u0E48\u0E16\u0E48\u0E32\u0E22\u0E20\u0E32\u0E1E \u0E27\u0E31\u0E19\u0E27\u0E32\u0E14\u0E20\u0E32\u0E1E \u0E27\u0E31\u0E19\u0E40\u0E1C\u0E22\u0E41\u0E1E\u0E23\u0E48 \u0E01\u0E47\u0E44\u0E14\u0E49\u0E40\u0E0A\u0E48\u0E19\u0E01\u0E31\u0E19"@th .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Item> .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "auteursrechtelijk beschermd"@nl .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "auteursrechtelijk beschermd"@nl .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "auteursrechtelijk beschermd"@nl .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "copyrighted"@en .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "copyrighted"@en .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "copyrighted"@en .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "sous copyright"@fr .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "sous copyright"@fr .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "sous copyright"@fr .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "\u7248\u6743\u6240\u6709"@zh-hans .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u7248\u6743\u6240\u6709"@zh-hans .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "\u7248\u6743\u6240\u6709"@zh-hans .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "\u6709\u8457\u4F5C\u6B0A"@zh-hant .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6709\u8457\u4F5C\u6B0A"@zh-hant .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "\u6709\u8457\u4F5C\u6B0A"@zh-hant .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "\u0437\u0430\u0448\u0442\u0438\u045B\u0435\u043D\u043E \u0430\u0443\u0442\u043E\u0440\u0441\u043A\u0438\u043C \u043F\u0440\u0430\u0432\u0438\u043C\u0430"@sr .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0437\u0430\u0448\u0442\u0438\u045B\u0435\u043D\u043E \u0430\u0443\u0442\u043E\u0440\u0441\u043A\u0438\u043C \u043F\u0440\u0430\u0432\u0438\u043C\u0430"@sr .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "\u0437\u0430\u0448\u0442\u0438\u045B\u0435\u043D\u043E \u0430\u0443\u0442\u043E\u0440\u0441\u043A\u0438\u043C \u043F\u0440\u0430\u0432\u0438\u043C\u0430"@sr .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "sub kopirajto"@eo .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "sub kopirajto"@eo .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "sub kopirajto"@eo .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "\u0995\u09AA\u09BF\u09B0\u09BE\u0987\u099F\u0995\u09C3\u09A4"@bn .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0995\u09AA\u09BF\u09B0\u09BE\u0987\u099F\u0995\u09C3\u09A4"@bn .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "\u0995\u09AA\u09BF\u09B0\u09BE\u0987\u099F\u0995\u09C3\u09A4"@bn .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "bajo derechos de autor"@es .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "bajo derechos de autor"@es .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "bajo derechos de autor"@es .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "\u8457\u4F5C\u6A29\u3067\u4FDD\u8B77"@ja .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8457\u4F5C\u6A29\u3067\u4FDD\u8B77"@ja .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "\u8457\u4F5C\u6A29\u3067\u4FDD\u8B77"@ja .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "\u0437\u0430\u0449\u0438\u0449\u0435\u043D\u043E \u0430\u0432\u0442\u043E\u0440\u0441\u043A\u0438\u043C \u043F\u0440\u0430\u0432\u043E\u043C"@ru .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0437\u0430\u0449\u0438\u0449\u0435\u043D\u043E \u0430\u0432\u0442\u043E\u0440\u0441\u043A\u0438\u043C \u043F\u0440\u0430\u0432\u043E\u043C"@ru .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "\u0437\u0430\u0449\u0438\u0449\u0435\u043D\u043E \u0430\u0432\u0442\u043E\u0440\u0441\u043A\u0438\u043C \u043F\u0440\u0430\u0432\u043E\u043C"@ru .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "protegido por direitos autorais"@pt .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "protegido por direitos autorais"@pt .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "protegido por direitos autorais"@pt .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "d\u00EDlo chr\u00E1n\u011Bn\u00E9 autorsk\u00FDm pr\u00E1vem"@cs .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "d\u00EDlo chr\u00E1n\u011Bn\u00E9 autorsk\u00FDm pr\u00E1vem"@cs .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "d\u00EDlo chr\u00E1n\u011Bn\u00E9 autorsk\u00FDm pr\u00E1vem"@cs .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "\u0430\u0445\u043E\u045E\u0432\u0430\u0435\u0446\u0446\u0430 \u0430\u045E\u0442\u0430\u0440\u0441\u043A\u0456\u043C \u043F\u0440\u0430\u0432\u0430\u043C"@be-tarask .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0430\u0445\u043E\u045E\u0432\u0430\u0435\u0446\u0446\u0430 \u0430\u045E\u0442\u0430\u0440\u0441\u043A\u0456\u043C \u043F\u0440\u0430\u0432\u0430\u043C"@be-tarask .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "\u0430\u0445\u043E\u045E\u0432\u0430\u0435\u0446\u0446\u0430 \u0430\u045E\u0442\u0430\u0440\u0441\u043A\u0456\u043C \u043F\u0440\u0430\u0432\u0430\u043C"@be-tarask .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "opphavsrettsleg verna"@nn .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "opphavsrettsleg verna"@nn .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "opphavsrettsleg verna"@nn .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "upphovsr\u00E4ttsskyddad"@sv .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "upphovsr\u00E4ttsskyddad"@sv .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "upphovsr\u00E4ttsskyddad"@sv .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "hak cipta"@id .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "hak cipta"@id .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "hak cipta"@id .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "\u0430\u0445\u043E\u045E\u0432\u0430\u0435\u0446\u0446\u0430 \u0430\u045E\u0442\u0430\u0440\u0441\u043A\u0456\u043C \u043F\u0440\u0430\u0432\u0430\u043C"@be .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0430\u0445\u043E\u045E\u0432\u0430\u0435\u0446\u0446\u0430 \u0430\u045E\u0442\u0430\u0440\u0441\u043A\u0456\u043C \u043F\u0440\u0430\u0432\u0430\u043C"@be .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "\u0430\u0445\u043E\u045E\u0432\u0430\u0435\u0446\u0446\u0430 \u0430\u045E\u0442\u0430\u0440\u0441\u043A\u0456\u043C \u043F\u0440\u0430\u0432\u0430\u043C"@be .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "opphavsrettsbeskyttet"@nb .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "opphavsrettsbeskyttet"@nb .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "opphavsrettsbeskyttet"@nb .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "\u05DE\u05D5\u05D2\u05DF \u05D1\u05D6\u05DB\u05D5\u05D9\u05D5\u05EA \u05D9\u05D5\u05E6\u05E8\u05D9\u05DD"@he .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u05DE\u05D5\u05D2\u05DF \u05D1\u05D6\u05DB\u05D5\u05D9\u05D5\u05EA \u05D9\u05D5\u05E6\u05E8\u05D9\u05DD"@he .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "\u05DE\u05D5\u05D2\u05DF \u05D1\u05D6\u05DB\u05D5\u05D9\u05D5\u05EA \u05D9\u05D5\u05E6\u05E8\u05D9\u05DD"@he .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "\u0437\u0430\u0445\u0438\u0449\u0435\u043D\u043E \u0430\u0432\u0442\u043E\u0440\u0441\u044C\u043A\u0438\u043C \u043F\u0440\u0430\u0432\u043E\u043C"@uk .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0437\u0430\u0445\u0438\u0449\u0435\u043D\u043E \u0430\u0432\u0442\u043E\u0440\u0441\u044C\u043A\u0438\u043C \u043F\u0440\u0430\u0432\u043E\u043C"@uk .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "\u0437\u0430\u0445\u0438\u0449\u0435\u043D\u043E \u0430\u0432\u0442\u043E\u0440\u0441\u044C\u043A\u0438\u043C \u043F\u0440\u0430\u0432\u043E\u043C"@uk .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "\u7248\u6743\u6240\u6709"@zh .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u7248\u6743\u6240\u6709"@zh .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "\u7248\u6743\u6240\u6709"@zh .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "\u0430\u0432\u0442\u043E\u0440\u043B\u044B\u043A \u0445\u043E\u043A\u0443\u043A\u043B\u0430\u0440\u044B \u0431\u0435\u043B\u04D9\u043D \u044F\u043A\u043B\u0430\u043D\u0433\u0430\u043D"@tt .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0430\u0432\u0442\u043E\u0440\u043B\u044B\u043A \u0445\u043E\u043A\u0443\u043A\u043B\u0430\u0440\u044B \u0431\u0435\u043B\u04D9\u043D \u044F\u043A\u043B\u0430\u043D\u0433\u0430\u043D"@tt .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "\u0430\u0432\u0442\u043E\u0440\u043B\u044B\u043A \u0445\u043E\u043A\u0443\u043A\u043B\u0430\u0440\u044B \u0431\u0435\u043B\u04D9\u043D \u044F\u043A\u043B\u0430\u043D\u0433\u0430\u043D"@tt .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "berhak cipta"@ms .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "berhak cipta"@ms .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "berhak cipta"@ms .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "baixo dereito de autor\u00EDa"@gl .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "baixo dereito de autor\u00EDa"@gl .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "baixo dereito de autor\u00EDa"@gl .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "Urheberrechtsschutz"@de .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "Urheberrechtsschutz"@de .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "Urheberrechtsschutz"@de .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "\u6709\u8457\u4F5C\u6B0A"@zh-tw .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6709\u8457\u4F5C\u6B0A"@zh-tw .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "\u6709\u8457\u4F5C\u6B0A"@zh-tw .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "copyrightduna"@eu .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "copyrightduna"@eu .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "copyrightduna"@eu .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "material protejat de drepturi de autor"@ro .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "material protejat de drepturi de autor"@ro .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "material protejat de drepturi de autor"@ro .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "sota drets d'autor"@ca .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "sota drets d'autor"@ca .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "sota drets d'autor"@ca .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "\u0161kitane p\u0159ez awtorske prawo"@hsb .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0161kitane p\u0159ez awtorske prawo"@hsb .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "\u0161kitane p\u0159ez awtorske prawo"@hsb .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "coperto da diritti d'autore"@it .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "coperto da diritti d'autore"@it .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "coperto da diritti d'autore"@it .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "chroniony prawem autorskim"@pl .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "chroniony prawem autorskim"@pl .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "chroniony prawem autorskim"@pl .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "\u0D2A\u0D15\u0D7C\u0D2A\u0D4D\u0D2A\u0D35\u0D15\u0D3E\u0D36 \u0D38\u0D02\u0D30\u0D15\u0D4D\u0D37\u0D3F\u0D24\u0D02"@ml .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0D2A\u0D15\u0D7C\u0D2A\u0D4D\u0D2A\u0D35\u0D15\u0D3E\u0D36 \u0D38\u0D02\u0D30\u0D15\u0D4D\u0D37\u0D3F\u0D24\u0D02"@ml .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "\u0D2A\u0D15\u0D7C\u0D2A\u0D4D\u0D2A\u0D35\u0D15\u0D3E\u0D36 \u0D38\u0D02\u0D30\u0D15\u0D4D\u0D37\u0D3F\u0D24\u0D02"@ml .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "tekij\u00E4noikeussuojattu"@fi .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "tekij\u00E4noikeussuojattu"@fi .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "tekij\u00E4noikeussuojattu"@fi .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "faoi ch\u00F3ipcheart"@ga .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "faoi ch\u00F3ipcheart"@ga .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "faoi ch\u00F3ipcheart"@ga .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "za\u0161ti\u0107eno autorskim pravom"@hr .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "za\u0161ti\u0107eno autorskim pravom"@hr .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "za\u0161ti\u0107eno autorskim pravom"@hr .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "ophavsretsbeskyttet"@da .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "ophavsretsbeskyttet"@da .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "ophavsretsbeskyttet"@da .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "aizsarg\u0101ts ar autorties\u012Bb\u0101m"@lv .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "aizsarg\u0101ts ar autorties\u012Bb\u0101m"@lv .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "aizsarg\u0101ts ar autorties\u012Bb\u0101m"@lv .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "c\u00F3 b\u1EA3n quy\u1EC1n"@vi .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "c\u00F3 b\u1EA3n quy\u1EC1n"@vi .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "c\u00F3 b\u1EA3n quy\u1EC1n"@vi .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "\u0437\u0430\u0448\u0442\u0438\u0442\u0435\u043D\u043E \u0441\u043E \u0430\u0432\u0442\u043E\u0440\u0441\u043A\u0438 \u043F\u0440\u0430\u0432\u0430"@mk .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0437\u0430\u0448\u0442\u0438\u0442\u0435\u043D\u043E \u0441\u043E \u0430\u0432\u0442\u043E\u0440\u0441\u043A\u0438 \u043F\u0440\u0430\u0432\u0430"@mk .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "\u0437\u0430\u0448\u0442\u0438\u0442\u0435\u043D\u043E \u0441\u043E \u0430\u0432\u0442\u043E\u0440\u0441\u043A\u0438 \u043F\u0440\u0430\u0432\u0430"@mk .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "szerz\u0151i jogi v\u00E9delem alatt \u00E1ll"@hu .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "szerz\u0151i jogi v\u00E9delem alatt \u00E1ll"@hu .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "szerz\u0151i jogi v\u00E9delem alatt \u00E1ll"@hu .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "\u0E21\u0E35\u0E25\u0E34\u0E02\u0E2A\u0E34\u0E17\u0E18\u0E34\u0E4C"@th .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E21\u0E35\u0E25\u0E34\u0E02\u0E2A\u0E34\u0E17\u0E18\u0E34\u0E4C"@th .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "\u0E21\u0E35\u0E25\u0E34\u0E02\u0E2A\u0E34\u0E17\u0E18\u0E34\u0E4C"@th .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "telif hakk\u0131 al\u0131nm\u0131\u015F"@tr .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "telif hakk\u0131 al\u0131nm\u0131\u015F"@tr .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "telif hakk\u0131 al\u0131nm\u0131\u015F"@tr .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2000/01/rdf-schema#label> "me t\u00EB drejta autori"@sq .
+<http://www.wikidata.org/entity/Q50423863> <http://www.w3.org/2004/02/skos/core#prefLabel> "me t\u00EB drejta autori"@sq .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/name> "me t\u00EB drejta autori"@sq .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/description> "legal state of a work as recognised as an intellectual property of an entity"@en .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/description> "juridische status van een werk waarbij het valt onder auteursrechtelijke bescherming"@nl .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/description> "statut l\u00E9gal d'une oeuvre appartenant \u00E0 son cr\u00E9ateur"@fr .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/description> "estatus legal de una obra"@es .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/description> "pr\u00E1vn\u00ED stav d\u00EDla, kter\u00E9 po\u017E\u00EDv\u00E1 ochrany autorsk\u00FDm pr\u00E1vem"@cs .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/description> "salah satu mekanisme pelindungan hukum untuk kekayaan intelektual"@id .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/description> "estado legal dunha obra"@gl .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/description> "\u4F5C\u54C1\u8457\u4F5C\u6B0A\u72C0\u614B\uFF0C\u6307\u5176\u53D7\u8457\u4F5C\u6B0A\u6CD5\u4FDD\u8B77\u7684\u4F5C\u54C1"@zh-hant .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/description> "stato legale di un opera o lavoro intellettuale"@it .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/description> "\u0D07\u0D28\u0D24\u0D4D\u0D24\u0D3F\u0D28\u0D4D\u0D31\u0D46 \u0D2C\u0D57\u0D26\u0D4D\u0D27\u0D3F\u0D15\u0D38\u0D4D\u0D35\u0D24\u0D4D\u0D24\u0D35\u0D15\u0D3E\u0D36\u0D02 \u0D38\u0D02\u0D2C\u0D28\u0D4D\u0D27\u0D3F\u0D1A\u0D4D\u0D1A \u0D28\u0D3F\u0D2F\u0D2E\u0D2A\u0D30\u0D2E\u0D3E\u0D2F \u0D38\u0D4D\u0D25\u0D3F\u0D24\u0D3F"@ml .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/description> "teoksen laillinen tila"@fi .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/description> "Werke, die einem Urheberrechtsschutz unterliegen"@de .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/description> "\u0E2A\u0E16\u0E32\u0E19\u0E30\u0E17\u0E32\u0E07\u0E01\u0E0E\u0E2B\u0E21\u0E32\u0E22\u0E02\u0E2D\u0E07\u0E07\u0E32\u0E19\u0E17\u0E35\u0E48\u0E44\u0E14\u0E49\u0E23\u0E31\u0E1A\u0E01\u0E32\u0E23\u0E22\u0E2D\u0E21\u0E23\u0E31\u0E1A\u0E27\u0E48\u0E32\u0E40\u0E1B\u0E47\u0E19\u0E17\u0E23\u0E31\u0E1E\u0E22\u0E4C\u0E2A\u0E34\u0E19\u0E17\u0E32\u0E07\u0E1B\u0E31\u0E0D\u0E0D\u0E32\u0E02\u0E2D\u0E07\u0E19\u0E34\u0E15\u0E34\u0E1A\u0E38\u0E04\u0E04\u0E25"@th .
+<http://www.wikidata.org/entity/Q50423863> <http://schema.org/description> "fikri m\u00FClkiyeti olarak tan\u0131nan bir \u00E7al\u0131\u015Fman\u0131n yasal durumu"@tr .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Property> .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Property> .
+<http://www.wikidata.org/entity/P6216> <http://wikiba.se/ontology#propertyType> <http://wikiba.se/ontology#WikibaseItem> .
+<http://www.wikidata.org/entity/P6216> <http://wikiba.se/ontology#directClaim> <http://www.wikidata.org/prop/direct/P6216> .
+<http://www.wikidata.org/entity/P6216> <http://wikiba.se/ontology#claim> <http://www.wikidata.org/prop/P6216> .
+<http://www.wikidata.org/entity/P6216> <http://wikiba.se/ontology#statementProperty> <http://www.wikidata.org/prop/statement/P6216> .
+<http://www.wikidata.org/entity/P6216> <http://wikiba.se/ontology#statementValue> <http://www.wikidata.org/prop/statement/value/P6216> .
+<http://www.wikidata.org/entity/P6216> <http://wikiba.se/ontology#qualifier> <http://www.wikidata.org/prop/qualifier/P6216> .
+<http://www.wikidata.org/entity/P6216> <http://wikiba.se/ontology#qualifierValue> <http://www.wikidata.org/prop/qualifier/value/P6216> .
+<http://www.wikidata.org/entity/P6216> <http://wikiba.se/ontology#reference> <http://www.wikidata.org/prop/reference/P6216> .
+<http://www.wikidata.org/entity/P6216> <http://wikiba.se/ontology#referenceValue> <http://www.wikidata.org/prop/reference/value/P6216> .
+<http://www.wikidata.org/entity/P6216> <http://wikiba.se/ontology#novalue> <http://www.wikidata.org/prop/novalue/P6216> .
+<http://www.wikidata.org/prop/P6216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/value/P6216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/value/P6216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/value/P6216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/direct/P6216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/P6216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/P6216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/P6216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/novalue/P6216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.wikidata.org/prop/novalue/P6216> <http://www.w3.org/2002/07/owl#complementOf> _:b1252803b14cb4551e630f41e1deba59 .
+_:b1252803b14cb4551e630f41e1deba59 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:b1252803b14cb4551e630f41e1deba59 <http://www.w3.org/2002/07/owl#onProperty> <http://www.wikidata.org/prop/direct/P6216> .
+_:b1252803b14cb4551e630f41e1deba59 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.w3.org/2002/07/owl#Thing> .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "copyright status"@en .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "copyright status"@en .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "copyright status"@en .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "statut des droits d'auteur"@fr .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "statut des droits d'auteur"@fr .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "statut des droits d'auteur"@fr .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "status praw autorskich"@pl .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "status praw autorskich"@pl .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "status praw autorskich"@pl .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "\u0441\u0442\u0430\u0442\u0443\u0441 \u0430\u0432\u0442\u043E\u0440\u0441\u044C\u043A\u0438\u0445 \u043F\u0440\u0430\u0432"@uk .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0441\u0442\u0430\u0442\u0443\u0441 \u0430\u0432\u0442\u043E\u0440\u0441\u044C\u043A\u0438\u0445 \u043F\u0440\u0430\u0432"@uk .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "\u0441\u0442\u0430\u0442\u0443\u0441 \u0430\u0432\u0442\u043E\u0440\u0441\u044C\u043A\u0438\u0445 \u043F\u0440\u0430\u0432"@uk .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "\u8457\u4F5C\u6A29\u306E\u72B6\u6CC1"@ja .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8457\u4F5C\u6A29\u306E\u72B6\u6CC1"@ja .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "\u8457\u4F5C\u6A29\u306E\u72B6\u6CC1"@ja .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "auteursrechtenstatus"@nl .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "auteursrechtenstatus"@nl .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "auteursrechtenstatus"@nl .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "\u0441\u0442\u0430\u0442\u0443\u0441 \u0430\u0443\u0442\u043E\u0440\u0441\u043A\u043E\u0433 \u043F\u0440\u0430\u0432\u0430"@sr .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0441\u0442\u0430\u0442\u0443\u0441 \u0430\u0443\u0442\u043E\u0440\u0441\u043A\u043E\u0433 \u043F\u0440\u0430\u0432\u0430"@sr .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "\u0441\u0442\u0430\u0442\u0443\u0441 \u0430\u0443\u0442\u043E\u0440\u0441\u043A\u043E\u0433 \u043F\u0440\u0430\u0432\u0430"@sr .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "\u0430\u0432\u0442\u043E\u0440\u0441\u043A\u043E\u043F\u0440\u0430\u0432\u0435\u043D \u0441\u0442\u0430\u0442\u0443\u0441"@mk .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0430\u0432\u0442\u043E\u0440\u0441\u043A\u043E\u043F\u0440\u0430\u0432\u0435\u043D \u0441\u0442\u0430\u0442\u0443\u0441"@mk .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "\u0430\u0432\u0442\u043E\u0440\u0441\u043A\u043E\u043F\u0440\u0430\u0432\u0435\u043D \u0441\u0442\u0430\u0442\u0443\u0441"@mk .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "Urheberrechtsstatus"@de .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "Urheberrechtsstatus"@de .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "Urheberrechtsstatus"@de .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "\u8457\u4F5C\u6B0A\u72C0\u614B"@zh-hant .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8457\u4F5C\u6B0A\u72C0\u614B"@zh-hant .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "\u8457\u4F5C\u6B0A\u72C0\u614B"@zh-hant .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "\u8457\u4F5C\u6B0A\u72C0\u614B"@zh .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8457\u4F5C\u6B0A\u72C0\u614B"@zh .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "\u8457\u4F5C\u6B0A\u72C0\u614B"@zh .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "\u8457\u4F5C\u6B0A\u72C0\u614B"@zh-tw .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8457\u4F5C\u6B0A\u72C0\u614B"@zh-tw .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "\u8457\u4F5C\u6B0A\u72C0\u614B"@zh-tw .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "\u0995\u09AA\u09BF\u09B0\u09BE\u0987\u099F\u09C7\u09B0 \u0985\u09AC\u09B8\u09CD\u09A5\u09BE"@bn .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0995\u09AA\u09BF\u09B0\u09BE\u0987\u099F\u09C7\u09B0 \u0985\u09AC\u09B8\u09CD\u09A5\u09BE"@bn .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "\u0995\u09AA\u09BF\u09B0\u09BE\u0987\u099F\u09C7\u09B0 \u0985\u09AC\u09B8\u09CD\u09A5\u09BE"@bn .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "autori\u00F5iguslik seisund"@et .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "autori\u00F5iguslik seisund"@et .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "autori\u00F5iguslik seisund"@et .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "estatus de los derechos de autor"@es .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "estatus de los derechos de autor"@es .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "estatus de los derechos de autor"@es .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "\u062D\u0642\u0648\u0642 \u0646\u0633\u062E\u06C1 \u06A9\u06CC \u06A9\u06CC\u0641\u06CC\u062A"@ur .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062D\u0642\u0648\u0642 \u0646\u0633\u062E\u06C1 \u06A9\u06CC \u06A9\u06CC\u0641\u06CC\u062A"@ur .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "\u062D\u0642\u0648\u0642 \u0646\u0633\u062E\u06C1 \u06A9\u06CC \u06A9\u06CC\u0641\u06CC\u062A"@ur .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "autorties\u012Bbu statuss"@lv .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "autorties\u012Bbu statuss"@lv .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "autorties\u012Bbu statuss"@lv .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "tekij\u00E4noikeuden tila"@fi .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "tekij\u00E4noikeuden tila"@fi .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "tekij\u00E4noikeuden tila"@fi .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "estatus dels drets d'autor"@ca .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "estatus dels drets d'autor"@ca .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "estatus dels drets d'autor"@ca .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "\u062D\u0627\u0644\u0629 \u062D\u0642\u0648\u0642 \u0627\u0644\u0637\u0628\u0639 \u0648\u0627\u0644\u0646\u0634\u0631"@ar .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u062D\u0627\u0644\u0629 \u062D\u0642\u0648\u0642 \u0627\u0644\u0637\u0628\u0639 \u0648\u0627\u0644\u0646\u0634\u0631"@ar .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "\u062D\u0627\u0644\u0629 \u062D\u0642\u0648\u0642 \u0627\u0644\u0637\u0628\u0639 \u0648\u0627\u0644\u0646\u0634\u0631"@ar .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "\u0441\u0442\u0430\u0442\u0443\u0441 \u0430\u0432\u0442\u043E\u0440\u0441\u043A\u043E\u0433\u043E \u043F\u0440\u0430\u0432\u0430"@ru .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0441\u0442\u0430\u0442\u0443\u0441 \u0430\u0432\u0442\u043E\u0440\u0441\u043A\u043E\u0433\u043E \u043F\u0440\u0430\u0432\u0430"@ru .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "\u0441\u0442\u0430\u0442\u0443\u0441 \u0430\u0432\u0442\u043E\u0440\u0441\u043A\u043E\u0433\u043E \u043F\u0440\u0430\u0432\u0430"@ru .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "szerz\u0151i jogi \u00E1llapot"@hu .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "szerz\u0151i jogi \u00E1llapot"@hu .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "szerz\u0151i jogi \u00E1llapot"@hu .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "situa\u00E7\u00E3o dos direitos autorais"@pt .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "situa\u00E7\u00E3o dos direitos autorais"@pt .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "situa\u00E7\u00E3o dos direitos autorais"@pt .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "upphovsr\u00E4ttslig status"@sv .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "upphovsr\u00E4ttslig status"@sv .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "upphovsr\u00E4ttslig status"@sv .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "stav autorsk\u00FDch pr\u00E1v"@cs .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "stav autorsk\u00FDch pr\u00E1v"@cs .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "stav autorsk\u00FDch pr\u00E1v"@cs .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "\u7248\u6743\u72B6\u6001"@zh-hans .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u7248\u6743\u72B6\u6001"@zh-hans .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "\u7248\u6743\u72B6\u6001"@zh-hans .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "opphavsrettsleg status"@nn .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "opphavsrettsleg status"@nn .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "opphavsrettsleg status"@nn .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "t\u00ECnh tr\u1EA1ng b\u1EA3n quy\u1EC1n"@vi .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "t\u00ECnh tr\u1EA1ng b\u1EA3n quy\u1EC1n"@vi .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "t\u00ECnh tr\u1EA1ng b\u1EA3n quy\u1EC1n"@vi .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "stato de kopirajto"@eo .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "stato de kopirajto"@eo .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "stato de kopirajto"@eo .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "status hak cipta"@id .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "status hak cipta"@id .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "status hak cipta"@id .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "opphavsrettsstatus"@nb .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "opphavsrettsstatus"@nb .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "opphavsrettsstatus"@nb .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "\u0441\u0442\u0430\u0442\u0443\u0441 \u0430\u045E\u0442\u0430\u0440\u0441\u043A\u0456\u0445 \u043F\u0440\u0430\u0432\u043E\u045E"@be-tarask .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0441\u0442\u0430\u0442\u0443\u0441 \u0430\u045E\u0442\u0430\u0440\u0441\u043A\u0456\u0445 \u043F\u0440\u0430\u0432\u043E\u045E"@be-tarask .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "\u0441\u0442\u0430\u0442\u0443\u0441 \u0430\u045E\u0442\u0430\u0440\u0441\u043A\u0456\u0445 \u043F\u0440\u0430\u0432\u043E\u045E"@be-tarask .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "ophavsretsstatus"@da .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "ophavsretsstatus"@da .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "ophavsretsstatus"@da .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "telif hakk\u0131 durumu"@tr .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "telif hakk\u0131 durumu"@tr .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "telif hakk\u0131 durumu"@tr .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "estado dos dereitos de autor\u00EDa"@gl .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "estado dos dereitos de autor\u00EDa"@gl .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "estado dos dereitos de autor\u00EDa"@gl .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "stato del copyright"@it .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "stato del copyright"@it .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "stato del copyright"@it .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "\u0441\u0442\u0430\u0442\u0443\u0441 \u0430\u045E\u0442\u0430\u0440\u0441\u043A\u0430\u0433\u0430 \u043F\u0440\u0430\u0432\u0430"@be .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0441\u0442\u0430\u0442\u0443\u0441 \u0430\u045E\u0442\u0430\u0440\u0441\u043A\u0430\u0433\u0430 \u043F\u0440\u0430\u0432\u0430"@be .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "\u0441\u0442\u0430\u0442\u0443\u0441 \u0430\u045E\u0442\u0430\u0440\u0441\u043A\u0430\u0433\u0430 \u043F\u0440\u0430\u0432\u0430"@be .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "copyright status"@en-gb .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "copyright status"@en-gb .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "copyright status"@en-gb .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "\u05DE\u05E6\u05D1 \u05D6\u05DB\u05D5\u05D9\u05D5\u05EA \u05D4\u05D9\u05D5\u05E6\u05E8\u05D9\u05DD"@he .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u05DE\u05E6\u05D1 \u05D6\u05DB\u05D5\u05D9\u05D5\u05EA \u05D4\u05D9\u05D5\u05E6\u05E8\u05D9\u05DD"@he .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "\u05DE\u05E6\u05D1 \u05D6\u05DB\u05D5\u05D9\u05D5\u05EA \u05D4\u05D9\u05D5\u05E6\u05E8\u05D9\u05DD"@he .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "\u0430\u0432\u0442\u043E\u0440\u043B\u044B\u043A \u0445\u043E\u043A\u0443\u043A\u043B\u0430\u0440\u044B \u0441\u0442\u0430\u0442\u044B\u0441\u044B"@tt .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0430\u0432\u0442\u043E\u0440\u043B\u044B\u043A \u0445\u043E\u043A\u0443\u043A\u043B\u0430\u0440\u044B \u0441\u0442\u0430\u0442\u044B\u0441\u044B"@tt .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "\u0430\u0432\u0442\u043E\u0440\u043B\u044B\u043A \u0445\u043E\u043A\u0443\u043A\u043B\u0430\u0440\u044B \u0441\u0442\u0430\u0442\u044B\u0441\u044B"@tt .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "\u04B3\u0430\u049B\u049B\u0438 \u0442\u0430\u043A\u0441\u0438\u0440"@tg .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u04B3\u0430\u049B\u049B\u0438 \u0442\u0430\u043A\u0441\u0438\u0440"@tg .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "\u04B3\u0430\u049B\u049B\u0438 \u0442\u0430\u043A\u0441\u0438\u0440"@tg .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "\u0D2A\u0D15\u0D7C\u0D2A\u0D4D\u0D2A\u0D35\u0D15\u0D3E\u0D36 \u0D38\u0D4D\u0D25\u0D3F\u0D24\u0D3F"@ml .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0D2A\u0D15\u0D7C\u0D2A\u0D4D\u0D2A\u0D35\u0D15\u0D3E\u0D36 \u0D38\u0D4D\u0D25\u0D3F\u0D24\u0D3F"@ml .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "\u0D2A\u0D15\u0D7C\u0D2A\u0D4D\u0D2A\u0D35\u0D15\u0D3E\u0D36 \u0D38\u0D4D\u0D25\u0D3F\u0D24\u0D3F"@ml .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "stav autorsk\u00FDch pr\u00E1v"@sk .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "stav autorsk\u00FDch pr\u00E1v"@sk .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "stav autorsk\u00FDch pr\u00E1v"@sk .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "situa\u00E7\u00E3o dos direitos autorais"@pt-br .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "situa\u00E7\u00E3o dos direitos autorais"@pt-br .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "situa\u00E7\u00E3o dos direitos autorais"@pt-br .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "rew\u015Fa maf\u00EA tel\u00EEf\u00EA"@ku-latn .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "rew\u015Fa maf\u00EA tel\u00EEf\u00EA"@ku-latn .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "rew\u015Fa maf\u00EA tel\u00EEf\u00EA"@ku-latn .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "st\u00E1das c\u00F3ipchirt"@ga .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "st\u00E1das c\u00F3ipchirt"@ga .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "st\u00E1das c\u00F3ipchirt"@ga .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "\u03BA\u03B1\u03B8\u03B5\u03C3\u03C4\u03CE\u03C2 \u03C0\u03BD\u03B5\u03C5\u03BC\u03B1\u03C4\u03B9\u03BA\u03CE\u03BD \u03B4\u03B9\u03BA\u03B1\u03B9\u03C9\u03BC\u03AC\u03C4\u03C9\u03BD"@el .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03BA\u03B1\u03B8\u03B5\u03C3\u03C4\u03CE\u03C2 \u03C0\u03BD\u03B5\u03C5\u03BC\u03B1\u03C4\u03B9\u03BA\u03CE\u03BD \u03B4\u03B9\u03BA\u03B1\u03B9\u03C9\u03BC\u03AC\u03C4\u03C9\u03BD"@el .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "\u03BA\u03B1\u03B8\u03B5\u03C3\u03C4\u03CE\u03C2 \u03C0\u03BD\u03B5\u03C5\u03BC\u03B1\u03C4\u03B9\u03BA\u03CE\u03BD \u03B4\u03B9\u03BA\u03B1\u03B9\u03C9\u03BC\u03AC\u03C4\u03C9\u03BD"@el .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "status hak cipta"@ms .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "status hak cipta"@ms .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "status hak cipta"@ms .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "statusi i t\u00EB drejt\u00EBs s\u00EB autorit"@sq .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "statusi i t\u00EB drejt\u00EBs s\u00EB autorit"@sq .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "statusi i t\u00EB drejt\u00EBs s\u00EB autorit"@sq .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "\u0AAA\u0ACD\u0AB0\u0A95\u0ABE\u0AB6\u0AA8 \u0A85\u0AA7\u0ABF\u0A95\u0ABE\u0AB0\u0AA8\u0AC0 \u0AB8\u0ACD\u0AA5\u0ABF\u0AA4\u0ABF"@gu .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0AAA\u0ACD\u0AB0\u0A95\u0ABE\u0AB6\u0AA8 \u0A85\u0AA7\u0ABF\u0A95\u0ABE\u0AB0\u0AA8\u0AC0 \u0AB8\u0ACD\u0AA5\u0ABF\u0AA4\u0ABF"@gu .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "\u0AAA\u0ACD\u0AB0\u0A95\u0ABE\u0AB6\u0AA8 \u0A85\u0AA7\u0ABF\u0A95\u0ABE\u0AB0\u0AA8\u0AC0 \u0AB8\u0ACD\u0AA5\u0ABF\u0AA4\u0ABF"@gu .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "statutul drepturilor de autor"@ro .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "statutul drepturilor de autor"@ro .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "statutul drepturilor de autor"@ro .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "egile eskubideen egoera"@eu .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "egile eskubideen egoera"@eu .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "egile eskubideen egoera"@eu .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "status awtorskich prawow"@hsb .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "status awtorskich prawow"@hsb .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "status awtorskich prawow"@hsb .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "statws hawlfraint"@cy .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "statws hawlfraint"@cy .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "statws hawlfraint"@cy .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "est\u00E1u de los derechos d'autor"@ast .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "est\u00E1u de los derechos d'autor"@ast .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "est\u00E1u de los derechos d'autor"@ast .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "status autorskog prava"@hr .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "status autorskog prava"@hr .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "status autorskog prava"@hr .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "\u0648\u0636\u0639\u06CC\u062A \u06A9\u067E\u06CC\u200C\u0631\u0627\u06CC\u062A"@fa .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0648\u0636\u0639\u06CC\u062A \u06A9\u067E\u06CC\u200C\u0631\u0627\u06CC\u062A"@fa .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "\u0648\u0636\u0639\u06CC\u062A \u06A9\u067E\u06CC\u200C\u0631\u0627\u06CC\u062A"@fa .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "\u0570\u0565\u0572\u056B\u0576\u0561\u056F\u0561\u0575\u056B\u0576 \u056B\u0580\u0561\u057E\u0578\u0582\u0576\u0584\u056B \u056F\u0561\u0580\u0563\u0561\u057E\u056B\u0573\u0561\u056F"@hy .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0570\u0565\u0572\u056B\u0576\u0561\u056F\u0561\u0575\u056B\u0576 \u056B\u0580\u0561\u057E\u0578\u0582\u0576\u0584\u056B \u056F\u0561\u0580\u0563\u0561\u057E\u056B\u0573\u0561\u056F"@hy .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "\u0570\u0565\u0572\u056B\u0576\u0561\u056F\u0561\u0575\u056B\u0576 \u056B\u0580\u0561\u057E\u0578\u0582\u0576\u0584\u056B \u056F\u0561\u0580\u0563\u0561\u057E\u056B\u0573\u0561\u056F"@hy .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2000/01/rdf-schema#label> "\u0E2A\u0E16\u0E32\u0E19\u0E30\u0E25\u0E34\u0E02\u0E2A\u0E34\u0E17\u0E18\u0E34\u0E4C"@th .
+<http://www.wikidata.org/entity/P6216> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E2A\u0E16\u0E32\u0E19\u0E30\u0E25\u0E34\u0E02\u0E2A\u0E34\u0E17\u0E18\u0E34\u0E4C"@th .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/name> "\u0E2A\u0E16\u0E32\u0E19\u0E30\u0E25\u0E34\u0E02\u0E2A\u0E34\u0E17\u0E18\u0E34\u0E4C"@th .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/description> "copyright status for intellectual creations like works of art, publications, software, etc."@en .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/description> "statut des droits d'auteur pour une cr\u00E9ation intellectuelle ou artistique"@fr .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/description> "status praw autorskich otwor\u00F3w, takich jak dzie\u0142a sztuki, publikacje, oprogramowanie itp."@pl .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/description> "\u0441\u0442\u0430\u0442\u0443\u0441 \u0430\u0432\u0442\u043E\u0440\u0441\u044C\u043A\u0438\u0445 \u043F\u0440\u0430\u0432 \u0434\u043B\u044F \u0456\u043D\u0442\u0435\u043B\u0435\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u0438\u0445 \u0442\u0432\u043E\u0440\u0456\u0432, \u0442\u0430\u043A\u0438\u0445 \u044F\u043A \u0442\u0432\u043E\u0440\u0438 \u043C\u0438\u0441\u0442\u0435\u0446\u0442\u0432\u0430, \u043F\u0443\u0431\u043B\u0456\u043A\u0430\u0446\u0456\u0457, \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043D\u0435 \u0437\u0430\u0431\u0435\u0437\u043F\u0435\u0447\u0435\u043D\u043D\u044F \u0442\u043E\u0449\u043E"@uk .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/description> "juridische status van een (kunst)werk, publicatie, software enz. qua intellectueel eigendom"@nl .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/description> "\u4F5C\u54C1\u7684\u8457\u4F5C\u6B0A\u72C0\u614B\uFF0C\u6A19\u793A\u5176\u662F\u5426\u70BA\u516C\u9818\u57DF\u3001\u7248\u6B0A\u6240\u6709\u6216\u662F\u5176\u4ED6\u7684\u8457\u4F5C\u6B0A\u72C0\u614B\uFF0C\u5982\u8981\u6A19\u793A\u91CB\u51FA\u6642\u4F7F\u7528\u7684\u6388\u6B0A\u689D\u6B3E\uFF0C\u8ACB\u4F7F\u7528P275"@zh-hant .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/description> "\u4F5C\u54C1\u7684\u8457\u4F5C\u6B0A\u72C0\u614B\uFF0C\u6A19\u793A\u5176\u662F\u5426\u70BA\u516C\u9818\u57DF\u3001\u7248\u6B0A\u6240\u6709\u6216\u662F\u5176\u4ED6\u7684\u8457\u4F5C\u6B0A\u72C0\u614B\uFF0C\u5982\u8981\u6A19\u793A\u91CB\u51FA\u6642\u4F7F\u7528\u7684\u6388\u6B0A\u689D\u6B3E\uFF0C\u8ACB\u4F7F\u7528P275"@zh-tw .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/description> "teose autori\u00F5iguslik seisund v\u00F5i staatus"@et .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/description> "upphovsr\u00E4ttsligt tillst\u00E5nd f\u00F6r verk ( konstverk, publikationer, programvara, etc.)"@sv .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/description> "stav autorskopr\u00E1vn\u00ED ochrany dan\u00E9ho d\u00EDla (um\u011Bleck\u00E9ho d\u00EDla, po\u010D\u00EDta\u010Dov\u00E9ho programu atp.)"@cs .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/description> "t\u00ECnh tr\u1EA1ng b\u1EA3n quy\u1EC1n c\u1EE7a m\u1ED9t s\u00E1ng t\u1EA1o tr\u00ED tu\u1EC7 nh\u01B0 t\u00E1c ph\u1EA9m ngh\u1EC7 thu\u1EADt, \u1EA5n ph\u1EA9m, ph\u1EA7n m\u1EC1m, v.v."@vi .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/description> "\u0441\u0442\u0430\u0442\u0443\u0441 \u0430\u0432\u0442\u043E\u0440\u0441\u043A\u0438\u0445 \u043F\u0440\u0430\u0432 \u0434\u043B\u044F \u0438\u043D\u0442\u0435\u043B\u043B\u0435\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0445 \u043F\u0440\u043E\u0438\u0437\u0432\u0435\u0434\u0435\u043D\u0438\u0439, \u0442\u0430\u043A\u0438\u0445 \u043A\u0430\u043A \u043F\u0440\u043E\u0438\u0437\u0432\u0435\u0434\u0435\u043D\u0438\u044F \u0438\u0441\u043A\u0443\u0441\u0441\u0442\u0432\u0430, \u043F\u0443\u0431\u043B\u0438\u043A\u0430\u0446\u0438\u0438, \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u043D\u043E\u0435 \u043E\u0431\u0435\u0441\u043F\u0435\u0447\u0435\u043D\u0438\u0435 \u0438 \u0442. \u0434."@ru .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/description> "\u0441\u0442\u0430\u0442\u0443\u0441 \u0430\u0445\u043E\u0432\u044B \u0456\u043D\u0442\u044D\u043B\u0435\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0445 \u0442\u0432\u043E\u0440\u0430\u045E (\u0442\u0432\u043E\u0440\u044B \u043C\u0430\u0441\u0442\u0430\u0446\u0442\u0432\u0430, \u043F\u0443\u0431\u043B\u0456\u043A\u0430\u0446\u044B\u0456, \u043F\u0440\u0430\u0433\u0440\u0430\u043C\u044B \u0439 \u0456\u043D\u0448.)"@be-tarask .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/description> "sanat eserleri, yay\u0131nlar, yaz\u0131l\u0131m vb. entelekt\u00FCel eserler i\u00E7in telif hakk\u0131 stat\u00FCs\u00FC"@tr .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/description> "situaci\u00F3n na que se atopan os dereitos de auor\u00EDa asociados a esta obra"@gl .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/description> "stato del copyright di un'opera intelletuale"@it .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/description> "\u0441\u0442\u0430\u0442\u0443\u0441 \u0430\u045E\u0442\u0430\u0440\u0441\u043A\u0456\u0445 \u043F\u0440\u0430\u0432\u043E\u045E \u0434\u043B\u044F \u0456\u043D\u0442\u044D\u043B\u0435\u043A\u0442\u0443\u0430\u043B\u044C\u043D\u044B\u0445 \u0442\u0432\u043E\u0440\u0430\u045E, \u0442\u0430\u043A\u0456\u0445 \u044F\u043A \u0442\u0432\u043E\u0440\u044B \u043C\u0430\u0441\u0442\u0430\u0446\u0442\u0432\u0430, \u043F\u0443\u0431\u043B\u0456\u043A\u0430\u0446\u044B\u0456, \u043F\u0440\u0430\u0433\u0440\u0430\u043C\u043D\u0430\u0435 \u0437\u0430\u0431\u0435\u0441\u043F\u044F\u0447\u044D\u043D\u043D\u0435 \u0456 \u0433.\u0434."@be .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/description> "copyright status for intellectual creations like works of art, publications, software, etc."@en-gb .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/description> "\u0D15\u0D32\u0D3E\u0D38\u0D43\u0D37\u0D4D\u0D1F\u0D3F, \u0D2A\u0D4D\u0D30\u0D38\u0D3F\u0D26\u0D4D\u0D27\u0D40\u0D15\u0D30\u0D23\u0D02, \u0D38\u0D4B\u0D2B\u0D4D\u0D31\u0D4D\u0D31\u0D4D\u200C\u0D35\u0D47\u0D7C \u0D24\u0D41\u0D1F\u0D19\u0D4D\u0D19\u0D3F\u0D2F \u0D2C\u0D57\u0D26\u0D4D\u0D27\u0D3F\u0D15 \u0D38\u0D43\u0D37\u0D4D\u0D1F\u0D3F\u0D15\u0D33\u0D41\u0D1F\u0D46 \u0D2A\u0D15\u0D7C\u0D2A\u0D4D\u0D2A\u0D35\u0D15\u0D3E\u0D36 \u0D38\u0D4D\u0D25\u0D3F\u0D24\u0D3F"@ml .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/description> "Status pelindungan hak cipta untuk ciptaan-ciptaan seperti karya seni rupa, buku, program komputer, dan lain-lain"@id .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/description> "status hak cipta bagi suatu karya"@ms .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/description> "statusi i t\u00EB drejt\u00EBs s\u00EB autorit p\u00EBr krijimtarit\u00EB intelektuale si veprat e artit, publikimet, softuer\u00EBt, etj."@sq .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/description> "\u0AAA\u0AC1\u0AB8\u0ACD\u0AA4\u0A95\u0ACB \u0AB8\u0ACB\u0AAB\u0ACD\u0A9F \u0AB5\u0AC7\u0AB0 \u0A86\u0AA6\u0ABF\u0AA8\u0ABE \u0AAA\u0ACD\u0AB0\u0A95\u0ABE\u0AB6\u0AA8 \u0A85\u0AA7\u0ABF\u0A95\u0ABE\u0AB0\u0AA8\u0AC0 \u0AB8\u0ACD\u0AA5\u0ABF\u0AA4\u0ABF"@gu .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/description> "est\u00E1u de los derechos d'autor de creaciones intelectuales como obres d'arte, publicaciones, software, etc"@ast .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/description> "\u0648\u0636\u0639\u06CC\u062A \u06A9\u067E\u06CC\u200C\u0631\u0627\u06CC\u062A \u0628\u0631\u0627\u06CC \u0622\u062B\u0627\u0631 \u062E\u0644\u0627\u0642\u0627\u0646\u0647\u060C \u0622\u062B\u0627\u0631 \u0645\u0646\u062A\u0634\u0631 \u0634\u062F\u0647\u060C \u0646\u0631\u0645\u200C\u0627\u0641\u0632\u0627\u0631\u060C \u0627\u0644\u062E"@fa .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/description> "\u82B8\u8853\u4F5C\u54C1\u3001\u51FA\u7248\u7269\u3001\u30BD\u30D5\u30C8\u30A6\u30A7\u30A2\u306A\u3069\u306E\u77E5\u7684\u5275\u9020\u7269\u306B\u304A\u3051\u308B\u8457\u4F5C\u6A29\u306E\u72B6\u6CC1"@ja .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/description> "\u0E2A\u0E16\u0E32\u0E19\u0E30\u0E25\u0E34\u0E02\u0E2A\u0E34\u0E17\u0E18\u0E34\u0E4C\u0E02\u0E2D\u0E07\u0E07\u0E32\u0E19\u0E17\u0E35\u0E48\u0E2A\u0E23\u0E49\u0E32\u0E07\u0E2A\u0E23\u0E23\u0E04\u0E4C\u0E02\u0E36\u0E49\u0E19 \u0E2D\u0E32\u0E08\u0E40\u0E1B\u0E47\u0E19\u0E20\u0E32\u0E1E \u0E2A\u0E34\u0E48\u0E07\u0E1E\u0E34\u0E21\u0E1E\u0E4C\u0E40\u0E1C\u0E22\u0E41\u0E1E\u0E23\u0E48 \u0E0B\u0E2D\u0E23\u0E4C\u0E1F\u0E41\u0E27\u0E23\u0E4C \u0E2B\u0E23\u0E37\u0E2D\u0E2D\u0E37\u0E48\u0E19 \u0E46"@th .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/description> "estado dos direitos autorais de trabalhos intelectuais como obras de arte, publica\u00E7\u00F5es, programas de computador, etc."@pt .
+<http://www.wikidata.org/entity/P6216> <http://schema.org/description> "Urheberrechtsstatus f\u00FCr geistige Sch\u00F6pfungen wie Kunstwerke, Publikationen, Software usw."@de .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Item> .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "Creative Commons Erk\u00E4nnande-Dela lika"@sv .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "Creative Commons Erk\u00E4nnande-Dela lika"@sv .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "Creative Commons Erk\u00E4nnande-Dela lika"@sv .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "Creative Commons Navngivelse-DelP\u00E5SammeVilk\u00E5r 3.0"@da .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "Creative Commons Navngivelse-DelP\u00E5SammeVilk\u00E5r 3.0"@da .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "Creative Commons Navngivelse-DelP\u00E5SammeVilk\u00E5r 3.0"@da .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "Creative Commons Attribution-ShareAlike 3.0 Unported"@ru .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "Creative Commons Attribution-ShareAlike 3.0 Unported"@ru .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "Creative Commons Attribution-ShareAlike 3.0 Unported"@ru .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "Creative Commons Namensnennung \u2013 Weitergabe unter gleichen Bedingungen 3.0 Generisch"@de .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "Creative Commons Namensnennung \u2013 Weitergabe unter gleichen Bedingungen 3.0 Generisch"@de .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "Creative Commons Namensnennung \u2013 Weitergabe unter gleichen Bedingungen 3.0 Generisch"@de .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "Krea Komuna\u0135o Atribuite-Samkondi\u0109e 3.0 Neadaptita"@eo .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "Krea Komuna\u0135o Atribuite-Samkondi\u0109e 3.0 Neadaptita"@eo .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "Krea Komuna\u0135o Atribuite-Samkondi\u0109e 3.0 Neadaptita"@eo .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "Creative Commons Uve\u010Fte p\u016Fvod-Zachovejte licenci 3.0 Unported"@cs .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "Creative Commons Uve\u010Fte p\u016Fvod-Zachovejte licenci 3.0 Unported"@cs .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "Creative Commons Uve\u010Fte p\u016Fvod-Zachovejte licenci 3.0 Unported"@cs .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "Creative Commons Nevezd meg! \u2013 \u00CDgy add tov\u00E1bb! 3.0 Unported"@hu .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "Creative Commons Nevezd meg! \u2013 \u00CDgy add tov\u00E1bb! 3.0 Unported"@hu .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "Creative Commons Nevezd meg! \u2013 \u00CDgy add tov\u00E1bb! 3.0 Unported"@hu .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "\u041A\u0440\u0438\u0435\u0458\u0442\u0438\u0432 \u043A\u043E\u043C\u043E\u043D\u0441-\u041D\u0430\u0432\u0435\u0434\u0438 \u0438\u0437\u0432\u043E\u0440-\u0421\u043F\u043E\u0434\u0435\u043B\u0438 \u043F\u043E\u0434 \u0438\u0441\u0442\u0438 \u0443\u0441\u043B\u043E\u0432\u0438 3.0 \u041D\u0435\u043B\u043E\u043A\u0430\u043B\u0438\u0437\u0438\u0440\u0430\u043D\u0430"@mk .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u041A\u0440\u0438\u0435\u0458\u0442\u0438\u0432 \u043A\u043E\u043C\u043E\u043D\u0441-\u041D\u0430\u0432\u0435\u0434\u0438 \u0438\u0437\u0432\u043E\u0440-\u0421\u043F\u043E\u0434\u0435\u043B\u0438 \u043F\u043E\u0434 \u0438\u0441\u0442\u0438 \u0443\u0441\u043B\u043E\u0432\u0438 3.0 \u041D\u0435\u043B\u043E\u043A\u0430\u043B\u0438\u0437\u0438\u0440\u0430\u043D\u0430"@mk .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "\u041A\u0440\u0438\u0435\u0458\u0442\u0438\u0432 \u043A\u043E\u043C\u043E\u043D\u0441-\u041D\u0430\u0432\u0435\u0434\u0438 \u0438\u0437\u0432\u043E\u0440-\u0421\u043F\u043E\u0434\u0435\u043B\u0438 \u043F\u043E\u0434 \u0438\u0441\u0442\u0438 \u0443\u0441\u043B\u043E\u0432\u0438 3.0 \u041D\u0435\u043B\u043E\u043A\u0430\u043B\u0438\u0437\u0438\u0440\u0430\u043D\u0430"@mk .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "Creative Commons Naamsvermelding-GelijkDelen 3.0 Unported"@nl .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "Creative Commons Naamsvermelding-GelijkDelen 3.0 Unported"@nl .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "Creative Commons Naamsvermelding-GelijkDelen 3.0 Unported"@nl .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "CC BY SA 3.0 Unported"@it .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "CC BY SA 3.0 Unported"@it .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "CC BY SA 3.0 Unported"@it .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "\uD06C\uB9AC\uC5D0\uC774\uD2F0\uBE0C \uCEE4\uBA3C\uC988 \uC800\uC791\uC790\uD45C\uC2DC-\uB3D9\uC77C\uC870\uAC74\uBCC0\uACBD\uD5C8\uB77D 3.0 Unported"@ko .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uD06C\uB9AC\uC5D0\uC774\uD2F0\uBE0C \uCEE4\uBA3C\uC988 \uC800\uC791\uC790\uD45C\uC2DC-\uB3D9\uC77C\uC870\uAC74\uBCC0\uACBD\uD5C8\uB77D 3.0 Unported"@ko .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "\uD06C\uB9AC\uC5D0\uC774\uD2F0\uBE0C \uCEE4\uBA3C\uC988 \uC800\uC791\uC790\uD45C\uC2DC-\uB3D9\uC77C\uC870\uAC74\uBCC0\uACBD\uD5C8\uB77D 3.0 Unported"@ko .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "Creative Commons Ghi c\u00F4ng-Chia s\u1EBB t\u01B0\u01A1ng t\u1EF1 3.0 Ch\u01B0a chuy\u1EC3n \u0111\u1ED5i"@vi .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "Creative Commons Ghi c\u00F4ng-Chia s\u1EBB t\u01B0\u01A1ng t\u1EF1 3.0 Ch\u01B0a chuy\u1EC3n \u0111\u1ED5i"@vi .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "Creative Commons Ghi c\u00F4ng-Chia s\u1EBB t\u01B0\u01A1ng t\u1EF1 3.0 Ch\u01B0a chuy\u1EC3n \u0111\u1ED5i"@vi .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "Creative Commons Reconeixement-CompartirIgual 3.0 No adaptada"@ca .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "Creative Commons Reconeixement-CompartirIgual 3.0 No adaptada"@ca .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "Creative Commons Reconeixement-CompartirIgual 3.0 No adaptada"@ca .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "Creative Commons Attribution \u2013 Partage dans les M\u00EAmes Conditions 3.0 non transpos\u00E9"@fr .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "Creative Commons Attribution \u2013 Partage dans les M\u00EAmes Conditions 3.0 non transpos\u00E9"@fr .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "Creative Commons Attribution \u2013 Partage dans les M\u00EAmes Conditions 3.0 non transpos\u00E9"@fr .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "\u0995\u09CD\u09B0\u09BF\u09AF\u09BC\u09C7\u099F\u09BF\u09AD \u0995\u09AE\u09A8\u09CD\u09B8 \u098F\u099F\u09CD\u09B0\u09BF\u09AC\u09BF\u0989\u09B6\u09A8-\u09B6\u09C7\u09AF\u09BC\u09BE\u09B0\u098F\u09B2\u09BE\u0987\u0995 \u09E9.\u09E6 \u0986\u09A8\u09AA\u09CB\u09B0\u09CD\u099F\u09C7\u09A1"@bn .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0995\u09CD\u09B0\u09BF\u09AF\u09BC\u09C7\u099F\u09BF\u09AD \u0995\u09AE\u09A8\u09CD\u09B8 \u098F\u099F\u09CD\u09B0\u09BF\u09AC\u09BF\u0989\u09B6\u09A8-\u09B6\u09C7\u09AF\u09BC\u09BE\u09B0\u098F\u09B2\u09BE\u0987\u0995 \u09E9.\u09E6 \u0986\u09A8\u09AA\u09CB\u09B0\u09CD\u099F\u09C7\u09A1"@bn .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "\u0995\u09CD\u09B0\u09BF\u09AF\u09BC\u09C7\u099F\u09BF\u09AD \u0995\u09AE\u09A8\u09CD\u09B8 \u098F\u099F\u09CD\u09B0\u09BF\u09AC\u09BF\u0989\u09B6\u09A8-\u09B6\u09C7\u09AF\u09BC\u09BE\u09B0\u098F\u09B2\u09BE\u0987\u0995 \u09E9.\u09E6 \u0986\u09A8\u09AA\u09CB\u09B0\u09CD\u099F\u09C7\u09A1"@bn .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "\u0631\u062E\u0635\u0629 \u0627\u0644\u0645\u0634\u0627\u0639 \u0627\u0644\u0625\u0628\u062F\u0627\u0639\u064A: \u0627\u0644\u0646\u0633\u0628\u0629-\u0627\u0644\u062A\u0631\u062E\u064A\u0635 \u0628\u0627\u0644\u0645\u062B\u0644 3.0"@ar .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0631\u062E\u0635\u0629 \u0627\u0644\u0645\u0634\u0627\u0639 \u0627\u0644\u0625\u0628\u062F\u0627\u0639\u064A: \u0627\u0644\u0646\u0633\u0628\u0629-\u0627\u0644\u062A\u0631\u062E\u064A\u0635 \u0628\u0627\u0644\u0645\u062B\u0644 3.0"@ar .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "\u0631\u062E\u0635\u0629 \u0627\u0644\u0645\u0634\u0627\u0639 \u0627\u0644\u0625\u0628\u062F\u0627\u0639\u064A: \u0627\u0644\u0646\u0633\u0628\u0629-\u0627\u0644\u062A\u0631\u062E\u064A\u0635 \u0628\u0627\u0644\u0645\u062B\u0644 3.0"@ar .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "Creative Commons Atribui\u00E7\u00E3o-CompartilhaIgual 3.0 N\u00E3o Adaptada"@pt .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "Creative Commons Atribui\u00E7\u00E3o-CompartilhaIgual 3.0 N\u00E3o Adaptada"@pt .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "Creative Commons Atribui\u00E7\u00E3o-CompartilhaIgual 3.0 N\u00E3o Adaptada"@pt .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "Creative Commons Atribui\u00E7\u00E3o-CompartilhaIgual 3.0 N\u00E3o Adaptada"@pt-br .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "Creative Commons Atribui\u00E7\u00E3o-CompartilhaIgual 3.0 N\u00E3o Adaptada"@pt-br .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "Creative Commons Atribui\u00E7\u00E3o-CompartilhaIgual 3.0 N\u00E3o Adaptada"@pt-br .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "\u77E5\u8BC6\u5171\u4EAB\u7F72\u540D-\u76F8\u540C\u65B9\u5F0F\u5171\u4EAB3.0\u672A\u672C\u5730\u5316\u7248\u672C"@zh-hans .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u77E5\u8BC6\u5171\u4EAB\u7F72\u540D-\u76F8\u540C\u65B9\u5F0F\u5171\u4EAB3.0\u672A\u672C\u5730\u5316\u7248\u672C"@zh-hans .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "\u77E5\u8BC6\u5171\u4EAB\u7F72\u540D-\u76F8\u540C\u65B9\u5F0F\u5171\u4EAB3.0\u672A\u672C\u5730\u5316\u7248\u672C"@zh-hans .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "\u5171\u4EAB\u5275\u610F\u7F72\u540D-\u76F8\u540C\u65B9\u5F0F\u5171\u4EAB3.0Unported"@zh-hk .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5171\u4EAB\u5275\u610F\u7F72\u540D-\u76F8\u540C\u65B9\u5F0F\u5171\u4EAB3.0Unported"@zh-hk .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "\u5171\u4EAB\u5275\u610F\u7F72\u540D-\u76F8\u540C\u65B9\u5F0F\u5171\u4EAB3.0Unported"@zh-hk .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "Creative Commons Attribution-ShareAlike 3.0 . Non soportada"@gl .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "Creative Commons Attribution-ShareAlike 3.0 . Non soportada"@gl .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "Creative Commons Attribution-ShareAlike 3.0 . Non soportada"@gl .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "Creative Commons Attribution-ShareAlike 3.0 Unported"@uk .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "Creative Commons Attribution-ShareAlike 3.0 Unported"@uk .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "Creative Commons Attribution-ShareAlike 3.0 Unported"@uk .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "CC BY-SA 3.0 \u975E\u79FB\u690D"@ja .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "CC BY-SA 3.0 \u975E\u79FB\u690D"@ja .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "CC BY-SA 3.0 \u975E\u79FB\u690D"@ja .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "\u5275\u7528CC\u59D3\u540D\u6A19\u793A-\u76F8\u540C\u65B9\u5F0F\u5206\u4EAB3.0\u672A\u672C\u5730\u5316"@zh-tw .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5275\u7528CC\u59D3\u540D\u6A19\u793A-\u76F8\u540C\u65B9\u5F0F\u5206\u4EAB3.0\u672A\u672C\u5730\u5316"@zh-tw .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "\u5275\u7528CC\u59D3\u540D\u6A19\u793A-\u76F8\u540C\u65B9\u5F0F\u5206\u4EAB3.0\u672A\u672C\u5730\u5316"@zh-tw .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "Creative Commons Attribution-ShareAlike 3.0 Unported"@be-tarask .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "Creative Commons Attribution-ShareAlike 3.0 Unported"@be-tarask .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "Creative Commons Attribution-ShareAlike 3.0 Unported"@be-tarask .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "CC BY-SA 3.0"@pl .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "CC BY-SA 3.0"@pl .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "CC BY-SA 3.0"@pl .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "Creative Commons Attribution-ShareAlike 3.0 Unported"@en .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "Creative Commons Attribution-ShareAlike 3.0 Unported"@en .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "Creative Commons Attribution-ShareAlike 3.0 Unported"@en .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "CC-BY-SA 3.0"@es .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "CC-BY-SA 3.0"@es .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "CC-BY-SA 3.0"@es .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "\u5275\u7528CC\u59D3\u540D\u6A19\u793A-\u76F8\u540C\u65B9\u5F0F\u5206\u4EAB3.0\u672A\u672C\u5730\u5316"@zh-hant .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5275\u7528CC\u59D3\u540D\u6A19\u793A-\u76F8\u540C\u65B9\u5F0F\u5206\u4EAB3.0\u672A\u672C\u5730\u5316"@zh-hant .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "\u5275\u7528CC\u59D3\u540D\u6A19\u793A-\u76F8\u540C\u65B9\u5F0F\u5206\u4EAB3.0\u672A\u672C\u5730\u5316"@zh-hant .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "\u5275\u7528CC\u59D3\u540D\u6A19\u793A-\u76F8\u540C\u65B9\u5F0F\u5206\u4EAB3.0\u672A\u672C\u5730\u5316"@zh .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5275\u7528CC\u59D3\u540D\u6A19\u793A-\u76F8\u540C\u65B9\u5F0F\u5206\u4EAB3.0\u672A\u672C\u5730\u5316"@zh .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "\u5275\u7528CC\u59D3\u540D\u6A19\u793A-\u76F8\u540C\u65B9\u5F0F\u5206\u4EAB3.0\u672A\u672C\u5730\u5316"@zh .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2000/01/rdf-schema#label> "Creative Commons At\u0131f-Ayn\u0131LisanslaPayla\u015F 3.0 Yerelle\u015Ftirilmemi\u015F"@tr .
+<http://www.wikidata.org/entity/Q14946043> <http://www.w3.org/2004/02/skos/core#prefLabel> "Creative Commons At\u0131f-Ayn\u0131LisanslaPayla\u015F 3.0 Yerelle\u015Ftirilmemi\u015F"@tr .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/name> "Creative Commons At\u0131f-Ayn\u0131LisanslaPayla\u015F 3.0 Yerelle\u015Ftirilmemi\u015F"@tr .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/description> "licens"@da .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/description> "Creative-Commons-Lizenz"@de .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/description> "licenza Creative Commons"@it .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/description> "\uC7AC\uBC30\uD3EC\uD560 \uB54C \uC800\uC791\uC790 \uD45C\uC2DC\uC640 \uB3D9\uC77C\uD55C \uB77C\uC774\uC13C\uC2A4\uB97C \uC801\uC6A9\uD558\uB3C4\uB85D \uD558\uB294, \uD604\uC9C0\uD654\uAC00 \uB418\uC9C0 \uC54A\uC740 \uD06C\uB9AC\uC5D0\uC774\uD2F0\uBE0C \uCEE4\uBA3C\uC988 \uB77C\uC774\uC120\uC2A4"@ko .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/description> "\u0989\u0987\u0995\u09BF\u09AE\u09BF\u09A1\u09BF\u09AF\u09BC\u09BE \u0995\u09AE\u09A8\u09CD\u09B8\u09C7\u09B0 \u0985\u09A8\u09C1\u09AE\u09A4\u09BF\u0995\u09CD\u09B0\u09AE"@bn .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/description> "licen\u00E7a da Creative Commons"@pt .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/description> "licen\u00E7a da Creative Commons"@pt-br .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/description> "licenza Creative Commons"@gl .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/description> "\u043B\u0456\u0446\u0435\u043D\u0437\u0456\u044F Creative Commons"@uk .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/description> "\u043B\u0438\u0446\u0435\u043D\u0437\u0438\u044F Creative Commons"@ru .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/description> "\u5275\u7528CC\u6388\u6B0A\u689D\u6B3E\u7684\u672A\u7FFB\u8B6F\u7248\u672C"@zh-tw .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/description> "\u043B\u0456\u0446\u044D\u043D\u0437\u0456\u044F Creative Commons"@be-tarask .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/description> "gi\u1EA5y ph\u00E9p Creative Commons"@vi .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/description> "Creative Commons license"@en .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/description> "permesilo Krea Komuna\u0135o"@eo .
+<http://www.wikidata.org/entity/Q14946043> <http://schema.org/description> "Creative Commons lisans\u0131"@tr .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Property> .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#Property> .
+<http://www.wikidata.org/entity/P275> <http://wikiba.se/ontology#propertyType> <http://wikiba.se/ontology#WikibaseItem> .
+<http://www.wikidata.org/entity/P275> <http://wikiba.se/ontology#directClaim> <http://www.wikidata.org/prop/direct/P275> .
+<http://www.wikidata.org/entity/P275> <http://wikiba.se/ontology#claim> <http://www.wikidata.org/prop/P275> .
+<http://www.wikidata.org/entity/P275> <http://wikiba.se/ontology#statementProperty> <http://www.wikidata.org/prop/statement/P275> .
+<http://www.wikidata.org/entity/P275> <http://wikiba.se/ontology#statementValue> <http://www.wikidata.org/prop/statement/value/P275> .
+<http://www.wikidata.org/entity/P275> <http://wikiba.se/ontology#qualifier> <http://www.wikidata.org/prop/qualifier/P275> .
+<http://www.wikidata.org/entity/P275> <http://wikiba.se/ontology#qualifierValue> <http://www.wikidata.org/prop/qualifier/value/P275> .
+<http://www.wikidata.org/entity/P275> <http://wikiba.se/ontology#reference> <http://www.wikidata.org/prop/reference/P275> .
+<http://www.wikidata.org/entity/P275> <http://wikiba.se/ontology#referenceValue> <http://www.wikidata.org/prop/reference/value/P275> .
+<http://www.wikidata.org/entity/P275> <http://wikiba.se/ontology#novalue> <http://www.wikidata.org/prop/novalue/P275> .
+<http://www.wikidata.org/prop/P275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/value/P275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/value/P275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/value/P275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/direct/P275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/statement/P275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/qualifier/P275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/reference/P275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#ObjectProperty> .
+<http://www.wikidata.org/prop/novalue/P275> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Class> .
+<http://www.wikidata.org/prop/novalue/P275> <http://www.w3.org/2002/07/owl#complementOf> _:298aabdb0974253ac321b0308875c924 .
+_:298aabdb0974253ac321b0308875c924 <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Restriction> .
+_:298aabdb0974253ac321b0308875c924 <http://www.w3.org/2002/07/owl#onProperty> <http://www.wikidata.org/prop/direct/P275> .
+_:298aabdb0974253ac321b0308875c924 <http://www.w3.org/2002/07/owl#someValuesFrom> <http://www.w3.org/2002/07/owl#Thing> .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "Lizenz"@de .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lizenz"@de .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "Lizenz"@de .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "copyright license"@en .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "copyright license"@en .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "copyright license"@en .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "licence"@fr .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "licence"@fr .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "licence"@fr .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "llic\u00E8ncia"@ca .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "llic\u00E8ncia"@ca .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "llic\u00E8ncia"@ca .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u043B\u0438\u0446\u0435\u043D\u0437\u0438\u044F"@ru .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043B\u0438\u0446\u0435\u043D\u0437\u0438\u044F"@ru .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u043B\u0438\u0446\u0435\u043D\u0437\u0438\u044F"@ru .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "licencja"@pl .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "licencja"@pl .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "licencja"@pl .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "licenza"@it .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "licenza"@it .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "licenza"@it .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "licentie"@nl .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "licentie"@nl .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "licentie"@nl .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\uB77C\uC774\uC120\uC2A4"@ko .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\uB77C\uC774\uC120\uC2A4"@ko .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\uB77C\uC774\uC120\uC2A4"@ko .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "licen\u00E7a"@pt .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "licen\u00E7a"@pt .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "licen\u00E7a"@pt .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u043B\u0456\u0446\u0435\u043D\u0437\u0456\u044F"@uk .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043B\u0456\u0446\u0435\u043D\u0437\u0456\u044F"@uk .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u043B\u0456\u0446\u0435\u043D\u0437\u0456\u044F"@uk .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u043B\u0438\u0446\u0435\u043D\u0446\u0430"@sr .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043B\u0438\u0446\u0435\u043D\u0446\u0430"@sr .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u043B\u0438\u0446\u0435\u043D\u0446\u0430"@sr .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u5229\u7528\u8A31\u8AFE"@ja .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u5229\u7528\u8A31\u8AFE"@ja .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u5229\u7528\u8A31\u8AFE"@ja .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u05E8\u05D9\u05E9\u05D9\u05D5\u05DF"@he .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u05E8\u05D9\u05E9\u05D9\u05D5\u05DF"@he .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u05E8\u05D9\u05E9\u05D9\u05D5\u05DF"@he .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "licenc"@hu .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "licenc"@hu .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "licenc"@hu .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "licence"@cs .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "licence"@cs .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "licence"@cs .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u0627\u062C\u0627\u0632\u0647\u200C\u0646\u0627\u0645\u0647"@fa .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0627\u062C\u0627\u0632\u0647\u200C\u0646\u0627\u0645\u0647"@fa .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u0627\u062C\u0627\u0632\u0647\u200C\u0646\u0627\u0645\u0647"@fa .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "Lisensie"@af .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lisensie"@af .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "Lisensie"@af .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u8BB8\u53EF\u534F\u8BAE"@zh-cn .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8BB8\u53EF\u534F\u8BAE"@zh-cn .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u8BB8\u53EF\u534F\u8BAE"@zh-cn .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u8BB8\u53EF\u534F\u8BAE"@zh .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8BB8\u53EF\u534F\u8BAE"@zh .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u8BB8\u53EF\u534F\u8BAE"@zh .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "licens"@da .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "licens"@da .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "licens"@da .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u03AC\u03B4\u03B5\u03B9\u03B1 \u03C7\u03C1\u03AE\u03C3\u03B7\u03C2"@el .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u03AC\u03B4\u03B5\u03B9\u03B1 \u03C7\u03C1\u03AE\u03C3\u03B7\u03C2"@el .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u03AC\u03B4\u03B5\u03B9\u03B1 \u03C7\u03C1\u03AE\u03C3\u03B7\u03C2"@el .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "lisensi"@min .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "lisensi"@min .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "lisensi"@min .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "lisensi"@id .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "lisensi"@id .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "lisensi"@id .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "lisenssi"@fi .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "lisenssi"@fi .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "lisenssi"@fi .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u8BB8\u53EF\u534F\u8BAE"@zh-hans .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8BB8\u53EF\u534F\u8BAE"@zh-hans .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u8BB8\u53EF\u534F\u8BAE"@zh-hans .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u6388\u6B0A\u689D\u6B3E"@zh-hant .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6388\u6B0A\u689D\u6B3E"@zh-hant .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u6388\u6B0A\u689D\u6B3E"@zh-hant .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u043B\u0456\u0446\u044D\u043D\u0437\u0456\u044F"@be-tarask .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043B\u0456\u0446\u044D\u043D\u0437\u0456\u044F"@be-tarask .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u043B\u0456\u0446\u044D\u043D\u0437\u0456\u044F"@be-tarask .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "gi\u1EA5y ph\u00E9p"@vi .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "gi\u1EA5y ph\u00E9p"@vi .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "gi\u1EA5y ph\u00E9p"@vi .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u092A\u0930\u0935\u093E\u0928\u093E"@mr .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u092A\u0930\u0935\u093E\u0928\u093E"@mr .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u092A\u0930\u0935\u093E\u0928\u093E"@mr .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "licen\u00E7a"@pt-br .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "licen\u00E7a"@pt-br .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "licen\u00E7a"@pt-br .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "licencia"@es .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "licencia"@es .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "licencia"@es .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "licenza"@gl .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "licenza"@gl .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "licenza"@gl .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "licen\u021B\u0103"@ro .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "licen\u021B\u0103"@ro .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "licen\u021B\u0103"@ro .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "licencia"@sk .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "licencia"@sk .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "licencia"@sk .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "dovoljenje"@sl .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "dovoljenje"@sl .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "dovoljenje"@sl .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "permesilo"@eo .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "permesilo"@eo .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "permesilo"@eo .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "licenca"@bs .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "licenca"@bs .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "licenca"@bs .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u6388\u6B0A\u689D\u6B3E"@zh-tw .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u6388\u6B0A\u689D\u6B3E"@zh-tw .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u6388\u6B0A\u689D\u6B3E"@zh-tw .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "Lizenz"@nds .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lizenz"@nds .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "Lizenz"@nds .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u10DA\u10D8\u10EA\u10D4\u10DC\u10D6\u10D8\u10D0"@ka .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u10DA\u10D8\u10EA\u10D4\u10DC\u10D6\u10D8\u10D0"@ka .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u10DA\u10D8\u10EA\u10D4\u10DC\u10D6\u10D8\u10D0"@ka .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u043B\u0456\u0446\u044D\u043D\u0437\u0456\u044F"@be .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043B\u0456\u0446\u044D\u043D\u0437\u0456\u044F"@be .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u043B\u0456\u0446\u044D\u043D\u0437\u0456\u044F"@be .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u043B\u0438\u0446\u0435\u043D\u0437"@bg .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043B\u0438\u0446\u0435\u043D\u0437"@bg .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u043B\u0438\u0446\u0435\u043D\u0437"@bg .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "lisens"@nn .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "lisens"@nn .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "lisens"@nn .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u0B89\u0BB0\u0BBF\u0BAE\u0BAE\u0BCD"@ta .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0B89\u0BB0\u0BBF\u0BAE\u0BAE\u0BCD"@ta .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u0B89\u0BB0\u0BBF\u0BAE\u0BAE\u0BCD"@ta .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u09B2\u09BE\u0987\u09B8\u09C7\u09A8\u09CD\u09B8"@bn .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u09B2\u09BE\u0987\u09B8\u09C7\u09A8\u09CD\u09B8"@bn .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u09B2\u09BE\u0987\u09B8\u09C7\u09A8\u09CD\u09B8"@bn .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u043B\u0438\u0446\u0435\u043D\u0446\u0430"@mk .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043B\u0438\u0446\u0435\u043D\u0446\u0430"@mk .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u043B\u0438\u0446\u0435\u043D\u0446\u0430"@mk .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "lic\u00E9ncia"@oc .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "lic\u00E9ncia"@oc .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "lic\u00E9ncia"@oc .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "copyright licence"@en-gb .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "copyright licence"@en-gb .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "copyright licence"@en-gb .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "lesen"@ms .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "lesen"@ms .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "lesen"@ms .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u0AAA\u0AB0\u0AB5\u0ABE\u0AA8\u0ACB"@gu .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0AAA\u0AB0\u0AB5\u0ABE\u0AA8\u0ACB"@gu .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u0AAA\u0AB0\u0AB5\u0ABE\u0AA8\u0ACB"@gu .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "lisens"@nb .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "lisens"@nb .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "lisens"@nb .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "licence"@lv .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "licence"@lv .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "licence"@lv .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "licencija"@hr .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "licencija"@hr .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "licencija"@hr .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "license"@sco .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "license"@sco .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "license"@sco .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u0C32\u0C48\u0C38\u0C46\u0C28\u0C4D\u0C38\u0C41"@te .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0C32\u0C48\u0C38\u0C46\u0C28\u0C4D\u0C38\u0C41"@te .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u0C32\u0C48\u0C38\u0C46\u0C28\u0C4D\u0C38\u0C41"@te .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "licens"@sv .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "licens"@sv .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "licens"@sv .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u7279\u8A31\u689D\u6B3E"@zh-hk .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u7279\u8A31\u689D\u6B3E"@zh-hk .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u7279\u8A31\u689D\u6B3E"@zh-hk .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u0905\u0928\u0941\u091C\u094D\u091E\u092A\u094D\u0924\u093F"@hi .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0905\u0928\u0941\u091C\u094D\u091E\u092A\u094D\u0924\u093F"@hi .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u0905\u0928\u0941\u091C\u094D\u091E\u092A\u094D\u0924\u093F"@hi .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u043B\u0438\u0446\u0435\u043D\u0446\u0430"@sr-ec .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043B\u0438\u0446\u0435\u043D\u0446\u0430"@sr-ec .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u043B\u0438\u0446\u0435\u043D\u0446\u0430"@sr-ec .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "licenca"@sr-el .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "licenca"@sr-el .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "licenca"@sr-el .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "Lizenz"@de-at .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lizenz"@de-at .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "Lizenz"@de-at .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "Lizenz"@de-ch .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lizenz"@de-ch .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "Lizenz"@de-ch .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "copyright license"@en-ca .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "copyright license"@en-ca .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "copyright license"@en-ca .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "licentia"@ia .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "licentia"@ia .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "licentia"@ia .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "licenza"@scn .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "licenza"@scn .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "licenza"@scn .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u043B\u0438\u0446\u0435\u043D\u0437\u0438"@ce .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043B\u0438\u0446\u0435\u043D\u0437\u0438"@ce .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u043B\u0438\u0446\u0435\u043D\u0437\u0438"@ce .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u0E2A\u0E31\u0E0D\u0E0D\u0E32\u0E2D\u0E19\u0E38\u0E0D\u0E32\u0E15"@th .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0E2A\u0E31\u0E0D\u0E0D\u0E32\u0E2D\u0E19\u0E38\u0E0D\u0E32\u0E15"@th .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u0E2A\u0E31\u0E0D\u0E0D\u0E32\u0E2D\u0E19\u0E38\u0E0D\u0E32\u0E15"@th .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u0627\u0644\u0631\u062E\u0635\u0629"@ar .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0627\u0644\u0631\u062E\u0635\u0629"@ar .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u0627\u0644\u0631\u062E\u0635\u0629"@ar .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "lisensia"@ilo .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "lisensia"@ilo .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "lisensia"@ilo .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "licencija"@lt .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "licencija"@lt .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "licencija"@lt .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "trwydded"@cy .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "trwydded"@cy .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "trwydded"@cy .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "llicencia"@ast .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "llicencia"@ast .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "llicencia"@ast .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u0645\u0646\u069A\u062A\u0644\u064A\u06A9"@ps .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0645\u0646\u069A\u062A\u0644\u064A\u06A9"@ps .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u0645\u0646\u069A\u062A\u0644\u064A\u06A9"@ps .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "Lisens"@frr .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lisens"@frr .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "Lisens"@frr .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u0CAA\u0CB0\u0CB5\u0CBE\u0CA8\u0CBF\u0C97\u0CC6"@kn .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0CAA\u0CB0\u0CB5\u0CBE\u0CA8\u0CBF\u0C97\u0CC6"@kn .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u0CAA\u0CB0\u0CB5\u0CBE\u0CA8\u0CBF\u0C97\u0CC6"@kn .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "lizentzia"@eu .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "lizentzia"@eu .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "lizentzia"@eu .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u0D05\u0D28\u0D41\u0D2E\u0D24\u0D3F"@ml .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0D05\u0D28\u0D41\u0D2E\u0D24\u0D3F"@ml .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u0D05\u0D28\u0D41\u0D2E\u0D24\u0D3F"@ml .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "dest\u00FBr"@ku-latn .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "dest\u00FBr"@ku-latn .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "dest\u00FBr"@ku-latn .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u0631\u062E\u0635\u0629"@aeb-arab .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0631\u062E\u0635\u0629"@aeb-arab .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u0631\u062E\u0635\u0629"@aeb-arab .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u0438\u04B7\u043E\u0437\u0430\u0442\u043D\u043E\u043C\u0430"@tg .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0438\u04B7\u043E\u0437\u0430\u0442\u043D\u043E\u043C\u0430"@tg .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u0438\u04B7\u043E\u0437\u0430\u0442\u043D\u043E\u043C\u0430"@tg .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u0627\u062C\u0627\u0632\u062A \u0646\u0627\u0645\u06C1"@ur .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0627\u062C\u0627\u0632\u062A \u0646\u0627\u0645\u06C1"@ur .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u0627\u062C\u0627\u0632\u062A \u0646\u0627\u0645\u06C1"@ur .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "telif hakk\u0131 lisans\u0131"@tr .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "telif hakk\u0131 lisans\u0131"@tr .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "telif hakk\u0131 lisans\u0131"@tr .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u043B\u0438\u0446\u0435\u043D\u0437\u0438\u044F"@ba .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043B\u0438\u0446\u0435\u043D\u0437\u0438\u044F"@ba .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u043B\u0438\u0446\u0435\u043D\u0437\u0438\u044F"@ba .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u8BB8\u53EF\u534F\u8BAE"@zh-sg .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8BB8\u53EF\u534F\u8BAE"@zh-sg .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u8BB8\u53EF\u534F\u8BAE"@zh-sg .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u7279\u8A31\u689D\u6B3E"@zh-mo .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u7279\u8A31\u689D\u6B3E"@zh-mo .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u7279\u8A31\u689D\u6B3E"@zh-mo .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u0569\u0578\u0582\u0575\u056C\u0561\u057F\u0580\u0561\u0563\u056B\u0580"@hy .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0569\u0578\u0582\u0575\u056C\u0561\u057F\u0580\u0561\u0563\u056B\u0580"@hy .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u0569\u0578\u0582\u0575\u056C\u0561\u057F\u0580\u0561\u0563\u056B\u0580"@hy .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u043B\u0438\u0446\u0435\u043D\u0437\u0438\u044F"@tt .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u043B\u0438\u0446\u0435\u043D\u0437\u0438\u044F"@tt .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u043B\u0438\u0446\u0435\u043D\u0437\u0438\u044F"@tt .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "li\u00E7ensa"@sq .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "li\u00E7ensa"@sq .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "li\u00E7ensa"@sq .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "li\u00E7ensa"@aln .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "li\u00E7ensa"@aln .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "li\u00E7ensa"@aln .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "cead\u00FAnas"@ga .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "cead\u00FAnas"@ga .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "cead\u00FAnas"@ga .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u0A32\u0A38\u0A70\u0A38"@pa .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u0A32\u0A38\u0A70\u0A38"@pa .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u0A32\u0A38\u0A70\u0A38"@pa .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u8BB8\u53EF\u534F\u8BAE"@zh-my .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u8BB8\u53EF\u534F\u8BAE"@zh-my .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u8BB8\u53EF\u534F\u8BAE"@zh-my .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "licenca"@hsb .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "licenca"@hsb .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "licenca"@hsb .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "litsents"@et .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "litsents"@et .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "litsents"@et .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "\u07E5\u07CA\u07EC\u07DF\u07CA\u07F2\u07EC\u07DE\u07CC"@nqo .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "\u07E5\u07CA\u07EC\u07DF\u07CA\u07F2\u07EC\u07DE\u07CC"@nqo .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "\u07E5\u07CA\u07EC\u07DF\u07CA\u07F2\u07EC\u07DE\u07CC"@nqo .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "lisenziya"@az .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "lisenziya"@az .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "lisenziya"@az .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2000/01/rdf-schema#label> "Lizenz"@lb .
+<http://www.wikidata.org/entity/P275> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lizenz"@lb .
+<http://www.wikidata.org/entity/P275> <http://schema.org/name> "Lizenz"@lb .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "Lizenz, unter der ein urheberrechtlich gesch\u00FCtztes Werk verf\u00FCgbar ist"@de .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "license under which this copyrighted work is released"@en .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "licence sous les termes de laquelle l\u2019\u0153uvre est disponible"@fr .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "licencja, na kt\u00F3rej zosta\u0142 opublikowany dany utw\u00F3r"@pl .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "beschrijft onder welke licentie het werk beschikbaar is"@nl .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "licenza sotto la quale \u00E8 pubblicata un'opera creativa"@it .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "llic\u00E8ncia sota la qual l'obra est\u00E0 disponible"@ca .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "\uC800\uC791\uBB3C\uC758 \uBC30\uD3EC \uB77C\uC774\uC120\uC2A4"@ko .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "\u3053\u306E\u8457\u4F5C\u7269\u304C\u516C\u958B\u3055\u308C\u308B\u969B\u306E\u30E9\u30A4\u30BB\u30F3\u30B9"@ja .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "\u8FD9\u4E2A\u7248\u6743\u4F5C\u54C1\u91CA\u51FA\u65F6\u4F7F\u7528\u7684\u534F\u8BAE"@zh-cn .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "\u8FD9\u4E2A\u7248\u6743\u4F5C\u54C1\u91CA\u51FA\u65F6\u4F7F\u7528\u7684\u534F\u8BAE"@zh .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "licens under hvilken dette rettighedsbeskyttede v\u00E6rk er frigivet"@da .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "lisenssi, jolla tekij\u00E4noikeudella suojattu teos on julkaistu"@fi .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "\u8FD9\u4E2A\u7248\u6743\u4F5C\u54C1\u91CA\u51FA\u65F6\u4F7F\u7528\u7684\u534F\u8BAE"@zh-hans .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "\u9019\u500B\u7248\u6B0A\u4F5C\u54C1\u91CB\u51FA\u6642\u4F7F\u7528\u7684\u689D\u6B3E"@zh-hant .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "\u043B\u0456\u0446\u044D\u043D\u0437\u0456\u044F, \u043F\u0430\u0432\u043E\u0434\u043B\u0435 \u044F\u043A\u043E\u0439 \u0440\u0430\u0441\u043F\u0430\u045E\u0441\u044E\u0434\u0436\u0432\u0430\u0435\u0446\u0446\u0430 \u0433\u044D\u0442\u044B \u0442\u0432\u043E\u0440"@be-tarask .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "licencia bajo la cual se encuentra disponible la obra"@es .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "licen\u021Ba sub care este disponibil\u0103 opera respectiv\u0103"@ro .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "permesilo a\u016D aliaj kondi\u0109oj (a\u016D ties malesto), la\u016D kiuj estas disponebla la objekto de kopirajta monopolo ks"@eo .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "\u9019\u500B\u7248\u6B0A\u4F5C\u54C1\u91CB\u51FA\u6642\u4F7F\u7528\u7684\u689D\u6B3E"@zh-tw .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "\u043B\u0438\u0446\u0435\u043D\u0437, \u043F\u043E\u0434 \u043A\u043E\u0439\u0442\u043E \u0435 \u043F\u0443\u0431\u043B\u0438\u043A\u0443\u0432\u0430\u043D\u043E \u0434\u0430\u0434\u0435\u043D\u043E \u043F\u0440\u043E\u0438\u0437\u0432\u0435\u0434\u0435\u043D\u0438\u0435"@bg .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "\u043B\u0438\u0446\u0435\u043D\u0446\u0430 (\u0434\u043E\u0437\u0432\u043E\u043B\u0430 \u0437\u0430 \u0430\u0432\u0442\u043E\u0440\u0441\u043A\u0438/\u0441\u043E\u043F\u0441\u0442\u0432\u0435\u043D\u0438\u0447\u043A\u0438 \u043F\u0440\u0430\u0432\u0430) \u043F\u043E\u0434 \u043A\u043E\u0458\u0430 \u0441\u0435 \u0438\u0437\u0434\u0430\u0432\u0430 \u0434\u0435\u043B\u043E\u0442\u043E"@mk .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "licence under which this copyrighted work is released"@en-gb .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "\u0A9C\u0AC7 \u0AAA\u0AB0\u0AB5\u0ABE\u0AA8\u0ABE \u0AB9\u0AC7\u0AA0\u0AB3 \u0A86 \u0AAA\u0ACD\u0AB0\u0A95\u0ABE\u0AB6\u0AA8 \u0A85\u0AA7\u0ABF\u0A95\u0ABE\u0AB0 \u0AA7\u0AB0\u0ABE\u0AB5\u0AA4\u0AC0 \u0A95\u0AC3\u0AA4\u0ABF \u0AAA\u0ACD\u0AB0\u0A95\u0ABE\u0AB6\u0ABF\u0AA4 \u0AA5\u0A88 \u0A9B\u0AC7"@gu .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "licencija pod kojom je ovo djelo izdano"@hr .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "\u0B95\u0BBE\u0BAA\u0BCD\u0BAA\u0BC1\u0BB0\u0BBF\u0BAE\u0BC8\u0BAF\u0BC1\u0BB3\u0BCD\u0BB3 \u0B87\u0BA8\u0BCD\u0BA4 \u0BB5\u0BC7\u0BB2\u0BC8 \u0BB5\u0BC6\u0BB3\u0BBF\u0BAF\u0BBF\u0B9F\u0BAA\u0BCD\u0BAA\u0B9F\u0BCD\u0B9F\u0BC1\u0BB3\u0BCD\u0BB3 \u0B89\u0BB0\u0BBF\u0BAE\u0BAE\u0BCD"@ta .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "\u043B\u0438\u0446\u0435\u043D\u0437\u0438\u044F, \u043F\u043E\u0434 \u043A\u043E\u0442\u043E\u0440\u043E\u0439 \u043E\u043F\u0443\u0431\u043B\u0438\u043A\u043E\u0432\u0430\u043D\u043E \u043F\u0440\u043E\u0438\u0437\u0432\u0435\u0434\u0435\u043D\u0438\u0435"@ru .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "\u091C\u093F\u0938 \u0924\u0939\u0924 \u0932\u093E\u0907\u0938\u0947\u0902\u0938 \u092F\u0939 \u0915\u093E\u0930\u094D\u092F \u091C\u093E\u0930\u0940 \u0915\u093F\u092F\u093E \u0917\u092F\u093E \u0939\u0948"@hi .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "\u043B\u0456\u0446\u0435\u043D\u0437\u0456\u044F \u043F\u0443\u0431\u043B\u0456\u043A\u0430\u0446\u0456\u0457 \u0442\u0432\u043E\u0440\u0443"@uk .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "licenza sutta \u00E2 quali stu travagghiu, prutettu d\u00FB drittu d'auturi, veni rilassatu"@scn .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "llicencia baxo la que se distribuye la obra"@ast .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "zein lizentziapean dagoen obra"@eu .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "licence pod kterou je zve\u0159ejn\u011Bno autorsk\u00E9 d\u00EDlo"@cs .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "dovoljenje, pod katerim je delo izdano"@sl .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "\u8FD9\u4E2A\u7248\u6743\u4F5C\u54C1\u91CA\u51FA\u65F6\u4F7F\u7528\u7684\u534F\u8BAE"@zh-sg .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "\u9019\u500B\u7248\u6B0A\u4F5C\u54C1\u91CB\u51FA\u6642\u4F7F\u7528\u7684\u689D\u6B3E"@zh-hk .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "\u9019\u500B\u7248\u6B0A\u4F5C\u54C1\u91CB\u51FA\u6642\u4F7F\u7528\u7684\u689D\u6B3E"@zh-mo .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "a m\u0171 felhaszn\u00E1l\u00E1si felt\u00E9telei"@hu .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "\u043B\u0438\u0446\u0435\u043D\u0446\u0430 \u043F\u043E\u0434 \u043A\u043E\u0458\u043E\u043C \u0458\u0435 \u043E\u0432\u043E \u0430\u0443\u0442\u043E\u0440\u0441\u043A\u043E \u0434\u0435\u043B\u043E \u0438\u0437\u0434\u0430\u0442\u043E"@sr .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "licence under which this copyrighted work is released"@en-ca .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "\u0569\u0578\u0582\u0575\u056C\u0561\u057F\u0580\u0561\u0563\u056B\u0580\u0568, \u0578\u0580\u0578\u057E \u0569\u0578\u0572\u0561\u0580\u056F\u057E\u0561\u056E \u0567 \u0576\u0577\u057E\u0561\u056E \u057D\u057F\u0565\u0572\u056E\u0561\u0563\u0578\u0580\u056E\u0578\u0582\u0569\u0575\u0578\u0582\u0576\u0568"@hy .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "lisensi yang digunakan ketika merilis karya berhak cipta ini"@id .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "licens under vilket detta upphovsr\u00E4ttsskyddade verk \u00E4r sl\u00E4ppt"@sv .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "\u0A30\u0A1A\u0A28\u0A3E \u0A15\u0A3F\u0A38 \u0A32\u0A38\u0A70\u0A38 \u0A05\u0A27\u0A40\u0A28 \u0A1C\u0A3E\u0A30\u0A40 \u0A15\u0A40\u0A24\u0A40 \u0A17\u0A08 \u0A39\u0A48"@pa .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "hvilke lisens dette opphavsrettsbeskyttet verket er utgitt under"@nb .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "\u03AC\u03B4\u03B5\u03B9\u03B1 \u03C5\u03C0\u03CC \u03C4\u03B7\u03BD \u03BF\u03C0\u03BF\u03AF\u03B1 \u03B1\u03C0\u03B5\u03BB\u03B5\u03C5\u03B8\u03B5\u03C1\u03CE\u03BD\u03B5\u03C4\u03B1\u03B9 \u03C4\u03BF \u03AD\u03C1\u03B3\u03BF \u03BC\u03B5 \u03C0\u03BD\u03B5\u03C5\u03BC\u03B1\u03C4\u03B9\u03BA\u03AC \u03B4\u03B9\u03BA\u03B1\u03B9\u03CE\u03BC\u03B1\u03C4\u03B1"@el .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "licenca, pod kotrej\u017E steji \u0161kitane d\u017A\u011B\u0142o k dispoziciji"@hsb .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "\u067E\u0631\u0648\u0627\u0646\u0647\u200C\u0627\u06CC \u06A9\u0647 \u0627\u062B\u0631 \u0645\u0648\u0631\u062F \u0646\u0638\u0631 \u062A\u062D\u062A \u0622\u0646 \u0645\u0646\u062A\u0634\u0631 \u0634\u062F\u0647 \u0627\u0633\u062A"@fa .
+<http://www.wikidata.org/entity/P275> <http://schema.org/description> "bu telif hakk\u0131 al\u0131nm\u0131\u015F \u00E7al\u0131\u015Fman\u0131n serbest b\u0131rak\u0131ld\u0131\u011F\u0131 lisans"@tr .
+<https://commons.wikimedia.org/value/2bb424b078bc39529fa392aabb91947e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://wikiba.se/ontology#TimeValue> .
+<https://commons.wikimedia.org/value/2bb424b078bc39529fa392aabb91947e> <http://wikiba.se/ontology#timeValue> "2010-09-08T00:00:00Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .
+<https://commons.wikimedia.org/value/2bb424b078bc39529fa392aabb91947e> <http://wikiba.se/ontology#timePrecision> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://commons.wikimedia.org/value/2bb424b078bc39529fa392aabb91947e> <http://wikiba.se/ontology#timeTimezone> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<https://commons.wikimedia.org/value/2bb424b078bc39529fa392aabb91947e> <http://wikiba.se/ontology#timeCalendarModel> <http://www.wikidata.org/entity/Q1985727> .

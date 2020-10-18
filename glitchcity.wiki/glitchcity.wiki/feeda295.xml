@@ -1,0 +1,63 @@
+
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<id>https://glitchcity.wiki/api.php?hidebots=1&amp;urlversion=1&amp;days=7&amp;limit=50&amp;action=feedrecentchanges&amp;feedformat=atom</id>
+	<title>Glitch City Wiki  - Recent changes [en]</title>
+	<link rel="self" type="application/atom+xml" href="https://glitchcity.wiki/api.php?hidebots=1&amp;urlversion=1&amp;days=7&amp;limit=50&amp;action=feedrecentchanges&amp;feedformat=atom"/>
+	<link rel="alternate" type="text/html" href="https://glitchcity.wiki/Special:RecentChanges"/>
+	<updated>2020-10-16T19:25:09Z</updated>
+	<subtitle>Track the most recent changes to the wiki in this feed.</subtitle>
+	<generator>MediaWiki 1.34.2</generator>
+	<entry>
+		<id>https://glitchcity.wiki/index.php?title=GlitchDex/C:000&amp;diff=341249&amp;oldid=7105</id>
+		<title>GlitchDex/C:000</title>
+		<link rel="alternate" type="text/html" href="https://glitchcity.wiki/index.php?title=GlitchDex/C:000&amp;diff=341249&amp;oldid=7105"/>
+		<updated>2020-10-13T21:05:02Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class=&quot;diff diff-contentalign-left&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;Revision as of 21:05, 13 October 2020&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l11&quot; &gt;Line 11:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 11:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;|name={{GN|Pentamark}} [[File:MS 00 FF Crystal.png]]&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;|name={{GN|Pentamark}} [[File:MS 00 FF Crystal.png]]&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;|bulbapedia=[[bp:????? (Crystal 00)|????? (Crystal 00)]]&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;|bulbapedia=[[bp:????? (Crystal 00)|????? (Crystal 00)]]&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt;−&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;|equivalent=[[GlitchDex/GS:000|????? ({{CGold|Gold}}/{{CSilver|Silver}} &lt;del class=&quot;diffchange diffchange-inline&quot;&gt;FF&lt;/del&gt;)]]&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;|equivalent=[[GlitchDex/GS:000|????? ({{CGold|Gold}}/{{CSilver|Silver}} &lt;ins class=&quot;diffchange diffchange-inline&quot;&gt;00&lt;/ins&gt;)]]&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;|equivalentgen1=Rhyhorn&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;|equivalentgen1=Rhyhorn&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;|frontsprite={{GPS|C000 front}}&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;|frontsprite={{GPS|C000 front}}&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>Evie (Torchickens)</name></author>
+		
+	</entry>
+	<entry>
+		<id>https://glitchcity.wiki/index.php?title=ItemDex/RB:084&amp;diff=341248&amp;oldid=8388</id>
+		<title>ItemDex/RB:084</title>
+		<link rel="alternate" type="text/html" href="https://glitchcity.wiki/index.php?title=ItemDex/RB:084&amp;diff=341248&amp;oldid=8388"/>
+		<updated>2020-10-10T01:11:27Z</updated>
+
+		<summary type="html">&lt;p&gt;&lt;/p&gt;
+&lt;table class=&quot;diff diff-contentalign-left&quot; data-mw=&quot;interface&quot;&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;col class=&quot;diff-marker&quot; /&gt;
+				&lt;col class=&quot;diff-content&quot; /&gt;
+				&lt;tr class=&quot;diff-title&quot; lang=&quot;en&quot;&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;← Older revision&lt;/td&gt;
+				&lt;td colspan=&quot;2&quot; style=&quot;background-color: #fff; color: #222; text-align: center;&quot;&gt;Revision as of 01:11, 10 October 2020&lt;/td&gt;
+				&lt;/tr&gt;&lt;tr&gt;&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot; id=&quot;mw-diff-left-l12&quot; &gt;Line 12:&lt;/td&gt;
+&lt;td colspan=&quot;2&quot; class=&quot;diff-lineno&quot;&gt;Line 12:&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[File:B2F glitch item name.png|link=]] (hex:54) is a [[glitch item]] in {{RB}}. Its name is taken from lists of lift destinations.  &lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;[[File:B2F glitch item name.png|link=]] (hex:54) is a [[glitch item]] in {{RB}}. Its name is taken from lists of lift destinations.  &lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt;−&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #ffe49c; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;When used outside of battle, a Poké Ball animation may appear with one of Professor Oak's 'good Pokédex' jingles playing, and the game will use up a stack of this item. The Poké Ball will attempt to catch something and will reveal a glitch sprite, but may fail.&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt;+&lt;/td&gt;&lt;td style=&quot;color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #a3d3ff; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;When used outside of battle, a Poké Ball animation may appear with one of Professor Oak's 'good Pokédex' jingles playing, and the game will use up a stack of this item. The Poké Ball will attempt to catch something and will reveal a glitch sprite, but may fail &lt;ins class=&quot;diffchange diffchange-inline&quot;&gt;(it might actually fail always)&lt;/ins&gt;.&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;When used in battle, it may act as a Poké Ball that always allows the Pokémon to break free.&lt;/div&gt;&lt;/td&gt;&lt;td class='diff-marker'&gt; &lt;/td&gt;&lt;td style=&quot;background-color: #f8f9fa; color: #222; font-size: 88%; border-style: solid; border-width: 1px 1px 1px 4px; border-radius: 0.33em; border-color: #eaecf0; vertical-align: top; white-space: pre-wrap;&quot;&gt;&lt;div&gt;When used in battle, it may act as a Poké Ball that always allows the Pokémon to break free.&lt;/div&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;/table&gt;</summary>
+		<author><name>Evie (Torchickens)</name></author>
+		
+	</entry>
+</feed>
